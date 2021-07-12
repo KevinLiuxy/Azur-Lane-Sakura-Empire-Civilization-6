@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_AZUR_LANE_SE_NAME"
+			Text="重樱帝国"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_AZUR_LANE_SE_DESCRIPTION"
+			Text="碧蓝航线 · 重樱"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_AZUR_LANE_SE_ADJECTIVE"
+			Text="重樱帝国"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_AZUR_LANE_SE_NAME"
+			Text="Skill"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_AZUR_LANE_SE_DESCRIPTION"
+			Text="Placeholder"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_AZUR_LANE_AYANAMI_NAME"
+			Text="碧蓝航线 · 绫波（柚）"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_KISHIN_NAME"
+			Text="鬼神"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_KISHIN_DESCRIPTION"
+			Text="Placeholder"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_AZUR_LANE_YUUDACHI_NAME"
+			Text="碧蓝航线 · 夕立（椿）"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_NAME"
+			Text="所罗门的狂犬"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_DESCRIPTION"
+			Text="Placeholder"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_AZUR_LANE_SHIGURE_NAME"
+			Text="碧蓝航线 · 时雨（栴）"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_NAME"
+			Text="好运陪伴之船"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_DESCRIPTION"
+			Text="Placeholder"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_AZUR_LANE_YUKIKAZE_NAME"
+			Text="碧蓝航线 · 雪风（莲）"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_NAME"
+			Text="不沉的幸运舰"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_DESCRIPTION"
+			Text="Placeholder"/>
+	</LocalizedText>
+</GameData>

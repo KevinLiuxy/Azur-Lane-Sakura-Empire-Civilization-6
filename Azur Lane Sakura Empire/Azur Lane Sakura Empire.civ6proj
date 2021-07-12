@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>MOD_AZUR_LANE_SAKURA_EMPIRE</Name>
+    <Guid>4e13b068-4e9a-4b2c-9e0f-f79b614f20a5</Guid>
+    <ProjectGuid>97cde027-a780-4ea4-b066-cde61fe9bddf</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>LOC_MOD_AZUR_LANE_SAKURA_EMPIRE_TEASER</Teaser>
+    <Description>LOC_MOD_AZUR_LANE_SAKURA_EMPIRE_DESCRIPTION</Description>
+    <Authors>Kevin Liu</Authors>
+    <SpecialThanks>
+    </SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssemblyName>Azur Lane Sakura Empire</AssemblyName>
+    <RootNamespace>Azur Lane Sakura Empire</RootNamespace>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="AZUR_LANE_SE_FRONTEND"><File>Data/Sakura_Empire_Config.sql</File></UpdateDatabase><UpdateColors id="AZUR_LANE_SE_FRONTEND"><File>Data/Sakura_Empire_Colours.sql</File></UpdateColors><UpdateIcons id="AZUR_LANE_SE_FRONTEND"><File>Data/Sakura_Empire_Icons.xml</File></UpdateIcons><UpdateText id="AZUR_LANE_SE_FRONTEND"><File>Text/Config_en_US.xml</File><File>Text/Config_zh_Hans_CN.xml</File></UpdateText><UpdateArt id="AZUR_LANE_SE_FRONTEND"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="AZUR_LANE_SE_INGAME"><File>Data/Sakura_Empire_Civilization.sql</File><File>Data/Sakura_Empire_Leaders.sql</File></UpdateDatabase><UpdateDatabase id="AZUR_LANE_SE_EXPANSION1"><File>Data/Sakura_Empire_Expansion1.sql</File></UpdateDatabase><UpdateDatabase id="AZUR_LANE_SE_EXPANSION2"><File>Data/Sakura_Empire_Expansion2.sql</File></UpdateDatabase><UpdateColors id="AZUR_LANE_SE_INGAME"><File>Data/Sakura_Empire_Colours.sql</File></UpdateColors><UpdateIcons id="AZUR_LANE_SE_INGAME"><File>Data/Sakura_Empire_Icons.xml</File></UpdateIcons><UpdateText id="AZUR_LANE_SE_INGAME"><File>Text/Config_en_US.xml</File><File>Text/Config_zh_Hans_CN.xml</File><File>Text/InGame_en_US.xml</File><File>Text/InGame_zh_Hans_CN.xml</File><File>Text/Leaders_en_US.xml</File><File>Text/Config_zh_Hans_CN.xml</File></UpdateText><UpdateArt id="AZUR_LANE_SE_INGAME"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateAudio id="AZUR_LANE_SE_INGAME" /></InGameActions>]]></InGameActionData>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="Azur Lane Sakura Empire.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ArtDef Include="ArtDefs\Civilization.artdef">
+      <SubType>Content</SubType>
+    </ArtDef>
+    <ArtDef Include="ArtDefs\Culture.artdef">
+      <SubType>Content</SubType>
+    </ArtDef>
+    <ArtDef Include="ArtDefs\FallbackLeaders.artdef">
+      <SubType>Content</SubType>
+    </ArtDef>
+    <ArtDef Include="ArtDefs\Leaders.artdef">
+      <SubType>Content</SubType>
+    </ArtDef>
+    <Content Include="Data\Sakura_Empire_Civilization.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Sakura_Empire_Colours.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Sakura_Empire_Config.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Sakura_Empire_Expansion1.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Sakura_Empire_Expansion2.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Sakura_Empire_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Sakura_Empire_Leaders.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\Config_en_US.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\Config_zh_Hans_CN.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\InGame_en_US.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\InGame_zh_Hans_CN.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\Leaders_en_US.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\Leaders_zh_Hans_CN.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <XLP Include="XLPs\Civilization_Art.xlp">
+      <SubType>Content</SubType>
+    </XLP>
+    <XLP Include="XLPs\FallbackLeaders.xlp">
+      <SubType>Content</SubType>
+    </XLP>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ArtDefs\" />
+    <Folder Include="Data\" />
+    <Folder Include="Text\" />
+    <Folder Include="XLPs\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

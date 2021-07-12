@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<Row Name="ICON_ATLAS_CIVILIZATION_AZUR_LANE_SE" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_256.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_AZUR_LANE_SE" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_200.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_AZUR_LANE_SE" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_128.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_AZUR_LANE_SE" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_80.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_AZUR_LANE_SE" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_64.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_AZUR_LANE_SE" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_50.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_AZUR_LANE_SE" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_48.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_AZUR_LANE_SE" IconSize="44" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_44.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_AZUR_LANE_SE" IconSize="36" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_36.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_AZUR_LANE_SE" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_32.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_AZUR_LANE_SE" IconSize="30" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_30.dds"/>
+		<Row Name="ICON_ATLAS_CIVILIZATION_AZUR_LANE_SE" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_22.dds"/>
+
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_AYANAMI" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_AYANAMI_256.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_AYANAMI" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_AYANAMI_80.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_AYANAMI" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_AYANAMI_64.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_AYANAMI" IconSize="55" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_AYANAMI_55.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_AYANAMI" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_AYANAMI_50.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_AYANAMI" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_AYANAMI_48.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_AYANAMI" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_AYANAMI_45.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_AYANAMI" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_AYANAMI_32.dds"/>
+
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_YUUDACHI" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_YUUDACHI_256.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_YUUDACHI" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_YUUDACHI_80.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_YUUDACHI" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_YUUDACHI_64.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_YUUDACHI" IconSize="55" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_YUUDACHI_55.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_YUUDACHI" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_YUUDACHI_50.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_YUUDACHI" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_YUUDACHI_48.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_YUUDACHI" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_YUUDACHI_45.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_YUUDACHI" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_YUUDACHI_32.dds"/>
+
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_SHIGURE" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_SHIGURE_256.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_SHIGURE" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_SHIGURE_80.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_SHIGURE" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_SHIGURE_64.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_SHIGURE" IconSize="55" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_SHIGURE_55.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_SHIGURE" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_SHIGURE_50.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_SHIGURE" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_SHIGURE_48.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_SHIGURE" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_SHIGURE_45.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_SHIGURE" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_SHIGURE_32.dds"/>
+
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_YUKIKAZE" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_YUKIKAZE_256.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_YUKIKAZE" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_YUKIKAZE_80.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_YUKIKAZE" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_YUKIKAZE_64.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_YUKIKAZE" IconSize="55" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_YUKIKAZE_55.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_YUKIKAZE" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_YUKIKAZE_50.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_YUKIKAZE" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_YUKIKAZE_48.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_YUKIKAZE" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_YUKIKAZE_45.dds"/>
+		<Row Name="ICON_ATLAS_LEADER_AZUR_LANE_YUKIKAZE" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADER_AL_YUKIKAZE_32.dds"/>
+	</IconTextureAtlases>
+
+	<IconDefinitions>
+		<Row Name="ICON_CIVILIZATION_AZUR_LANE_SE" Atlas="ICON_ATLAS_CIVILIZATION_AZUR_LANE_SE" index="0"/>
+		<Row Name="ICON_LEADER_AZUR_LANE_AYANAMI" Atlas="ICON_ATLAS_LEADER_AZUR_LANE_AYANAMI" index="0"/>
+		<Row Name="ICON_LEADER_AZUR_LANE_YUUDACHI" Atlas="ICON_ATLAS_LEADER_AZUR_LANE_YUUDACHI" index="0"/>
+		<Row Name="ICON_LEADER_AZUR_LANE_SHIGURE" Atlas="ICON_ATLAS_LEADER_AZUR_LANE_SHIGURE" index="0"/>
+		<Row Name="ICON_LEADER_AZUR_LANE_YUKIKAZE" Atlas="ICON_ATLAS_LEADER_AZUR_LANE_YUKIKAZE" index="0"/>
+	</IconDefinitions>
+</GameData>

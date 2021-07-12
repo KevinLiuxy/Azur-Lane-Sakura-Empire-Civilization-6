@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="Civilization_Art"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_AYANAMI_256"/>
+			<m_ObjectName text="ICON_LEADER_AL_AYANAMI_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_AYANAMI_32"/>
+			<m_ObjectName text="ICON_LEADER_AL_AYANAMI_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_AYANAMI_45"/>
+			<m_ObjectName text="ICON_LEADER_AL_AYANAMI_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_AYANAMI_48"/>
+			<m_ObjectName text="ICON_LEADER_AL_AYANAMI_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_AYANAMI_50"/>
+			<m_ObjectName text="ICON_LEADER_AL_AYANAMI_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_AYANAMI_55"/>
+			<m_ObjectName text="ICON_LEADER_AL_AYANAMI_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_AYANAMI_64"/>
+			<m_ObjectName text="ICON_LEADER_AL_AYANAMI_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_AYANAMI_80"/>
+			<m_ObjectName text="ICON_LEADER_AL_AYANAMI_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_YUUDACHI_256"/>
+			<m_ObjectName text="ICON_LEADER_AL_YUUDACHI_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_YUUDACHI_32"/>
+			<m_ObjectName text="ICON_LEADER_AL_YUUDACHI_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_YUUDACHI_45"/>
+			<m_ObjectName text="ICON_LEADER_AL_YUUDACHI_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_YUUDACHI_48"/>
+			<m_ObjectName text="ICON_LEADER_AL_YUUDACHI_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_YUUDACHI_50"/>
+			<m_ObjectName text="ICON_LEADER_AL_YUUDACHI_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_YUUDACHI_55"/>
+			<m_ObjectName text="ICON_LEADER_AL_YUUDACHI_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_YUUDACHI_64"/>
+			<m_ObjectName text="ICON_LEADER_AL_YUUDACHI_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_YUUDACHI_80"/>
+			<m_ObjectName text="ICON_LEADER_AL_YUUDACHI_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_SHIGURE_256"/>
+			<m_ObjectName text="ICON_LEADER_AL_SHIGURE_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_SHIGURE_32"/>
+			<m_ObjectName text="ICON_LEADER_AL_SHIGURE_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_SHIGURE_45"/>
+			<m_ObjectName text="ICON_LEADER_AL_SHIGURE_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_SHIGURE_48"/>
+			<m_ObjectName text="ICON_LEADER_AL_SHIGURE_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_SHIGURE_50"/>
+			<m_ObjectName text="ICON_LEADER_AL_SHIGURE_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_SHIGURE_55"/>
+			<m_ObjectName text="ICON_LEADER_AL_SHIGURE_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_SHIGURE_64"/>
+			<m_ObjectName text="ICON_LEADER_AL_SHIGURE_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_SHIGURE_80"/>
+			<m_ObjectName text="ICON_LEADER_AL_SHIGURE_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_YUKIKAZE_256"/>
+			<m_ObjectName text="ICON_LEADER_AL_YUKIKAZE_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_YUKIKAZE_32"/>
+			<m_ObjectName text="ICON_LEADER_AL_YUKIKAZE_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_YUKIKAZE_45"/>
+			<m_ObjectName text="ICON_LEADER_AL_YUKIKAZE_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_YUKIKAZE_48"/>
+			<m_ObjectName text="ICON_LEADER_AL_YUKIKAZE_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_YUKIKAZE_50"/>
+			<m_ObjectName text="ICON_LEADER_AL_YUKIKAZE_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_YUKIKAZE_55"/>
+			<m_ObjectName text="ICON_LEADER_AL_YUKIKAZE_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_YUKIKAZE_64"/>
+			<m_ObjectName text="ICON_LEADER_AL_YUKIKAZE_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_AL_YUKIKAZE_80"/>
+			<m_ObjectName text="ICON_LEADER_AL_YUKIKAZE_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PORTRAIT_LEADER_AL_AYANAMI"/>
+			<m_ObjectName text="PORTRAIT_LEADER_AL_AYANAMI"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PORTRAIT_LEADER_AL_SHIGURE"/>
+			<m_ObjectName text="PORTRAIT_LEADER_AL_SHIGURE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PORTRAIT_LEADER_AL_YUUDACHI"/>
+			<m_ObjectName text="PORTRAIT_LEADER_AL_YUUDACHI"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PORTRAIT_LEADER_AL_YUKIKAZE"/>
+			<m_ObjectName text="PORTRAIT_LEADER_AL_YUKIKAZE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_128"/>
+			<m_ObjectName text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_200"/>
+			<m_ObjectName text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_22"/>
+			<m_ObjectName text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_256"/>
+			<m_ObjectName text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_30"/>
+			<m_ObjectName text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_32"/>
+			<m_ObjectName text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_36"/>
+			<m_ObjectName text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_44"/>
+			<m_ObjectName text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_48"/>
+			<m_ObjectName text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_50"/>
+			<m_ObjectName text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_64"/>
+			<m_ObjectName text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_80"/>
+			<m_ObjectName text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_80"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+		<Element>LINUX</Element>
+		<Element>XBONE</Element>
+		<Element>PS4</Element>
+		<Element>SWITCH</Element>
+		<Element>STADIA</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+
