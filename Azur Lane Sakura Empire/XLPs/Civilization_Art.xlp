@@ -201,16 +201,63 @@
 			<m_EntryID text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_80"/>
 			<m_ObjectName text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_80"/>
 		</Element>
+		<Element>
+			<m_EntryID text="LOADING_FOREGROUND_AL_AYANAMI"/>
+			<m_ObjectName text="LOADING_FOREGROUND_AL_AYANAMI"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOADING_FOREGROUND_AL_SHIGURE"/>
+			<m_ObjectName text="LOADING_FOREGROUND_AL_SHIGURE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOADING_FOREGROUND_AL_YUKIKAZE"/>
+			<m_ObjectName text="LOADING_FOREGROUND_AL_YUKIKAZE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOADING_FOREGROUND_AL_YUUDACHI"/>
+			<m_ObjectName text="LOADING_FOREGROUND_AL_YUUDACHI"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOADING_BACKGROUND_SAKURA_EMPIRE"/>
+			<m_ObjectName text="LOADING_BACKGROUND_SAKURA_EMPIRE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="AZUR_LANE_AYANAMI_1"/>
+			<m_ObjectName text="INGAME_BACKGROUND_SAKURA_EMPIRE_1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="AZUR_LANE_AYANAMI_2"/>
+			<m_ObjectName text="INGAME_BACKGROUND_SAKURA_EMPIRE_2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="AZUR_LANE_YUUDACHI_1"/>
+			<m_ObjectName text="INGAME_BACKGROUND_SAKURA_EMPIRE_1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="AZUR_LANE_YUUDACHI_2"/>
+			<m_ObjectName text="INGAME_BACKGROUND_SAKURA_EMPIRE_2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="AZUR_LANE_SHIGURE_1"/>
+			<m_ObjectName text="INGAME_BACKGROUND_SAKURA_EMPIRE_1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="AZUR_LANE_SHIGURE_2"/>
+			<m_ObjectName text="INGAME_BACKGROUND_SAKURA_EMPIRE_2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="AZUR_LANE_YUKIKAZE_1"/>
+			<m_ObjectName text="INGAME_BACKGROUND_SAKURA_EMPIRE_1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="AZUR_LANE_YUKIKAZE_2"/>
+			<m_ObjectName text="INGAME_BACKGROUND_SAKURA_EMPIRE_2"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>
 		<Element>MACOS</Element>
 		<Element>IOS</Element>
 		<Element>LINUX</Element>
-		<Element>XBONE</Element>
-		<Element>PS4</Element>
-		<Element>SWITCH</Element>
-		<Element>STADIA</Element>
 	</m_AllowedPlatforms>
 </AssetObjects..XLP>
-

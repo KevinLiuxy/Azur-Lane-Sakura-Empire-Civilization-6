@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-
+		<Replace Language="zh_Hans_CN" Tag="LOC_LEADER_AZUR_LANE_AYANAMI_NAME" Text="绫波"/>
+		<Replace Language="zh_Hans_CN" Tag="LOC_LEADER_AZUR_LANE_YUUDACHI_NAME" Text="夕立"/>
+		<Replace Language="zh_Hans_CN" Tag="LOC_LEADER_AZUR_LANE_SHIGURE_NAME" Text="时雨"/>
+		<Replace Language="zh_Hans_CN" Tag="LOC_LEADER_AZUR_LANE_YUKIKAZE_NAME" Text="雪风"/>
 	</LocalizedText>
 </GameData>
