@@ -19,7 +19,7 @@
     <AssemblyName>Azur Lane Sakura Empire</AssemblyName>
     <RootNamespace>Azur Lane Sakura Empire</RootNamespace>
     <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="AZUR_LANE_SE_FRONTEND"><File>Data/Sakura_Empire_Config.sql</File></UpdateDatabase><UpdateColors id="AZUR_LANE_SE_FRONTEND"><File>Data/Sakura_Empire_Colours.sql</File></UpdateColors><UpdateIcons id="AZUR_LANE_SE_FRONTEND"><File>Data/Sakura_Empire_Icons.xml</File></UpdateIcons><UpdateText id="AZUR_LANE_SE_FRONTEND"><File>Text/Config_en_US.xml</File><File>Text/Config_zh_Hans_CN.xml</File></UpdateText><UpdateArt id="AZUR_LANE_SE_FRONTEND"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
-    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="AZUR_LANE_SE_INGAME"><File>Data/Sakura_Empire_Civilization.sql</File><File>Data/Sakura_Empire_Leaders.sql</File></UpdateDatabase><UpdateDatabase id="AZUR_LANE_SE_EXPANSION1"><File>Data/Sakura_Empire_Expansion1.sql</File></UpdateDatabase><UpdateDatabase id="AZUR_LANE_SE_EXPANSION2"><File>Data/Sakura_Empire_Expansion2.sql</File></UpdateDatabase><UpdateColors id="AZUR_LANE_SE_INGAME"><File>Data/Sakura_Empire_Colours.sql</File></UpdateColors><UpdateIcons id="AZUR_LANE_SE_INGAME"><File>Data/Sakura_Empire_Icons.xml</File></UpdateIcons><UpdateText id="AZUR_LANE_SE_INGAME"><File>Text/Config_en_US.xml</File><File>Text/Config_zh_Hans_CN.xml</File><File>Text/InGame_en_US.xml</File><File>Text/InGame_zh_Hans_CN.xml</File><File>Text/Leaders_en_US.xml</File><File>Text/Config_zh_Hans_CN.xml</File></UpdateText><UpdateArt id="AZUR_LANE_SE_INGAME"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateAudio id="AZUR_LANE_SE_INGAME" /></InGameActions>]]></InGameActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="AZUR_LANE_SE_INGAME"><File>Data/Sakura_Empire_Civilization.sql</File><File>Data/Sakura_Empire_Leaders.sql</File></UpdateDatabase><UpdateDatabase id="AZUR_LANE_SE_EXPANSION1"><File>Data/Sakura_Empire_Expansion1.sql</File></UpdateDatabase><UpdateDatabase id="AZUR_LANE_SE_EXPANSION2"><File>Data/Sakura_Empire_Expansion2.sql</File></UpdateDatabase><UpdateColors id="AZUR_LANE_SE_INGAME"><File>Data/Sakura_Empire_Colours.sql</File></UpdateColors><UpdateIcons id="AZUR_LANE_SE_INGAME"><File>Data/Sakura_Empire_Icons.xml</File></UpdateIcons><UpdateText id="AZUR_LANE_SE_INGAME"><File>Text/Config_en_US.xml</File><File>Text/Config_zh_Hans_CN.xml</File><File>Text/InGame_en_US.xml</File><File>Text/InGame_zh_Hans_CN.xml</File><File>Text/Leaders_en_US.xml</File><File>Text/Leaders_zh_Hans_CN.xml</File></UpdateText><UpdateArt id="AZUR_LANE_SE_INGAME"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateAudio id="AZUR_LANE_SE_INGAME"><File>Platforms/MacOS/Audio/Azur_Lane_Sakura_Empire_Audio.ini</File><File>Platforms/MacOS/Audio/Azur_Lane_Sakura_Empire_Audio.xml</File><File>Platforms/MacOS/Audio/Azur_Lane_Sakura_Empire_Audio.bnk</File><File>Platforms/Windows/Audio/Azur_Lane_Sakura_Empire_Audio.ini</File><File>Platforms/Windows/Audio/Azur_Lane_Sakura_Empire_Audio.xml</File><File>Platforms/Windows/Audio/Azur_Lane_Sakura_Empire_Audio.bnk</File></UpdateAudio></InGameActions>]]></InGameActionData>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
@@ -38,6 +38,15 @@
       <SubType>Content</SubType>
     </ArtDef>
     <ArtDef Include="ArtDefs\Leaders.artdef">
+      <SubType>Content</SubType>
+    </ArtDef>
+    <ArtDef Include="ArtDefs\Building.artdef">
+      <SubType>Content</SubType>
+    </ArtDef>
+    <ArtDef Include="ArtDefs\District.artdef">
+      <SubType>Content</SubType>
+    </ArtDef>
+    <ArtDef Include="ArtDefs\Units.artdef">
       <SubType>Content</SubType>
     </ArtDef>
     <Content Include="Data\Sakura_Empire_Civilization.sql">
@@ -59,6 +68,48 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Data\Sakura_Empire_Leaders.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\1067645851.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\481624135.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\757188491.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\766742123.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\Azur_Lane_Sakura_Empire_Audio.bnk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\Azur_Lane_Sakura_Empire_Audio.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\MacOS\Audio\Azur_Lane_Sakura_Empire_Audio.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\1067645851.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\481624135.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\757188491.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\766742123.wem">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\Azur_Lane_Sakura_Empire_Audio.bnk">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\Azur_Lane_Sakura_Empire_Audio.ini">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Platforms\Windows\Audio\Azur_Lane_Sakura_Empire_Audio.xml">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Text\Config_en_US.xml">
@@ -89,6 +140,11 @@
   <ItemGroup>
     <Folder Include="ArtDefs\" />
     <Folder Include="Data\" />
+    <Folder Include="Platforms\" />
+    <Folder Include="Platforms\MacOS\" />
+    <Folder Include="Platforms\MacOS\Audio\" />
+    <Folder Include="Platforms\Windows\" />
+    <Folder Include="Platforms\Windows\Audio\" />
     <Folder Include="Text\" />
     <Folder Include="XLPs\" />
   </ItemGroup>

@@ -10,6 +10,9 @@
       <relativeArtDefPaths>
         <Element text="Civilization.artdef"/>
         <Element text="Culture.artdef"/>
+        <Element text="Building.artdef"/>
+        <Element text="District.artdef"/>
+        <Element text="Units.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="Unit"/>
@@ -33,6 +36,8 @@
       <relativeArtDefPaths>
         <Element text="Civilization.artdef"/>
         <Element text="Culture.artdef"/>
+        <Element text="Building.artdef"/>
+        <Element text="District.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="CityBuildings"/>
@@ -73,6 +78,8 @@
       <relativeArtDefPaths>
         <Element text="Civilization.artdef"/>
         <Element text="Culture.artdef"/>
+        <Element text="Building.artdef"/>
+        <Element text="District.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="StrategicView_Sprite"/>
@@ -85,6 +92,8 @@
       <relativeArtDefPaths>
         <Element text="Civilization.artdef"/>
         <Element text="Culture.artdef"/>
+        <Element text="Building.artdef"/>
+        <Element text="District.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="StrategicView_Route"/>
@@ -201,6 +210,8 @@
       <relativeArtDefPaths>
         <Element text="Civilization.artdef"/>
         <Element text="Culture.artdef"/>
+        <Element text="Building.artdef"/>
+        <Element text="District.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="VFX"/>
@@ -289,6 +300,8 @@
       <relativeArtDefPaths>
         <Element text="Civilization.artdef"/>
         <Element text="Culture.artdef"/>
+        <Element text="Building.artdef"/>
+        <Element text="District.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies/>
       <loadsLibraries>false</loadsLibraries>
@@ -298,6 +311,8 @@
       <relativeArtDefPaths>
         <Element text="Civilization.artdef"/>
         <Element text="Culture.artdef"/>
+        <Element text="Building.artdef"/>
+        <Element text="District.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies/>
       <loadsLibraries>false</loadsLibraries>
@@ -308,6 +323,9 @@
         <Element text="Civilization.artdef"/>
         <Element text="Culture.artdef"/>
         <Element text="Leaders.artdef"/>
+        <Element text="Building.artdef"/>
+        <Element text="District.artdef"/>
+        <Element text="Units.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies/>
       <loadsLibraries>false</loadsLibraries>

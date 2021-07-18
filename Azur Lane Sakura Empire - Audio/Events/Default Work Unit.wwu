@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F38C3B0C-DE6C-44A3-836F-E7A8E12DF507}" SchemaVersion="70">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{F38C3B0C-DE6C-44A3-836F-E7A8E12DF507}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_Music_AZUR_LANE_SE" ID="{D9B01833-C159-431B-B1B6-1873D0F1D0AA}">
+					<ChildrenList>
+						<Action Name="Play" ID="{497650B5-FB1B-4A93-AD11-0CB6BEF82C4F}" ShortID="900595780" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{5C715BE6-645B-4DE7-BB91-20969C0263E0}" Global="false">
+									<ObjectRef Name="Era Music" ID="{39CACD11-EA05-4D92-9DC9-80F62CD9290D}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Stop" ID="{F37839E1-25F2-4D7E-9B44-FDB3D0BB3C3C}" ShortID="633145615" Type="Stop" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{EBA7DCBE-C4A5-4950-A6E0-496E598C0701}" Global="true">
+									<ObjectRef Name="ID276876398" ID="{CA447C83-6459-4F8D-AA9C-4FF2F641FC4A}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Stop" ID="{89F751F5-88BA-495C-A045-7AB14D38E62B}" ShortID="90879961" Type="Stop" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{EA4DCBEA-D702-430F-B81D-4D93D345C5BB}" Global="true">
+									<ObjectRef Name="ID409025991" ID="{7CF65FC9-D36F-4DEE-A49A-B96287271FFC}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Stop" ID="{027CE849-E493-49B8-B017-ADC6A2611522}" ShortID="215746777" Type="Stop" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{D465B745-7FB3-4D2C-B01E-0A3F89517E43}" Global="true">
+									<ObjectRef Name="ID552184141" ID="{08D62E03-3688-449F-9C67-C57F7ACC93BF}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Leader_Music_AZUR_LANE_SE" ID="{4BE8848C-3C61-45C5-B091-B812B28B02CC}">
+					<ChildrenList>
+						<Action Name="Play" ID="{98059731-4169-4948-9F08-4C765EB84188}" ShortID="417147254" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{DB077D28-57F7-409C-854B-4150DA2E40DB}" Global="false">
+									<ObjectRef Name="Leader Music" ID="{C1D55118-F3A3-4C0A-A031-50946E957E1C}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Pause" ID="{CBF7593B-B00D-432B-A478-FFA98580872D}" ShortID="493053195" Type="Pause" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{8A394F44-0F7C-4769-8707-EE3B92C70A81}" Global="true">
+									<ObjectRef Name="ID276876398" ID="{CA447C83-6459-4F8D-AA9C-4FF2F641FC4A}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Pause" ID="{A03B5C19-46A7-4FA0-902E-62A62E671F38}" ShortID="514224583" Type="Pause" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{61167D6B-ECAF-4DA6-89D6-84410D2730FF}" Global="true">
+									<ObjectRef Name="ID409025991" ID="{7CF65FC9-D36F-4DEE-A49A-B96287271FFC}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Pause" ID="{45C643BF-0E74-4794-A362-F20DD41E2EF8}" ShortID="347953469" Type="Pause" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{DAE60BE9-82F9-4926-9141-FE9AF3066903}" Global="true">
+									<ObjectRef Name="ID552184141" ID="{08D62E03-3688-449F-9C67-C57F7ACC93BF}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Pause_Music_AZUR_LANE_SE" ID="{49C3E9AD-7CC9-44CC-9F4C-A35CF1B7EB02}">
+					<ChildrenList>
+						<Action Name="Pause" ID="{422162D2-2CA2-4B09-9819-E2C3B84AC24E}" ShortID="833805668" Type="Pause" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{6C298837-6FA9-4D00-943B-0F81F01C3E7F}" Global="false">
+									<ObjectRef Name="Era Music" ID="{39CACD11-EA05-4D92-9DC9-80F62CD9290D}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Pause" ID="{DDFFA4E5-136A-4C6E-9291-7F849901C08B}" ShortID="41994407" Type="Pause" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{1C9027E7-7F10-46CF-B310-4D7E5161C036}" Global="true">
+									<ObjectRef Name="ID276876398" ID="{CA447C83-6459-4F8D-AA9C-4FF2F641FC4A}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Pause" ID="{7B506927-0224-4CD0-AA7A-16100084C9CF}" ShortID="798699474" Type="Pause" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{9E68A715-0553-4E78-8797-5FF94D9F85C4}" Global="true">
+									<ObjectRef Name="ID409025991" ID="{7CF65FC9-D36F-4DEE-A49A-B96287271FFC}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Pause" ID="{234F505D-D77A-48BD-92F2-EB1E06110870}" ShortID="1047885894" Type="Pause" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{48FCD942-4C1F-4C0C-8E0D-BF092784140C}" Global="true">
+									<ObjectRef Name="ID552184141" ID="{08D62E03-3688-449F-9C67-C57F7ACC93BF}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Resume_Music_AZUR_LANE_SE" ID="{9CA62E80-BCD4-4D53-80F9-FAF9FA0C896A}">
+					<ChildrenList>
+						<Action Name="Resume" ID="{3AAC5D1B-E2E8-4726-8C5F-0DC0F6B792DB}" ShortID="760385351" Type="Resume" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{3689FA5E-CD05-4DD8-8076-CECCDD777EF2}" Global="false">
+									<ObjectRef Name="Era Music" ID="{39CACD11-EA05-4D92-9DC9-80F62CD9290D}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Resume" ID="{96803CEE-08CA-4C34-9041-988FA74CB23C}" ShortID="844756741" Type="Resume" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{693B65F7-A961-48F0-A0D4-6C06CF5B089E}" Global="true">
+									<ObjectRef Name="ID276876398" ID="{CA447C83-6459-4F8D-AA9C-4FF2F641FC4A}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Resume" ID="{D517CABF-26EC-4A39-AAA1-1C20E3CDCB4B}" ShortID="738117359" Type="Resume" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{6CE390F4-A819-4909-A7F2-C59AB80A299E}" Global="true">
+									<ObjectRef Name="ID409025991" ID="{7CF65FC9-D36F-4DEE-A49A-B96287271FFC}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Resume" ID="{5E4D6DAD-3697-4FE8-9963-C2F174443E88}" ShortID="273456903" Type="Resume" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{02840714-5348-44A3-AC49-200D6715E5E2}" Global="true">
+									<ObjectRef Name="ID552184141" ID="{08D62E03-3688-449F-9C67-C57F7ACC93BF}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Music_AZUR_LANE_SE" ID="{0A499B48-098E-497B-A7C1-42895EDACF72}">
+					<ChildrenList>
+						<Action Name="Stop" ID="{E3C687E0-9028-40E5-BA7C-EA6874C99766}" ShortID="723796574" Type="Stop" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{B6018D17-1BFB-4381-A980-FBE7024EDE85}" Global="false">
+									<ObjectRef Name="Era Music" ID="{39CACD11-EA05-4D92-9DC9-80F62CD9290D}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Stop" ID="{BBB6183A-BDF0-4508-AA96-9A7B5227570D}" ShortID="526487917" Type="Stop" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{5D115653-2B80-49B9-8B64-5366D78F81E7}" Global="true">
+									<ObjectRef Name="ID552184141" ID="{08D62E03-3688-449F-9C67-C57F7ACC93BF}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Leader_Music_AZUR_LANE_SE" ID="{26095CF5-CEAB-486C-A24B-977C7BD9A3B8}">
+					<ChildrenList>
+						<Action Name="Stop" ID="{5FDC4164-CEF2-4A3D-8421-15857E426318}" ShortID="76483193" Type="Stop" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{164A59D1-1571-42CA-B59C-A257BFB840AB}" Global="false">
+									<ObjectRef Name="Leader Music" ID="{C1D55118-F3A3-4C0A-A031-50946E957E1C}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Resume" ID="{E32C5CE1-4680-4FF0-B1A0-57AFFA22BA1E}" ShortID="974924185" Type="Resume" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{474D7D2C-1691-4DE6-83F2-2DA03DA9EB4E}" Global="true">
+									<ObjectRef Name="ID276876398" ID="{CA447C83-6459-4F8D-AA9C-4FF2F641FC4A}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Resume" ID="{14D8B320-EFEE-4F3D-A6DE-1C5E59BAE0F1}" ShortID="1926267" Type="Resume" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{1F577DDD-16E2-4E90-BE15-80AF4EDAABA5}" Global="true">
+									<ObjectRef Name="ID409025991" ID="{7CF65FC9-D36F-4DEE-A49A-B96287271FFC}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+						<Action Name="Resume" ID="{AA369A02-F29A-45A3-8925-E820D1AE82EA}" ShortID="442941253" Type="Resume" Scope="One" Global="true">
+							<ElementList>
+								<Element ID="{73CDD095-E145-4B35-B0F1-1F1D9BB49D17}" Global="true">
+									<ObjectRef Name="ID552184141" ID="{08D62E03-3688-449F-9C67-C57F7ACC93BF}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Start_Music_AZUR_LANE_SE" ID="{09715CE2-1D3C-47E8-B037-EDD078158AC3}">
+					<ChildrenList>
+						<Action Name="Play" ID="{31275BE8-261D-4023-952A-5D4D77A31175}" ShortID="1072396814" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{357FFF8B-1827-497D-BB60-9258C735BD85}" Global="false">
+									<ObjectRef Name="Era Music" ID="{39CACD11-EA05-4D92-9DC9-80F62CD9290D}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

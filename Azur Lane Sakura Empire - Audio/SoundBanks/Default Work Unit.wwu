@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2E863A01-69D9-497B-8637-C4942EE684B1}" SchemaVersion="70">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{2E863A01-69D9-497B-8637-C4942EE684B1}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Azur_Lane_Sakura_Empire_Audio" ID="{5F2194B2-DBC8-4EA0-BFCE-1625092B60F6}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Music_AZUR_LANE_SE" ID="{D9B01833-C159-431B-B1B6-1873D0F1D0AA}" WorkUnitID="{F38C3B0C-DE6C-44A3-836F-E7A8E12DF507}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Stop_Music_AZUR_LANE_SE" ID="{0A499B48-098E-497B-A7C1-42895EDACF72}" WorkUnitID="{F38C3B0C-DE6C-44A3-836F-E7A8E12DF507}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Resume_Music_AZUR_LANE_SE" ID="{9CA62E80-BCD4-4D53-80F9-FAF9FA0C896A}" WorkUnitID="{F38C3B0C-DE6C-44A3-836F-E7A8E12DF507}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Leader_Music_AZUR_LANE_SE" ID="{4BE8848C-3C61-45C5-B091-B812B28B02CC}" WorkUnitID="{F38C3B0C-DE6C-44A3-836F-E7A8E12DF507}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Pause_Music_AZUR_LANE_SE" ID="{49C3E9AD-7CC9-44CC-9F4C-A35CF1B7EB02}" WorkUnitID="{F38C3B0C-DE6C-44A3-836F-E7A8E12DF507}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Start_Music_AZUR_LANE_SE" ID="{09715CE2-1D3C-47E8-B037-EDD078158AC3}" WorkUnitID="{F38C3B0C-DE6C-44A3-836F-E7A8E12DF507}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Stop_Leader_Music_AZUR_LANE_SE" ID="{26095CF5-CEAB-486C-A24B-977C7BD9A3B8}" WorkUnitID="{F38C3B0C-DE6C-44A3-836F-E7A8E12DF507}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}" SchemaVersion="70">
+	<InteractiveMusic>
+		<WorkUnit Name="Default Work Unit" ID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}" PersistMode="Standalone">
+			<ChildrenList>
+				<MusicSwitchContainer Name="ID658623902" ID="{E90954F9-22DF-4B1A-9D95-558A47DB6CC3}" ShortID="658623902">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Music Bus" ID="{E46866F4-9A81-4EA4-907E-C7ECFBB8F285}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<MusicSwitchContainer Name="ID276876398" ID="{CA447C83-6459-4F8D-AA9C-4FF2F641FC4A}" ShortID="276876398">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+								</Reference>
+							</ReferenceList>
+							<TransitionList>
+								<MusicTransition Name="Root" ID="{2F259DF1-C170-4145-8687-7315E0A6DF40}">
+									<PropertyList>
+										<Property Name="IsFolder" Type="bool" Value="True"/>
+									</PropertyList>
+									<ChildrenList>
+										<MusicTransition Name="Transition" ID="{53F93018-ABC8-400C-A3BA-5D4F5FE5424C}">
+											<TransitionInfo/>
+										</MusicTransition>
+									</ChildrenList>
+									<TransitionInfo/>
+								</MusicTransition>
+							</TransitionList>
+						</MusicSwitchContainer>
+						<MusicSwitchContainer Name="ID409025991" ID="{7CF65FC9-D36F-4DEE-A49A-B96287271FFC}" ShortID="409025991">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+								</Reference>
+							</ReferenceList>
+							<TransitionList>
+								<MusicTransition Name="Root" ID="{331600D9-28EB-4302-9D37-5384CC340194}">
+									<PropertyList>
+										<Property Name="IsFolder" Type="bool" Value="True"/>
+									</PropertyList>
+									<ChildrenList>
+										<MusicTransition Name="Transition" ID="{0208512E-5D9D-429E-9387-7AB2CD698988}">
+											<TransitionInfo/>
+										</MusicTransition>
+									</ChildrenList>
+									<TransitionInfo/>
+								</MusicTransition>
+							</TransitionList>
+						</MusicSwitchContainer>
+						<MusicSwitchContainer Name="ID552184141" ID="{08D62E03-3688-449F-9C67-C57F7ACC93BF}" ShortID="552184141">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+								</Reference>
+							</ReferenceList>
+							<TransitionList>
+								<MusicTransition Name="Root" ID="{0243F8DA-8D41-4EC0-852E-F3AB3ABED745}">
+									<PropertyList>
+										<Property Name="IsFolder" Type="bool" Value="True"/>
+									</PropertyList>
+									<ChildrenList>
+										<MusicTransition Name="Transition" ID="{AF4BA390-FC24-4CDD-BAF8-2399ACD94368}">
+											<TransitionInfo/>
+										</MusicTransition>
+									</ChildrenList>
+									<TransitionInfo/>
+								</MusicTransition>
+							</TransitionList>
+						</MusicSwitchContainer>
+					</ChildrenList>
+					<TransitionList>
+						<MusicTransition Name="Root" ID="{6B271370-BD6B-4B3E-89FF-DD8D3BA1DDAB}">
+							<PropertyList>
+								<Property Name="IsFolder" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<MusicTransition Name="Transition" ID="{EC2D8464-0F29-433D-AE31-20E2013CF53C}">
+									<TransitionInfo/>
+								</MusicTransition>
+							</ChildrenList>
+							<TransitionInfo/>
+						</MusicTransition>
+					</TransitionList>
+				</MusicSwitchContainer>
+				<MusicSwitchContainer Name="Era Music" ID="{39CACD11-EA05-4D92-9DC9-80F62CD9290D}" ShortID="460082945">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Music Bus" ID="{E46866F4-9A81-4EA4-907E-C7ECFBB8F285}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<MusicPlaylistContainer Name="01 Ancient Era" ID="{EC56A46D-A1FC-40DF-98C2-FA6C39F34953}" ShortID="744301351">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicSegment Name="Music Segment" ID="{4433693E-DCE2-4ABE-91CD-DA586C165AAE}" ShortID="482450261">
+									<PropertyList>
+										<Property Name="EndPosition" Type="Real64" Value="478894.149659864"/>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-14</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<MusicTrack Name="Sakura Empire Ancient Era" ID="{365BADE8-7DB1-4654-B260-88336E1D0111}" ShortID="237563555">
+											<PropertyList>
+												<Property Name="IsNonCachable" Type="bool">
+													<ValueList>
+														<Value>True</Value>
+													</ValueList>
+												</Property>
+												<Property Name="IsStreamingEnabled" Type="bool">
+													<ValueList>
+														<Value>True</Value>
+													</ValueList>
+												</Property>
+												<Property Name="LookAheadTime" Type="int16">
+													<ValueList>
+														<Value>250</Value>
+													</ValueList>
+												</Property>
+												<Property Name="PreFetchLength" Type="int16">
+													<ValueList>
+														<Value>250</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Sakura Empire Ancient Era" ID="{3AF35DB1-A470-4F50-9969-DC93E420AD99}" ShortID="766742123">
+													<Language>SFX</Language>
+													<AudioFile>Sakura Empire Ancient Era.wav</AudioFile>
+												</AudioFileSource>
+											</ChildrenList>
+											<TransitionList>
+												<MusicTransition Name="Root" ID="{4E9A2741-E60C-4C64-A087-29AFFD013ED2}">
+													<PropertyList>
+														<Property Name="IsFolder" Type="bool" Value="True"/>
+													</PropertyList>
+													<TransitionInfo/>
+												</MusicTransition>
+											</TransitionList>
+											<SequenceList>
+												<MusicTrackSequence Name="" ID="{E9A5706E-AAE4-4ACF-A108-A97CB69F7EDD}">
+													<ClipList>
+														<MusicClip Name="Sakura Empire Ancient Era" ID="{315F6096-30FF-4462-BA98-28C6B63E2225}">
+															<PropertyList>
+																<Property Name="EndTrimOffset" Type="Real64" Value="478894.149659864"/>
+																<Property Name="FadeInMode" Type="int16" Value="0"/>
+																<Property Name="FadeOutMode" Type="int16" Value="0"/>
+															</PropertyList>
+															<AudioSourceRef Name="Sakura Empire Ancient Era" ID="{3AF35DB1-A470-4F50-9969-DC93E420AD99}"/>
+														</MusicClip>
+													</ClipList>
+												</MusicTrackSequence>
+											</SequenceList>
+										</MusicTrack>
+									</ChildrenList>
+									<CueList>
+										<MusicCue Name="Entry Cue" ID="{2613106C-83AF-4B66-837C-4EA86DC37F48}"/>
+										<MusicCue Name="Exit Cue" ID="{999EA0A5-E553-4C8D-B918-84BF4F3A10B0}">
+											<PropertyList>
+												<Property Name="CueType" Type="int16" Value="1"/>
+												<Property Name="TimeMs" Type="Real64" Value="478894.149659864"/>
+											</PropertyList>
+										</MusicCue>
+										<MusicCue Name="ExitCustom" ID="{4F2B3C9D-B21E-443C-B712-DCB0ED72AAD7}">
+											<PropertyList>
+												<Property Name="CueType" Type="int16" Value="2"/>
+												<Property Name="TimeMs" Type="Real64" Value="478885.964912281"/>
+											</PropertyList>
+										</MusicCue>
+									</CueList>
+								</MusicSegment>
+							</ChildrenList>
+							<TransitionList>
+								<MusicTransition Name="Root" ID="{435CE48D-3F97-459D-A6D3-C8C1E9A523D3}">
+									<PropertyList>
+										<Property Name="IsFolder" Type="bool" Value="True"/>
+									</PropertyList>
+									<ChildrenList>
+										<MusicTransition Name="Transition" ID="{DFB2C792-E8AB-4306-AD22-1C37226212D5}">
+											<PropertyList>
+												<Property Name="EnableDestinationFadeIn" Type="bool" Value="True"/>
+												<Property Name="EnableSourceFadeOut" Type="bool" Value="True"/>
+												<Property Name="PlayDestinationPreEntry" Type="bool" Value="False"/>
+												<Property Name="PlaySourcePostExit" Type="bool" Value="False"/>
+											</PropertyList>
+											<TransitionInfo>
+												<SourceFadeOut>
+													<MusicFade Name="Source Fade-out" ID="{5417AB19-0490-4470-843D-0A22067B510D}">
+														<PropertyList>
+															<Property Name="FadeTime" Type="Real64" Value="0.2"/>
+															<Property Name="FadeType" Type="int16" Value="1"/>
+														</PropertyList>
+													</MusicFade>
+												</SourceFadeOut>
+												<DestinationFadeIn>
+													<MusicFade Name="Destination Fade-in" ID="{43E78FD5-9B56-4C40-A19A-79D0F74CC198}">
+														<PropertyList>
+															<Property Name="FadeTime" Type="Real64" Value="0.2"/>
+														</PropertyList>
+													</MusicFade>
+												</DestinationFadeIn>
+											</TransitionInfo>
+										</MusicTransition>
+									</ChildrenList>
+									<TransitionInfo/>
+								</MusicTransition>
+							</TransitionList>
+							<Playlist>
+								<MusicPlaylistItem Name="" ID="{D60F5DBA-A7A4-4CFD-974C-A83AE61FA2AB}" ShortID="596387661">
+									<ChildrenList>
+										<MusicPlaylistItem Name="" ID="{5A5E9BC7-2173-49A0-B668-904500E93121}" ShortID="834881510">
+											<PropertyList>
+												<Property Name="PlaylistItemType" Type="int16" Value="1"/>
+											</PropertyList>
+											<SegmentRef Name="Music Segment" ID="{4433693E-DCE2-4ABE-91CD-DA586C165AAE}"/>
+										</MusicPlaylistItem>
+									</ChildrenList>
+								</MusicPlaylistItem>
+							</Playlist>
+						</MusicPlaylistContainer>
+						<MusicPlaylistContainer Name="02 Medieval Era" ID="{52D02448-53B8-453B-B7FF-847D8D1EDAA3}" ShortID="1007050178">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicSegment Name="Music Segment" ID="{90D77766-1931-49ED-8AB5-991DEF32A8D7}" ShortID="996047279">
+									<PropertyList>
+										<Property Name="EndPosition" Type="Real64" Value="490000"/>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-14</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<MusicTrack Name="Sakura Empire Medieval Era" ID="{77AC825D-55AF-4BEE-9DB6-0A88D4728B92}" ShortID="28206001">
+											<PropertyList>
+												<Property Name="IsNonCachable" Type="bool">
+													<ValueList>
+														<Value>True</Value>
+													</ValueList>
+												</Property>
+												<Property Name="IsStreamingEnabled" Type="bool">
+													<ValueList>
+														<Value>True</Value>
+													</ValueList>
+												</Property>
+												<Property Name="LookAheadTime" Type="int16">
+													<ValueList>
+														<Value>250</Value>
+													</ValueList>
+												</Property>
+												<Property Name="PreFetchLength" Type="int16">
+													<ValueList>
+														<Value>250</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Sakura Empire Medieval Era" ID="{8EC2CF8D-31C5-41E0-807E-A3E00E29EFBA}" ShortID="481624135">
+													<Language>SFX</Language>
+													<AudioFile>Sakura Empire Medieval Era.wav</AudioFile>
+												</AudioFileSource>
+											</ChildrenList>
+											<TransitionList>
+												<MusicTransition Name="Root" ID="{19424FCC-F111-4A47-90EF-0C42F53F0A90}">
+													<PropertyList>
+														<Property Name="IsFolder" Type="bool" Value="True"/>
+													</PropertyList>
+													<TransitionInfo/>
+												</MusicTransition>
+											</TransitionList>
+											<SequenceList>
+												<MusicTrackSequence Name="" ID="{6CF12A0B-DF96-40D9-9BA6-7E82B2DE6757}">
+													<ClipList>
+														<MusicClip Name="Sakura Empire Medieval Era" ID="{E593EB55-9E99-4FA7-928F-E98EEAA8B873}">
+															<PropertyList>
+																<Property Name="EndTrimOffset" Type="Real64" Value="490000"/>
+																<Property Name="FadeInMode" Type="int16" Value="0"/>
+																<Property Name="FadeOutMode" Type="int16" Value="0"/>
+															</PropertyList>
+															<AudioSourceRef Name="Sakura Empire Medieval Era" ID="{8EC2CF8D-31C5-41E0-807E-A3E00E29EFBA}"/>
+														</MusicClip>
+													</ClipList>
+												</MusicTrackSequence>
+											</SequenceList>
+										</MusicTrack>
+									</ChildrenList>
+									<CueList>
+										<MusicCue Name="Entry Cue" ID="{4D471B5A-1806-4DD0-82E2-0519CCCC1F54}"/>
+										<MusicCue Name="Exit Cue" ID="{D2C17B77-54BE-46D5-8E29-39947C77E87C}">
+											<PropertyList>
+												<Property Name="CueType" Type="int16" Value="1"/>
+												<Property Name="TimeMs" Type="Real64" Value="490000"/>
+											</PropertyList>
+										</MusicCue>
+										<MusicCue Name="ExitCustom" ID="{C97251FB-3064-4307-B4D3-EBF204B14DA8}">
+											<PropertyList>
+												<Property Name="CueType" Type="int16" Value="2"/>
+												<Property Name="TimeMs" Type="Real64" Value="489991.228070175"/>
+											</PropertyList>
+										</MusicCue>
+									</CueList>
+								</MusicSegment>
+							</ChildrenList>
+							<TransitionList>
+								<MusicTransition Name="Root" ID="{6E06323F-FAE8-4367-BC71-4C8CE950A4F0}">
+									<PropertyList>
+										<Property Name="IsFolder" Type="bool" Value="True"/>
+									</PropertyList>
+									<ChildrenList>
+										<MusicTransition Name="Transition" ID="{58C73F83-EE6F-4CC2-AE48-78DB444688D7}">
+											<PropertyList>
+												<Property Name="EnableDestinationFadeIn" Type="bool" Value="True"/>
+												<Property Name="EnableSourceFadeOut" Type="bool" Value="True"/>
+												<Property Name="PlayDestinationPreEntry" Type="bool" Value="False"/>
+												<Property Name="PlaySourcePostExit" Type="bool" Value="False"/>
+											</PropertyList>
+											<TransitionInfo>
+												<SourceFadeOut>
+													<MusicFade Name="Source Fade-out" ID="{D812E2D7-DFC0-4B36-B221-E845AF0FC910}">
+														<PropertyList>
+															<Property Name="FadeTime" Type="Real64" Value="0.2"/>
+															<Property Name="FadeType" Type="int16" Value="1"/>
+														</PropertyList>
+													</MusicFade>
+												</SourceFadeOut>
+												<DestinationFadeIn>
+													<MusicFade Name="Destination Fade-in" ID="{A8EE2D2E-B0AF-45AF-ACC5-0C277C734693}">
+														<PropertyList>
+															<Property Name="FadeTime" Type="Real64" Value="0.2"/>
+														</PropertyList>
+													</MusicFade>
+												</DestinationFadeIn>
+											</TransitionInfo>
+										</MusicTransition>
+									</ChildrenList>
+									<TransitionInfo/>
+								</MusicTransition>
+							</TransitionList>
+							<Playlist>
+								<MusicPlaylistItem Name="" ID="{3CAD1A0F-88A4-4128-B166-9C8322E1D3A8}" ShortID="696924565">
+									<ChildrenList>
+										<MusicPlaylistItem Name="" ID="{05E814BD-F625-4F77-A5AA-5CBB9AD85993}" ShortID="1051467308">
+											<PropertyList>
+												<Property Name="PlaylistItemType" Type="int16" Value="1"/>
+											</PropertyList>
+											<SegmentRef Name="Music Segment" ID="{90D77766-1931-49ED-8AB5-991DEF32A8D7}"/>
+										</MusicPlaylistItem>
+									</ChildrenList>
+								</MusicPlaylistItem>
+							</Playlist>
+						</MusicPlaylistContainer>
+						<MusicPlaylistContainer Name="03 Industrial Era" ID="{88AA07A9-9B3B-430C-BCB0-D31BDA0CB95B}" ShortID="529637552">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicSegment Name="Music Segment" ID="{94751840-5AA4-44AE-97A7-AF2BF1F5DCA0}" ShortID="153867559">
+									<PropertyList>
+										<Property Name="EndPosition" Type="Real64" Value="467464.39909297"/>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-14</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<MusicTrack Name="Sakura Empire Industrial Era" ID="{200C22D2-B7A6-4989-96FC-EBD0055A84C1}" ShortID="466862067">
+											<PropertyList>
+												<Property Name="IsNonCachable" Type="bool">
+													<ValueList>
+														<Value>True</Value>
+													</ValueList>
+												</Property>
+												<Property Name="IsStreamingEnabled" Type="bool">
+													<ValueList>
+														<Value>True</Value>
+													</ValueList>
+												</Property>
+												<Property Name="LookAheadTime" Type="int16">
+													<ValueList>
+														<Value>250</Value>
+													</ValueList>
+												</Property>
+												<Property Name="PreFetchLength" Type="int16">
+													<ValueList>
+														<Value>250</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Sakura Empire Industrial Era" ID="{829806BA-4DA4-403A-A56F-2E76B44A64D9}" ShortID="1067645851">
+													<Language>SFX</Language>
+													<AudioFile>Sakura Empire Industrial Era.wav</AudioFile>
+												</AudioFileSource>
+											</ChildrenList>
+											<TransitionList>
+												<MusicTransition Name="Root" ID="{4FEEBCD0-BA40-4229-9805-B1E2ED1DCFD6}">
+													<PropertyList>
+														<Property Name="IsFolder" Type="bool" Value="True"/>
+													</PropertyList>
+													<TransitionInfo/>
+												</MusicTransition>
+											</TransitionList>
+											<SequenceList>
+												<MusicTrackSequence Name="" ID="{A2C33980-25C1-446B-92D4-5F6813E2199D}">
+													<ClipList>
+														<MusicClip Name="Sakura Empire Industrial Era" ID="{93176BFF-18F3-4445-A37F-6860A1C6E730}">
+															<PropertyList>
+																<Property Name="EndTrimOffset" Type="Real64" Value="467464.39909297"/>
+																<Property Name="FadeInMode" Type="int16" Value="0"/>
+																<Property Name="FadeOutMode" Type="int16" Value="0"/>
+															</PropertyList>
+															<AudioSourceRef Name="Sakura Empire Industrial Era" ID="{829806BA-4DA4-403A-A56F-2E76B44A64D9}"/>
+														</MusicClip>
+													</ClipList>
+												</MusicTrackSequence>
+											</SequenceList>
+										</MusicTrack>
+									</ChildrenList>
+									<CueList>
+										<MusicCue Name="Entry Cue" ID="{5BDCDBAD-9119-4C7E-B8A1-9A5DD3320578}"/>
+										<MusicCue Name="Exit Cue" ID="{C50658E7-86D5-40E1-86D1-29699EC3411A}">
+											<PropertyList>
+												<Property Name="CueType" Type="int16" Value="1"/>
+												<Property Name="TimeMs" Type="Real64" Value="467464.39909297"/>
+											</PropertyList>
+										</MusicCue>
+										<MusicCue Name="ExitCustom" ID="{21B6150B-35EA-463E-AC00-2C51DE705626}">
+											<PropertyList>
+												<Property Name="CueType" Type="int16" Value="2"/>
+												<Property Name="TimeMs" Type="Real64" Value="467456.140350877"/>
+											</PropertyList>
+										</MusicCue>
+									</CueList>
+								</MusicSegment>
+							</ChildrenList>
+							<TransitionList>
+								<MusicTransition Name="Root" ID="{EB6CDEF2-028E-45EF-B621-1A4D3EBF87A5}">
+									<PropertyList>
+										<Property Name="IsFolder" Type="bool" Value="True"/>
+									</PropertyList>
+									<ChildrenList>
+										<MusicTransition Name="Transition" ID="{0F7731C4-55C4-4ED0-A659-CE93BE55A359}">
+											<PropertyList>
+												<Property Name="EnableDestinationFadeIn" Type="bool" Value="True"/>
+												<Property Name="EnableSourceFadeOut" Type="bool" Value="True"/>
+												<Property Name="PlayDestinationPreEntry" Type="bool" Value="False"/>
+												<Property Name="PlaySourcePostExit" Type="bool" Value="False"/>
+											</PropertyList>
+											<TransitionInfo>
+												<SourceFadeOut>
+													<MusicFade Name="Source Fade-out" ID="{F29C921F-0732-41B1-884D-DC970E47E799}">
+														<PropertyList>
+															<Property Name="FadeTime" Type="Real64" Value="0.2"/>
+															<Property Name="FadeType" Type="int16" Value="1"/>
+														</PropertyList>
+													</MusicFade>
+												</SourceFadeOut>
+												<DestinationFadeIn>
+													<MusicFade Name="Destination Fade-in" ID="{59C69DC8-A610-4F99-B4D7-E736B2CC51F7}">
+														<PropertyList>
+															<Property Name="FadeTime" Type="Real64" Value="0.2"/>
+														</PropertyList>
+													</MusicFade>
+												</DestinationFadeIn>
+											</TransitionInfo>
+										</MusicTransition>
+									</ChildrenList>
+									<TransitionInfo/>
+								</MusicTransition>
+							</TransitionList>
+							<Playlist>
+								<MusicPlaylistItem Name="" ID="{A4644917-1165-421A-AD01-00CAED564C1D}" ShortID="51249596">
+									<ChildrenList>
+										<MusicPlaylistItem Name="" ID="{72374AEE-E59A-4974-BC41-97A5FFA6B89E}" ShortID="570275384">
+											<PropertyList>
+												<Property Name="PlaylistItemType" Type="int16" Value="1"/>
+											</PropertyList>
+											<SegmentRef Name="Music Segment" ID="{94751840-5AA4-44AE-97A7-AF2BF1F5DCA0}"/>
+										</MusicPlaylistItem>
+									</ChildrenList>
+								</MusicPlaylistItem>
+							</Playlist>
+						</MusicPlaylistContainer>
+						<MusicPlaylistContainer Name="04 Atomic Era" ID="{5108F06E-23AC-42DA-A300-F57192E664BA}" ShortID="187068239">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicSegment Name="Music Segment" ID="{519C347D-0132-49A7-9547-67DDB8EEAA48}" ShortID="801719730">
+									<PropertyList>
+										<Property Name="EndPosition" Type="Real64" Value="492500.181405896"/>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-14</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<MusicTrack Name="Sakura Empire Atomic Era" ID="{5D0E40D0-87F4-4F54-875F-91A74DA039DB}" ShortID="157906067">
+											<PropertyList>
+												<Property Name="IsNonCachable" Type="bool">
+													<ValueList>
+														<Value>True</Value>
+													</ValueList>
+												</Property>
+												<Property Name="IsStreamingEnabled" Type="bool">
+													<ValueList>
+														<Value>True</Value>
+													</ValueList>
+												</Property>
+												<Property Name="LookAheadTime" Type="int16">
+													<ValueList>
+														<Value>250</Value>
+													</ValueList>
+												</Property>
+												<Property Name="PreFetchLength" Type="int16">
+													<ValueList>
+														<Value>250</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Sakura Empire Atomic Era" ID="{7679384A-9C92-4795-805B-B8346F504C18}" ShortID="757188491">
+													<Language>SFX</Language>
+													<AudioFile>Sakura Empire Atomic Era.wav</AudioFile>
+												</AudioFileSource>
+											</ChildrenList>
+											<TransitionList>
+												<MusicTransition Name="Root" ID="{6460DAF5-6500-4FEE-8FBB-C0E8F6A11E29}">
+													<PropertyList>
+														<Property Name="IsFolder" Type="bool" Value="True"/>
+													</PropertyList>
+													<TransitionInfo/>
+												</MusicTransition>
+											</TransitionList>
+											<SequenceList>
+												<MusicTrackSequence Name="" ID="{97CA9B80-0C71-48C9-8E11-66F9AC54AC6D}">
+													<ClipList>
+														<MusicClip Name="Sakura Empire Atomic Era" ID="{9DFF6EC1-36FC-417D-8C8A-EFCECCC263AE}">
+															<PropertyList>
+																<Property Name="EndTrimOffset" Type="Real64" Value="492500.181405896"/>
+																<Property Name="FadeInMode" Type="int16" Value="0"/>
+																<Property Name="FadeOutMode" Type="int16" Value="0"/>
+															</PropertyList>
+															<AudioSourceRef Name="Sakura Empire Atomic Era" ID="{7679384A-9C92-4795-805B-B8346F504C18}"/>
+														</MusicClip>
+													</ClipList>
+												</MusicTrackSequence>
+											</SequenceList>
+										</MusicTrack>
+									</ChildrenList>
+									<CueList>
+										<MusicCue Name="Entry Cue" ID="{BB63AE4E-BF9E-4809-A45B-F00BEE3420DA}"/>
+										<MusicCue Name="Exit Cue" ID="{0B946F1D-7D7B-4F6F-8E0A-3320A2D8960F}">
+											<PropertyList>
+												<Property Name="CueType" Type="int16" Value="1"/>
+												<Property Name="TimeMs" Type="Real64" Value="492500.181405896"/>
+											</PropertyList>
+										</MusicCue>
+										<MusicCue Name="ExitCustom" ID="{4C4CE651-3672-4279-8467-CBB27EC1393D}">
+											<PropertyList>
+												<Property Name="CueType" Type="int16" Value="2"/>
+												<Property Name="TimeMs" Type="Real64" Value="492491.228070176"/>
+											</PropertyList>
+										</MusicCue>
+									</CueList>
+								</MusicSegment>
+							</ChildrenList>
+							<TransitionList>
+								<MusicTransition Name="Root" ID="{3A2B8D12-5FF1-4BE1-A67F-BE94764C89D8}">
+									<PropertyList>
+										<Property Name="IsFolder" Type="bool" Value="True"/>
+									</PropertyList>
+									<ChildrenList>
+										<MusicTransition Name="Transition" ID="{C2C9CA62-B560-4ACD-8D7F-D8BB0E07CE12}">
+											<PropertyList>
+												<Property Name="EnableDestinationFadeIn" Type="bool" Value="True"/>
+												<Property Name="EnableSourceFadeOut" Type="bool" Value="True"/>
+												<Property Name="PlayDestinationPreEntry" Type="bool" Value="False"/>
+												<Property Name="PlaySourcePostExit" Type="bool" Value="False"/>
+											</PropertyList>
+											<TransitionInfo>
+												<SourceFadeOut>
+													<MusicFade Name="Source Fade-out" ID="{3952166C-576B-45A0-9088-DE4A0F000D7D}">
+														<PropertyList>
+															<Property Name="FadeTime" Type="Real64" Value="0.2"/>
+															<Property Name="FadeType" Type="int16" Value="1"/>
+														</PropertyList>
+													</MusicFade>
+												</SourceFadeOut>
+												<DestinationFadeIn>
+													<MusicFade Name="Destination Fade-in" ID="{45C0C196-3135-4269-8C02-61D42E65DC3B}">
+														<PropertyList>
+															<Property Name="FadeTime" Type="Real64" Value="0.2"/>
+														</PropertyList>
+													</MusicFade>
+												</DestinationFadeIn>
+											</TransitionInfo>
+										</MusicTransition>
+									</ChildrenList>
+									<TransitionInfo/>
+								</MusicTransition>
+							</TransitionList>
+							<Playlist>
+								<MusicPlaylistItem Name="" ID="{38020A2C-C4B5-401B-B294-473878052661}" ShortID="930796465">
+									<ChildrenList>
+										<MusicPlaylistItem Name="" ID="{2A553E79-0F8C-4706-B361-55EF4FCC5617}" ShortID="835202880">
+											<PropertyList>
+												<Property Name="PlaylistItemType" Type="int16" Value="1"/>
+											</PropertyList>
+											<SegmentRef Name="Music Segment" ID="{519C347D-0132-49A7-9547-67DDB8EEAA48}"/>
+										</MusicPlaylistItem>
+									</ChildrenList>
+								</MusicPlaylistItem>
+							</Playlist>
+						</MusicPlaylistContainer>
+					</ChildrenList>
+					<TransitionList>
+						<MusicTransition Name="Root" ID="{A5D837FB-29FE-4EE7-B3D0-FC59FABCC221}">
+							<PropertyList>
+								<Property Name="IsFolder" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<MusicTransition Name="Transition" ID="{E73A152F-A4B9-4423-8F61-5654182984F4}">
+									<PropertyList>
+										<Property Name="EnableDestinationFadeIn" Type="bool" Value="True"/>
+										<Property Name="EnableSourceFadeOut" Type="bool" Value="True"/>
+										<Property Name="ExitSourceAt" Type="int16" Value="5"/>
+										<Property Name="ExitSourceCustomCueMatchName" Type="string" Value="ExitCustom"/>
+										<Property Name="PlayDestinationPreEntry" Type="bool" Value="False"/>
+										<Property Name="PlaySourcePostExit" Type="bool" Value="False"/>
+									</PropertyList>
+									<TransitionInfo>
+										<SourceFadeOut>
+											<MusicFade Name="Source Fade-out" ID="{406F3DCF-A927-4199-BAAF-448A0DAC1E6F}">
+												<PropertyList>
+													<Property Name="FadeCurve" Type="int16" Value="1"/>
+													<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+													<Property Name="FadeType" Type="int16" Value="1"/>
+												</PropertyList>
+											</MusicFade>
+										</SourceFadeOut>
+										<DestinationFadeIn>
+											<MusicFade Name="Destination Fade-in" ID="{E874A8BD-D8F7-4E1B-B354-AC6D3F19CED8}">
+												<PropertyList>
+													<Property Name="FadeCurve" Type="int16" Value="1"/>
+													<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+												</PropertyList>
+											</MusicFade>
+										</DestinationFadeIn>
+									</TransitionInfo>
+								</MusicTransition>
+							</ChildrenList>
+							<TransitionInfo/>
+						</MusicTransition>
+					</TransitionList>
+					<ArgumentList>
+						<ArgumentRef Name="Game_Location" ID="{1A360DB8-0E77-4D23-874F-C46E83683ABE}"/>
+					</ArgumentList>
+					<EntryList>
+						<Entry>
+							<Path>
+								<PathElementRef Name="Medieval_Era" ID="{6B8121CB-5038-418D-B4F9-3F80475FD79F}"/>
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="02 Medieval Era" ID="{52D02448-53B8-453B-B7FF-847D8D1EDAA3}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}" Platform="Linked"/>
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="Ancient_Era" ID="{26D32737-41A3-4DA1-8695-78BEDED2B2B2}"/>
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="01 Ancient Era" ID="{EC56A46D-A1FC-40DF-98C2-FA6C39F34953}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}" Platform="Linked"/>
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="Modern_Era" ID="{BB049C3C-F821-42B0-95CA-F43C2527724E}"/>
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="04 Atomic Era" ID="{5108F06E-23AC-42DA-A300-F57192E664BA}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}" Platform="Linked"/>
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="Industrial_Era" ID="{D794D2D6-6FDD-40DC-9BDC-009446B60C9D}"/>
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="03 Industrial Era" ID="{88AA07A9-9B3B-430C-BCB0-D31BDA0CB95B}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}" Platform="Linked"/>
+							</AudioNodeInfo>
+						</Entry>
+					</EntryList>
+				</MusicSwitchContainer>
+				<MusicSwitchContainer Name="Leader Music" ID="{C1D55118-F3A3-4C0A-A031-50946E957E1C}" ShortID="30194020">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Music Bus" ID="{E46866F4-9A81-4EA4-907E-C7ECFBB8F285}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<MusicPlaylistContainer Name="01 Ancient Era" ID="{53859A95-0C5C-451D-97EE-BFA6E96D1E7B}" ShortID="449377213">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicSegment Name="Music Segment" ID="{2DB21209-7176-4EE0-ABB3-5BE4094F082F}" ShortID="481711093">
+									<PropertyList>
+										<Property Name="EndPosition" Type="Real64" Value="478894.149659864"/>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-14</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<MusicTrack Name="Sakura Empire Ancient Era" ID="{F995E2A3-24A7-4638-853B-88615B38F9D3}" ShortID="490762418">
+											<PropertyList>
+												<Property Name="IsNonCachable" Type="bool">
+													<ValueList>
+														<Value>True</Value>
+													</ValueList>
+												</Property>
+												<Property Name="IsStreamingEnabled" Type="bool">
+													<ValueList>
+														<Value>True</Value>
+													</ValueList>
+												</Property>
+												<Property Name="LookAheadTime" Type="int16">
+													<ValueList>
+														<Value>250</Value>
+													</ValueList>
+												</Property>
+												<Property Name="PreFetchLength" Type="int16">
+													<ValueList>
+														<Value>250</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Sakura Empire Ancient Era" ID="{7925DC18-5E8B-40BA-841E-C15DB0E5AD23}" ShortID="791289352">
+													<Language>SFX</Language>
+													<AudioFile>Sakura Empire Ancient Era.wav</AudioFile>
+													<ConvertedFileIDList>
+														<File ID="766742123"/>
+													</ConvertedFileIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<TransitionList>
+												<MusicTransition Name="Root" ID="{E1C6764B-2CEA-4DD1-BFA0-8EFA9DC3FA27}">
+													<PropertyList>
+														<Property Name="IsFolder" Type="bool" Value="True"/>
+													</PropertyList>
+													<TransitionInfo/>
+												</MusicTransition>
+											</TransitionList>
+											<SequenceList>
+												<MusicTrackSequence Name="" ID="{8651C1AC-9333-4AC0-B016-379AC4628B35}">
+													<ClipList>
+														<MusicClip Name="Sakura Empire Ancient Era" ID="{20734B2C-C8CE-410A-A811-CF8EBBBB9CEF}">
+															<PropertyList>
+																<Property Name="EndTrimOffset" Type="Real64" Value="478894.149659864"/>
+																<Property Name="FadeInMode" Type="int16" Value="0"/>
+																<Property Name="FadeOutMode" Type="int16" Value="0"/>
+															</PropertyList>
+															<AudioSourceRef Name="Sakura Empire Ancient Era" ID="{7925DC18-5E8B-40BA-841E-C15DB0E5AD23}"/>
+														</MusicClip>
+													</ClipList>
+												</MusicTrackSequence>
+											</SequenceList>
+										</MusicTrack>
+									</ChildrenList>
+									<CueList>
+										<MusicCue Name="Entry Cue" ID="{F3AB1CE6-A222-4806-B83C-D8BEB42F925C}"/>
+										<MusicCue Name="Exit Cue" ID="{B6ADE0B7-423A-4914-BDDB-8CA9818538D2}">
+											<PropertyList>
+												<Property Name="CueType" Type="int16" Value="1"/>
+												<Property Name="TimeMs" Type="Real64" Value="478894.149659864"/>
+											</PropertyList>
+										</MusicCue>
+									</CueList>
+								</MusicSegment>
+							</ChildrenList>
+							<TransitionList>
+								<MusicTransition Name="Root" ID="{A03306B9-A090-4B9A-B931-DC9D2BBF3D06}">
+									<PropertyList>
+										<Property Name="IsFolder" Type="bool" Value="True"/>
+									</PropertyList>
+									<ChildrenList>
+										<MusicTransition Name="Transition" ID="{C5E87250-EFEE-4F44-ACB6-F5303FB1CBE9}">
+											<PropertyList>
+												<Property Name="EnableDestinationFadeIn" Type="bool" Value="True"/>
+												<Property Name="EnableSourceFadeOut" Type="bool" Value="True"/>
+												<Property Name="PlayDestinationPreEntry" Type="bool" Value="False"/>
+												<Property Name="PlaySourcePostExit" Type="bool" Value="False"/>
+											</PropertyList>
+											<TransitionInfo>
+												<SourceFadeOut>
+													<MusicFade Name="Source Fade-out" ID="{60DC7671-53C8-4F66-8974-CB8F6E8DC2C4}">
+														<PropertyList>
+															<Property Name="FadeTime" Type="Real64" Value="0.2"/>
+															<Property Name="FadeType" Type="int16" Value="1"/>
+														</PropertyList>
+													</MusicFade>
+												</SourceFadeOut>
+												<DestinationFadeIn>
+													<MusicFade Name="Destination Fade-in" ID="{5A809601-4CC2-4D4D-AA9F-993DC8E5E221}">
+														<PropertyList>
+															<Property Name="FadeTime" Type="Real64" Value="0.2"/>
+														</PropertyList>
+													</MusicFade>
+												</DestinationFadeIn>
+											</TransitionInfo>
+										</MusicTransition>
+									</ChildrenList>
+									<TransitionInfo/>
+								</MusicTransition>
+							</TransitionList>
+							<Playlist>
+								<MusicPlaylistItem Name="" ID="{D14EA0A3-F039-4CD3-A7EF-F516E1496224}" ShortID="460156822">
+									<ChildrenList>
+										<MusicPlaylistItem Name="" ID="{1C18C254-DCBB-41EC-A432-D731F94CB153}" ShortID="430077293">
+											<PropertyList>
+												<Property Name="LoopCount" Type="int16" Value="0"/>
+												<Property Name="PlaylistItemType" Type="int16" Value="1"/>
+											</PropertyList>
+											<SegmentRef Name="Music Segment" ID="{2DB21209-7176-4EE0-ABB3-5BE4094F082F}"/>
+										</MusicPlaylistItem>
+									</ChildrenList>
+								</MusicPlaylistItem>
+							</Playlist>
+						</MusicPlaylistContainer>
+						<MusicPlaylistContainer Name="02 Medieval Era" ID="{1A9DF098-12B4-4461-BBD2-43B2CD47460E}" ShortID="751159008">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicSegment Name="Music Segment" ID="{43351753-3604-434D-939D-851018E02256}" ShortID="746230376">
+									<PropertyList>
+										<Property Name="EndPosition" Type="Real64" Value="490000"/>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-14</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<MusicTrack Name="Sakura Empire Medieval Era" ID="{23FE479D-CB74-4674-B4A5-AC040D5C82AC}" ShortID="531542789">
+											<PropertyList>
+												<Property Name="IsNonCachable" Type="bool">
+													<ValueList>
+														<Value>True</Value>
+													</ValueList>
+												</Property>
+												<Property Name="IsStreamingEnabled" Type="bool">
+													<ValueList>
+														<Value>True</Value>
+													</ValueList>
+												</Property>
+												<Property Name="LookAheadTime" Type="int16">
+													<ValueList>
+														<Value>250</Value>
+													</ValueList>
+												</Property>
+												<Property Name="PreFetchLength" Type="int16">
+													<ValueList>
+														<Value>250</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Sakura Empire Medieval Era" ID="{D05A7EE4-311E-4D55-83B3-0920675BD418}" ShortID="306399859">
+													<Language>SFX</Language>
+													<AudioFile>Sakura Empire Medieval Era.wav</AudioFile>
+													<ConvertedFileIDList>
+														<File ID="481624135"/>
+													</ConvertedFileIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<TransitionList>
+												<MusicTransition Name="Root" ID="{BB04B3E7-73B0-4C73-99CD-4ECCA2F8CE68}">
+													<PropertyList>
+														<Property Name="IsFolder" Type="bool" Value="True"/>
+													</PropertyList>
+													<TransitionInfo/>
+												</MusicTransition>
+											</TransitionList>
+											<SequenceList>
+												<MusicTrackSequence Name="" ID="{008615A0-59AB-4967-AB5D-05C0C4F617F7}">
+													<ClipList>
+														<MusicClip Name="Sakura Empire Medieval Era" ID="{93951A5F-4763-4672-A5FC-FD04967F0AF3}">
+															<PropertyList>
+																<Property Name="EndTrimOffset" Type="Real64" Value="490000"/>
+																<Property Name="FadeInMode" Type="int16" Value="0"/>
+																<Property Name="FadeOutMode" Type="int16" Value="0"/>
+															</PropertyList>
+															<AudioSourceRef Name="Sakura Empire Medieval Era" ID="{D05A7EE4-311E-4D55-83B3-0920675BD418}"/>
+														</MusicClip>
+													</ClipList>
+												</MusicTrackSequence>
+											</SequenceList>
+										</MusicTrack>
+									</ChildrenList>
+									<CueList>
+										<MusicCue Name="Entry Cue" ID="{4E96A4E0-2855-4349-BC72-46F9973C5B9E}"/>
+										<MusicCue Name="Exit Cue" ID="{3CA7C3CE-D9E1-493F-9D1F-7BB1D4A42ADE}">
+											<PropertyList>
+												<Property Name="CueType" Type="int16" Value="1"/>
+												<Property Name="TimeMs" Type="Real64" Value="490000"/>
+											</PropertyList>
+										</MusicCue>
+									</CueList>
+								</MusicSegment>
+							</ChildrenList>
+							<TransitionList>
+								<MusicTransition Name="Root" ID="{5D983CF8-CD00-4DCC-BDE9-F3B36D9E7CC0}">
+									<PropertyList>
+										<Property Name="IsFolder" Type="bool" Value="True"/>
+									</PropertyList>
+									<ChildrenList>
+										<MusicTransition Name="Transition" ID="{4096F08A-6C01-4163-A0F9-A890CE548324}">
+											<PropertyList>
+												<Property Name="EnableDestinationFadeIn" Type="bool" Value="True"/>
+												<Property Name="EnableSourceFadeOut" Type="bool" Value="True"/>
+												<Property Name="PlayDestinationPreEntry" Type="bool" Value="False"/>
+												<Property Name="PlaySourcePostExit" Type="bool" Value="False"/>
+											</PropertyList>
+											<TransitionInfo>
+												<SourceFadeOut>
+													<MusicFade Name="Source Fade-out" ID="{9E9E03FD-5126-4832-B946-16E299409FBF}">
+														<PropertyList>
+															<Property Name="FadeTime" Type="Real64" Value="0.2"/>
+															<Property Name="FadeType" Type="int16" Value="1"/>
+														</PropertyList>
+													</MusicFade>
+												</SourceFadeOut>
+												<DestinationFadeIn>
+													<MusicFade Name="Destination Fade-in" ID="{FF71F8E8-28AA-4865-9F3C-22F4A9C3AE56}">
+														<PropertyList>
+															<Property Name="FadeTime" Type="Real64" Value="0.2"/>
+														</PropertyList>
+													</MusicFade>
+												</DestinationFadeIn>
+											</TransitionInfo>
+										</MusicTransition>
+									</ChildrenList>
+									<TransitionInfo/>
+								</MusicTransition>
+							</TransitionList>
+							<Playlist>
+								<MusicPlaylistItem Name="" ID="{DF12D5B2-97A0-4B73-A9A7-6846D3BD7663}" ShortID="171058749">
+									<ChildrenList>
+										<MusicPlaylistItem Name="" ID="{F2832C45-E0F9-490E-B7B2-B8B797BF62EC}" ShortID="330237941">
+											<PropertyList>
+												<Property Name="LoopCount" Type="int16" Value="0"/>
+												<Property Name="PlaylistItemType" Type="int16" Value="1"/>
+											</PropertyList>
+											<SegmentRef Name="Music Segment" ID="{43351753-3604-434D-939D-851018E02256}"/>
+										</MusicPlaylistItem>
+									</ChildrenList>
+								</MusicPlaylistItem>
+							</Playlist>
+						</MusicPlaylistContainer>
+						<MusicPlaylistContainer Name="03 Industrial Era" ID="{B57E01F6-1315-4629-A45F-D21E4076B96B}" ShortID="846862130">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicSegment Name="Music Segment" ID="{25E2A79B-91DB-4ACD-96B1-74B3A203ECFB}" ShortID="231923223">
+									<PropertyList>
+										<Property Name="EndPosition" Type="Real64" Value="467464.39909297"/>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-14</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<MusicTrack Name="Sakura Empire Industrial Era" ID="{15675AB9-9D54-4F00-A823-E6F6C9EAC2DE}" ShortID="252396472">
+											<PropertyList>
+												<Property Name="IsNonCachable" Type="bool">
+													<ValueList>
+														<Value>True</Value>
+													</ValueList>
+												</Property>
+												<Property Name="IsStreamingEnabled" Type="bool">
+													<ValueList>
+														<Value>True</Value>
+													</ValueList>
+												</Property>
+												<Property Name="LookAheadTime" Type="int16">
+													<ValueList>
+														<Value>250</Value>
+													</ValueList>
+												</Property>
+												<Property Name="PreFetchLength" Type="int16">
+													<ValueList>
+														<Value>250</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Sakura Empire Industrial Era" ID="{2FF41741-CD63-4D5A-A14C-018BA5D99415}" ShortID="774694226">
+													<Language>SFX</Language>
+													<AudioFile>Sakura Empire Industrial Era.wav</AudioFile>
+													<ConvertedFileIDList>
+														<File ID="1067645851"/>
+													</ConvertedFileIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<TransitionList>
+												<MusicTransition Name="Root" ID="{D1D30A67-4AA9-4BC3-9CAB-ED5D1897293C}">
+													<PropertyList>
+														<Property Name="IsFolder" Type="bool" Value="True"/>
+													</PropertyList>
+													<TransitionInfo/>
+												</MusicTransition>
+											</TransitionList>
+											<SequenceList>
+												<MusicTrackSequence Name="" ID="{6F0323FD-9135-444B-B586-FA48B6EB2A21}">
+													<ClipList>
+														<MusicClip Name="Sakura Empire Industrial Era" ID="{7FCCF8C5-B86D-4AAB-8079-5FEA500699E7}">
+															<PropertyList>
+																<Property Name="EndTrimOffset" Type="Real64" Value="467464.39909297"/>
+																<Property Name="FadeInMode" Type="int16" Value="0"/>
+																<Property Name="FadeOutMode" Type="int16" Value="0"/>
+															</PropertyList>
+															<AudioSourceRef Name="Sakura Empire Industrial Era" ID="{2FF41741-CD63-4D5A-A14C-018BA5D99415}"/>
+														</MusicClip>
+													</ClipList>
+												</MusicTrackSequence>
+											</SequenceList>
+										</MusicTrack>
+									</ChildrenList>
+									<CueList>
+										<MusicCue Name="Entry Cue" ID="{E0DF0473-2E8A-4226-B6E5-553034270FE3}"/>
+										<MusicCue Name="Exit Cue" ID="{51F7C025-062F-470B-BA5E-2A45E32E4220}">
+											<PropertyList>
+												<Property Name="CueType" Type="int16" Value="1"/>
+												<Property Name="TimeMs" Type="Real64" Value="467464.39909297"/>
+											</PropertyList>
+										</MusicCue>
+									</CueList>
+								</MusicSegment>
+							</ChildrenList>
+							<TransitionList>
+								<MusicTransition Name="Root" ID="{96223863-03C1-4210-BC4A-83DAECE9E223}">
+									<PropertyList>
+										<Property Name="IsFolder" Type="bool" Value="True"/>
+									</PropertyList>
+									<ChildrenList>
+										<MusicTransition Name="Transition" ID="{54731AE4-9FC0-47E1-A450-EF115F075830}">
+											<PropertyList>
+												<Property Name="EnableDestinationFadeIn" Type="bool" Value="True"/>
+												<Property Name="EnableSourceFadeOut" Type="bool" Value="True"/>
+												<Property Name="PlayDestinationPreEntry" Type="bool" Value="False"/>
+												<Property Name="PlaySourcePostExit" Type="bool" Value="False"/>
+											</PropertyList>
+											<TransitionInfo>
+												<SourceFadeOut>
+													<MusicFade Name="Source Fade-out" ID="{2CD4BA78-98A9-441C-A764-71BCDB39D1F0}">
+														<PropertyList>
+															<Property Name="FadeTime" Type="Real64" Value="0.2"/>
+															<Property Name="FadeType" Type="int16" Value="1"/>
+														</PropertyList>
+													</MusicFade>
+												</SourceFadeOut>
+												<DestinationFadeIn>
+													<MusicFade Name="Destination Fade-in" ID="{E9D7EE44-A75A-4E5E-A80E-F387F229D01A}">
+														<PropertyList>
+															<Property Name="FadeTime" Type="Real64" Value="0.2"/>
+														</PropertyList>
+													</MusicFade>
+												</DestinationFadeIn>
+											</TransitionInfo>
+										</MusicTransition>
+									</ChildrenList>
+									<TransitionInfo/>
+								</MusicTransition>
+							</TransitionList>
+							<Playlist>
+								<MusicPlaylistItem Name="" ID="{91B8A399-A269-4390-88DA-953DE50F38DC}" ShortID="922293027">
+									<ChildrenList>
+										<MusicPlaylistItem Name="" ID="{4B247F57-56ED-4130-B81E-FE379FEDF06E}" ShortID="657415787">
+											<PropertyList>
+												<Property Name="LoopCount" Type="int16" Value="0"/>
+												<Property Name="PlaylistItemType" Type="int16" Value="1"/>
+											</PropertyList>
+											<SegmentRef Name="Music Segment" ID="{25E2A79B-91DB-4ACD-96B1-74B3A203ECFB}"/>
+										</MusicPlaylistItem>
+									</ChildrenList>
+								</MusicPlaylistItem>
+							</Playlist>
+						</MusicPlaylistContainer>
+						<MusicPlaylistContainer Name="04 Atomic Era" ID="{96A42589-82BF-4A44-A279-D472DBED1EE2}" ShortID="818902540">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicSegment Name="Music Segment" ID="{41804007-6E55-433F-A0DD-116512469754}" ShortID="28930022">
+									<PropertyList>
+										<Property Name="EndPosition" Type="Real64" Value="492500.181405896"/>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-14</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<MusicTrack Name="Sakura Empire Atomic Era" ID="{E9214679-741E-4E40-BA3C-3C76A991D403}" ShortID="299777070">
+											<PropertyList>
+												<Property Name="IsNonCachable" Type="bool">
+													<ValueList>
+														<Value>True</Value>
+													</ValueList>
+												</Property>
+												<Property Name="IsStreamingEnabled" Type="bool">
+													<ValueList>
+														<Value>True</Value>
+													</ValueList>
+												</Property>
+												<Property Name="LookAheadTime" Type="int16">
+													<ValueList>
+														<Value>250</Value>
+													</ValueList>
+												</Property>
+												<Property Name="PreFetchLength" Type="int16">
+													<ValueList>
+														<Value>250</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Sakura Empire Atomic Era" ID="{1DC39A31-E488-4786-A230-417053A0B942}" ShortID="788706522">
+													<Language>SFX</Language>
+													<AudioFile>Sakura Empire Atomic Era.wav</AudioFile>
+													<ConvertedFileIDList>
+														<File ID="757188491"/>
+													</ConvertedFileIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<TransitionList>
+												<MusicTransition Name="Root" ID="{56F2FC54-AB12-43A5-AEDD-A6C97A706C20}">
+													<PropertyList>
+														<Property Name="IsFolder" Type="bool" Value="True"/>
+													</PropertyList>
+													<TransitionInfo/>
+												</MusicTransition>
+											</TransitionList>
+											<SequenceList>
+												<MusicTrackSequence Name="" ID="{1A416B5D-53D1-4EF2-890C-ED24E2FED5D7}">
+													<ClipList>
+														<MusicClip Name="Sakura Empire Atomic Era" ID="{9A15C8E5-4ACF-463B-A055-8E7C8EF555D6}">
+															<PropertyList>
+																<Property Name="EndTrimOffset" Type="Real64" Value="492500.181405896"/>
+																<Property Name="FadeInMode" Type="int16" Value="0"/>
+																<Property Name="FadeOutMode" Type="int16" Value="0"/>
+															</PropertyList>
+															<AudioSourceRef Name="Sakura Empire Atomic Era" ID="{1DC39A31-E488-4786-A230-417053A0B942}"/>
+														</MusicClip>
+													</ClipList>
+												</MusicTrackSequence>
+											</SequenceList>
+										</MusicTrack>
+									</ChildrenList>
+									<CueList>
+										<MusicCue Name="Entry Cue" ID="{EBFF2B2A-796F-43A8-AA3A-D35D4E697948}"/>
+										<MusicCue Name="Exit Cue" ID="{01396A68-4E41-4197-AA37-5185C0DD6E4D}">
+											<PropertyList>
+												<Property Name="CueType" Type="int16" Value="1"/>
+												<Property Name="TimeMs" Type="Real64" Value="492500.181405896"/>
+											</PropertyList>
+										</MusicCue>
+									</CueList>
+								</MusicSegment>
+							</ChildrenList>
+							<TransitionList>
+								<MusicTransition Name="Root" ID="{2F7769D9-B0EC-4004-8B44-5EDA7820BDF7}">
+									<PropertyList>
+										<Property Name="IsFolder" Type="bool" Value="True"/>
+									</PropertyList>
+									<ChildrenList>
+										<MusicTransition Name="Transition" ID="{539F9F25-0D8C-477F-B604-302E2FC67B0D}">
+											<PropertyList>
+												<Property Name="EnableDestinationFadeIn" Type="bool" Value="True"/>
+												<Property Name="EnableSourceFadeOut" Type="bool" Value="True"/>
+												<Property Name="PlayDestinationPreEntry" Type="bool" Value="False"/>
+												<Property Name="PlaySourcePostExit" Type="bool" Value="False"/>
+											</PropertyList>
+											<TransitionInfo>
+												<SourceFadeOut>
+													<MusicFade Name="Source Fade-out" ID="{A44FAA4E-CB32-4ECD-804B-CCDD00326D62}">
+														<PropertyList>
+															<Property Name="FadeTime" Type="Real64" Value="0.2"/>
+															<Property Name="FadeType" Type="int16" Value="1"/>
+														</PropertyList>
+													</MusicFade>
+												</SourceFadeOut>
+												<DestinationFadeIn>
+													<MusicFade Name="Destination Fade-in" ID="{2B54A8B7-1D3D-45C5-8DB9-BAFE6EECA73D}">
+														<PropertyList>
+															<Property Name="FadeTime" Type="Real64" Value="0.2"/>
+														</PropertyList>
+													</MusicFade>
+												</DestinationFadeIn>
+											</TransitionInfo>
+										</MusicTransition>
+									</ChildrenList>
+									<TransitionInfo/>
+								</MusicTransition>
+							</TransitionList>
+							<Playlist>
+								<MusicPlaylistItem Name="" ID="{01D0423F-B343-4FC9-87ED-F4F49758DA8F}" ShortID="513547040">
+									<ChildrenList>
+										<MusicPlaylistItem Name="" ID="{91BBE31D-0368-4BFD-A077-3030094AF8DC}" ShortID="576088467">
+											<PropertyList>
+												<Property Name="LoopCount" Type="int16" Value="0"/>
+												<Property Name="PlaylistItemType" Type="int16" Value="1"/>
+											</PropertyList>
+											<SegmentRef Name="Music Segment" ID="{41804007-6E55-433F-A0DD-116512469754}"/>
+										</MusicPlaylistItem>
+									</ChildrenList>
+								</MusicPlaylistItem>
+							</Playlist>
+						</MusicPlaylistContainer>
+					</ChildrenList>
+					<TransitionList>
+						<MusicTransition Name="Root" ID="{84ABEBCA-3A9E-43EC-B99E-18E8A438AA86}">
+							<PropertyList>
+								<Property Name="IsFolder" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<MusicTransition Name="Transition" ID="{71B1CEBB-6B43-4FFF-AC74-F272E1E5F87A}">
+									<PropertyList>
+										<Property Name="EnableDestinationFadeIn" Type="bool" Value="True"/>
+										<Property Name="EnableSourceFadeOut" Type="bool" Value="True"/>
+										<Property Name="ExitSourceAt" Type="int16" Value="0"/>
+										<Property Name="ExitSourceCustomCueMatchName" Type="string" Value="ExitCustom"/>
+										<Property Name="PlayDestinationPreEntry" Type="bool" Value="False"/>
+										<Property Name="PlaySourcePostExit" Type="bool" Value="False"/>
+									</PropertyList>
+									<TransitionInfo>
+										<SourceFadeOut>
+											<MusicFade Name="Source Fade-out" ID="{F26AB52B-A48B-4ED7-BAD1-9E3E1B07D45E}">
+												<PropertyList>
+													<Property Name="FadeCurve" Type="int16" Value="1"/>
+													<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+													<Property Name="FadeType" Type="int16" Value="1"/>
+												</PropertyList>
+											</MusicFade>
+										</SourceFadeOut>
+										<DestinationFadeIn>
+											<MusicFade Name="Destination Fade-in" ID="{6889C56A-48C1-4FF4-A577-196D354CF2C5}">
+												<PropertyList>
+													<Property Name="FadeCurve" Type="int16" Value="1"/>
+													<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+												</PropertyList>
+											</MusicFade>
+										</DestinationFadeIn>
+									</TransitionInfo>
+								</MusicTransition>
+							</ChildrenList>
+							<TransitionInfo/>
+						</MusicTransition>
+					</TransitionList>
+					<ArgumentList>
+						<ArgumentRef Name="Game_Location" ID="{1A360DB8-0E77-4D23-874F-C46E83683ABE}"/>
+					</ArgumentList>
+					<EntryList>
+						<Entry>
+							<Path>
+								<PathElementRef Name="Medieval_Era" ID="{6B8121CB-5038-418D-B4F9-3F80475FD79F}"/>
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="02 Medieval Era" ID="{1A9DF098-12B4-4461-BBD2-43B2CD47460E}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}" Platform="Linked"/>
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="Ancient_Era" ID="{26D32737-41A3-4DA1-8695-78BEDED2B2B2}"/>
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="01 Ancient Era" ID="{53859A95-0C5C-451D-97EE-BFA6E96D1E7B}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}" Platform="Linked"/>
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="Modern_Era" ID="{BB049C3C-F821-42B0-95CA-F43C2527724E}"/>
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="04 Atomic Era" ID="{96A42589-82BF-4A44-A279-D472DBED1EE2}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}" Platform="Linked"/>
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="Industrial_Era" ID="{D794D2D6-6FDD-40DC-9BDC-009446B60C9D}"/>
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="03 Industrial Era" ID="{B57E01F6-1315-4629-A45F-D21E4076B96B}" WorkUnitID="{384D8FBD-E0F8-4EC1-AEFA-0992A8481C27}" Platform="Linked"/>
+							</AudioNodeInfo>
+						</Entry>
+					</EntryList>
+				</MusicSwitchContainer>
+			</ChildrenList>
+		</WorkUnit>
+	</InteractiveMusic>
+</WwiseDocument>
