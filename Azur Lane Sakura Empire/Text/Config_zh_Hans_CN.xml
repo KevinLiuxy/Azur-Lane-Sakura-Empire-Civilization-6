@@ -11,7 +11,7 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME"
 			Text="沧海扶桑"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_DESCRIPTION"
-			Text="可用 [ICON_Faith] 信仰值购买海军单位。宣布突袭战争后，10回合内 +5 [ICON_STRENGTH] 攻击力，+2 [ICON_MOVEMENT] 移动力。10回合到20回合内 -5 [ICON_STRENGTH] 攻击力。[NEWLINE]海岸城市、或拥有重樱海军船坞的城市 +1 [ICON_Amenities] 宜居度，+15% 人口增长速度。樱花神社和港口为相邻区域提供额外的标准相邻加成。"/>
+			Text="可用 [ICON_Faith] 信仰值购买海军单位。宣布突袭战争后，10回合内 +5 [ICON_STRENGTH] 攻击力，+2 [ICON_MOVEMENT] 移动力。10回合到20回合内 -5 [ICON_STRENGTH] 攻击力。[NEWLINE]海岸城市、或拥有重樱海军船坞的城市 +1 [ICON_Amenities] 宜居度，+15% 人口增长速度。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_KAIGUN_KOSHO_NAME"
 			Text="重樱海军船坞"/>

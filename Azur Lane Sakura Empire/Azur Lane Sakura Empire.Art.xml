@@ -12,6 +12,7 @@
         <Element text="Culture.artdef"/>
         <Element text="Building.artdef"/>
         <Element text="District.artdef"/>
+        <Element text="Landmark.artdef"/>
         <Element text="Units.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
@@ -38,6 +39,7 @@
         <Element text="Culture.artdef"/>
         <Element text="Building.artdef"/>
         <Element text="District.artdef"/>
+        <Element text="Landmark.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="CityBuildings"/>
@@ -80,6 +82,7 @@
         <Element text="Culture.artdef"/>
         <Element text="Building.artdef"/>
         <Element text="District.artdef"/>
+        <Element text="Landmark.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="StrategicView_Sprite"/>
@@ -94,6 +97,7 @@
         <Element text="Culture.artdef"/>
         <Element text="Building.artdef"/>
         <Element text="District.artdef"/>
+        <Element text="Landmark.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="StrategicView_Route"/>
@@ -212,6 +216,7 @@
         <Element text="Culture.artdef"/>
         <Element text="Building.artdef"/>
         <Element text="District.artdef"/>
+        <Element text="Landmark.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies>
         <Element text="VFX"/>
@@ -302,6 +307,7 @@
         <Element text="Culture.artdef"/>
         <Element text="Building.artdef"/>
         <Element text="District.artdef"/>
+        <Element text="Landmark.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies/>
       <loadsLibraries>false</loadsLibraries>
@@ -313,6 +319,7 @@
         <Element text="Culture.artdef"/>
         <Element text="Building.artdef"/>
         <Element text="District.artdef"/>
+        <Element text="Landmark.artdef"/>
       </relativeArtDefPaths>
       <libraryDependencies/>
       <loadsLibraries>false</loadsLibraries>
@@ -322,6 +329,7 @@
       <relativeArtDefPaths>
         <Element text="Civilization.artdef"/>
         <Element text="Culture.artdef"/>
+        <Element text="Landmark.artdef"/>
         <Element text="Leaders.artdef"/>
         <Element text="Building.artdef"/>
         <Element text="District.artdef"/>
