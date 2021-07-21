@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Azur Lane Sakura Empire\Azur Lane Sakura Empire - Audio\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Azur Lane Sakura Empire\Azur Lane Sakura Empire - Audio\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Azur Lane Sakura Empire\Azur Lane Sakura Empire - Audio\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Azur Lane Sakura Empire\Azur Lane Sakura Empire - Audio\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="481624135" Language="SFX">
+			<ShortName>Sakura Empire Medieval Era.wav</ShortName>
+			<Path>SFX\Sakura Empire Medieval Era_123ADC11.wem</Path>
+		</File>
+		<File Id="757188491" Language="SFX">
+			<ShortName>Sakura Empire Atomic Era.wav</ShortName>
+			<Path>SFX\Sakura Empire Atomic Era_123ADC11.wem</Path>
+		</File>
+		<File Id="766742123" Language="SFX">
+			<ShortName>Sakura Empire Ancient Era.wav</ShortName>
+			<Path>SFX\Sakura Empire Ancient Era_123ADC11.wem</Path>
+		</File>
+		<File Id="1067645851" Language="SFX">
+			<ShortName>Sakura Empire Industrial Era.wav</ShortName>
+			<Path>SFX\Sakura Empire Industrial Era_123ADC11.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="410953146" Language="SFX">
+			<ShortName>Azur_Lane_Sakura_Empire_Speech</ShortName>
+			<Path>Azur_Lane_Sakura_Empire_Speech.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1038655397" Name="Play_Unit_Bulin_MK1_1"/>
+				<Event Id="1038655398" Name="Play_Unit_Bulin_MK1_2"/>
+				<Event Id="1038655399" Name="Play_Unit_Bulin_MK1_3"/>
+				<Event Id="1038655392" Name="Play_Unit_Bulin_MK1_4"/>
+				<Event Id="1038655393" Name="Play_Unit_Bulin_MK1_5"/>
+				<Event Id="1038802458" Name="Play_Unit_Bulin_MK2_1"/>
+				<Event Id="1038802457" Name="Play_Unit_Bulin_MK2_2"/>
+				<Event Id="1038802456" Name="Play_Unit_Bulin_MK2_3"/>
+				<Event Id="1038802463" Name="Play_Unit_Bulin_MK2_4"/>
+				<Event Id="1038802462" Name="Play_Unit_Bulin_MK2_5"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="31082466" Language="SFX">
+					<ShortName>UNIT_BULIN_MK2_3.wav</ShortName>
+					<Path>SFX\UNIT_BULIN_MK2_3_A30F1A68.wem</Path>
+				</File>
+				<File Id="408463732" Language="SFX">
+					<ShortName>UNIT_BULIN_MK2_4.wav</ShortName>
+					<Path>SFX\UNIT_BULIN_MK2_4_A30F1A68.wem</Path>
+				</File>
+				<File Id="454730326" Language="SFX">
+					<ShortName>UNIT_BULIN_MK1_4.wav</ShortName>
+					<Path>SFX\UNIT_BULIN_MK1_4_A30F1A68.wem</Path>
+				</File>
+				<File Id="459239022" Language="SFX">
+					<ShortName>UNIT_BULIN_MK2_1.wav</ShortName>
+					<Path>SFX\UNIT_BULIN_MK2_1_A30F1A68.wem</Path>
+				</File>
+				<File Id="462327452" Language="SFX">
+					<ShortName>UNIT_BULIN_MK2_2.wav</ShortName>
+					<Path>SFX\UNIT_BULIN_MK2_2_A30F1A68.wem</Path>
+				</File>
+				<File Id="495983378" Language="SFX">
+					<ShortName>UNIT_BULIN_MK1_3.wav</ShortName>
+					<Path>SFX\UNIT_BULIN_MK1_3_A30F1A68.wem</Path>
+				</File>
+				<File Id="816809806" Language="SFX">
+					<ShortName>UNIT_BULIN_MK1_2.wav</ShortName>
+					<Path>SFX\UNIT_BULIN_MK1_2_A30F1A68.wem</Path>
+				</File>
+				<File Id="858573046" Language="SFX">
+					<ShortName>UNIT_BULIN_MK1_5.wav</ShortName>
+					<Path>SFX\UNIT_BULIN_MK1_5_A30F1A68.wem</Path>
+				</File>
+				<File Id="993526744" Language="SFX">
+					<ShortName>UNIT_BULIN_MK2_5.wav</ShortName>
+					<Path>SFX\UNIT_BULIN_MK2_5_A30F1A68.wem</Path>
+				</File>
+				<File Id="1033808190" Language="SFX">
+					<ShortName>UNIT_BULIN_MK1_1.wav</ShortName>
+					<Path>SFX\UNIT_BULIN_MK1_1_A30F1A68.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2010416950" Language="SFX">
+			<ShortName>Azur_Lane_Sakura_Empire_Audio</ShortName>
+			<Path>Azur_Lane_Sakura_Empire_Audio.bnk</Path>
+			<IncludedEvents>
+				<Event Id="75758272" Name="Pause_Music_AZUR_LANE_SE"/>
+				<Event Id="2940388068" Name="Play_Leader_Music_AZUR_LANE_SE"/>
+				<Event Id="3845086734" Name="Play_Music_AZUR_LANE_SE"/>
+				<Event Id="1354130347" Name="Resume_Music_AZUR_LANE_SE"/>
+				<Event Id="1464542694" Name="Start_Music_AZUR_LANE_SE"/>
+				<Event Id="486829202" Name="Stop_Leader_Music_AZUR_LANE_SE"/>
+				<Event Id="4092385432" Name="Stop_Music_AZUR_LANE_SE"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="481624135"/>
+				<File Id="757188491"/>
+				<File Id="766742123"/>
+				<File Id="1067645851"/>
+			</ReferencedStreamedFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

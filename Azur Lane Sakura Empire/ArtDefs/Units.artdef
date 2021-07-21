@@ -209,7 +209,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects..StringValue">
-										<m_Value text="Builder"/>
+										<m_Value text=""/>
 										<m_ParamName text="XrefName"/>
 									</Element>
 								</m_Values>
@@ -425,7 +425,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects..StringValue">
-										<m_Value text="Builder"/>
+										<m_Value text=""/>
 										<m_ParamName text="XrefName"/>
 									</Element>
 								</m_Values>
@@ -641,7 +641,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects..StringValue">
-										<m_Value text="Builder"/>
+										<m_Value text=""/>
 										<m_ParamName text="XrefName"/>
 									</Element>
 								</m_Values>
@@ -857,7 +857,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects..StringValue">
-										<m_Value text="Builder"/>
+										<m_Value text=""/>
 										<m_ParamName text="XrefName"/>
 									</Element>
 								</m_Values>
@@ -1073,7 +1073,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects..StringValue">
-										<m_Value text="MilitaryEngineerIndustrial"/>
+										<m_Value text=""/>
 										<m_ParamName text="XrefName"/>
 									</Element>
 								</m_Values>
@@ -1289,7 +1289,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects..StringValue">
-										<m_Value text="MilitaryEngineerIndustrial"/>
+										<m_Value text=""/>
 										<m_ParamName text="XrefName"/>
 									</Element>
 								</m_Values>
@@ -1505,7 +1505,7 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects..StringValue">
-										<m_Value text="MilitaryEngineerModenr"/>
+										<m_Value text=""/>
 										<m_ParamName text="XrefName"/>
 									</Element>
 								</m_Values>

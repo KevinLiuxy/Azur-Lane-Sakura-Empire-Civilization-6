@@ -21,46 +21,46 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_SAKURA_EMPIRE_JINJA_NAME"
 			Text="樱花神社"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_SAKURA_EMPIRE_JINJA_DESCRIPTION"
-			Text="重樱特色宗教活动区域。替代圣地，建造费用更低。[NEWLINE][NEWLINE]提供 +1 [ICON_Housing] 住房。从相邻加成中获得等量的 [ICON_Culture] 文化值。为相邻的单元格提供 +2 魅力，相邻的海岸 +1 [ICON_Faith] 信仰，湖泊 +2 [ICON_Faith] 信仰。+1 [ICON_Housing] 住房。"/>
+			Text="重樱特色宗教活动区域。替代圣地，建造费用更低。[NEWLINE][NEWLINE]提供 +1 [ICON_Housing] 住房。从相邻加成中获得等量的 [ICON_Culture] 文化值。为相邻的单元格提供 +2 魅力，相邻的海岸 +1 [ICON_Faith] 信仰，湖泊 +2 [ICON_Faith] 信仰。+1 [ICON_Housing] 住房。[NEWLINE]"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_SAKURA_EMPIRE_JINJA_DESCRIPTION_GS"
-			Text="重樱特色宗教活动区域。替代圣地，建造费用更低。[NEWLINE][NEWLINE]提供 +1 [ICON_Housing] 住房。从相邻加成中获得等量的 [ICON_Culture] 文化值。为相邻的单元格提供 +2 魅力，相邻的海岸 +1 [ICON_Faith] 信仰，湖泊 +2 [ICON_Faith] 信仰；相邻的火山土和地热裂缝 +3 [ICON_Faith] 信仰。"/>
+			Text="重樱特色宗教活动区域。替代圣地，建造费用更低。[NEWLINE][NEWLINE]提供 +1 [ICON_Housing] 住房。从相邻加成中获得等量的 [ICON_Culture] 文化值。为相邻的单元格提供 +2 魅力，相邻的海岸 +1 [ICON_Faith] 信仰，湖泊 +2 [ICON_Faith] 信仰；相邻的火山土和地热裂缝 +3 [ICON_Faith] 信仰。[NEWLINE]"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_BULIN_MK1_NAME"
 			Text="泛用型布里"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_BULIN_MK1_DESCRIPTION"
-			Text="Placeholder"/>
+			Text="碧蓝航线特色建造单位，替代建造者。可以使用建造次数为战斗单位提供强化（20点经验值）。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_BULIN_MK2_NAME"
 			Text="试作型布里MKII"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_BULIN_MK2_DESCRIPTION"
-			Text="Placeholder"/>
+			Text="碧蓝航线特色支援单位，替代军事工程师，拥有更多建造次数。可使用建造次数为战斗单位提供强化（升级单位）。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_AZUR_LANE_AYANAMI_NAME"
 			Text="碧蓝航线 · 绫波（柚）"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_KISHIN_NAME"
 			Text="鬼神"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_KISHIN_DESCRIPTION"
-			Text="Placeholder"/>
+			Text="城市不会产生厌战情绪。军事单位无视敌方区域控制。受到伤害后，单位的 [ICON_Strength] 战斗力减益降低 50%。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_AZUR_LANE_YUUDACHI_NAME"
 			Text="碧蓝航线 · 夕立（椿）"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_NAME"
 			Text="所罗门的狂犬"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_DESCRIPTION"
-			Text="Placeholder"/>
+			Text="军事单位夹击加成翻倍，掠夺和海岸扫荡的收益 +50%。牧场、营地和渔船 +1 [ICON_Food] 食物 +1 [ICON_Production] 生产力。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_AZUR_LANE_SHIGURE_NAME"
 			Text="碧蓝航线 · 时雨（栴）"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_NAME"
 			Text="好运陪伴之船"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_DESCRIPTION"
-			Text="Placeholder"/>
+			Text="经验值高于 30 的单位被击杀时，将损失 30 点经验，保留 1 点体力值并撤退至最近的城市。拥有总督的城市 +1 [ICON_Amenities] 宜居度、+4 忠诚度。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_AZUR_LANE_YUKIKAZE_NAME"
 			Text="碧蓝航线 · 雪风（莲）"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_NAME"
-			Text="不沉的幸运舰"/>
+			Text="奇迹的幸运舰"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_DESCRIPTION"
-			Text="Placeholder"/>
+			Text="[ICON_TechBoosted] 尤里卡和 [ICON_CivicBoosted] 鼓舞随机提供 40% ~ 80% 的科技与市政。领土内敌方间谍等级降低2级。环境效应无法对城市中的改良设施、建筑与区域造成伤害。"/>
 	</LocalizedText>
 </GameData>

@@ -111,6 +111,15 @@ VALUES (
 ),(
 	/* Domain  */ 'Players:Expansion2_Players',
 	/* CivType */ 'CIVILIZATION_AZUR_LANE_SE',
+	/* LdrType */ 'LEADER_AZUR_LANE_AYANAMI',
+	/* ItmType */ 'UNIT_BULIN_MK2',
+	/* ItmIcon */ 'ICON_UNIT_BULIN_MK2',
+	/* ItmName */ 'LOC_UNIT_BULIN_MK2_NAME',
+	/* Dscrptn */ 'LOC_UNIT_BULIN_MK2_DESCRIPTION',
+	/* SortIdx */ 40
+),(
+	/* Domain  */ 'Players:Expansion2_Players',
+	/* CivType */ 'CIVILIZATION_AZUR_LANE_SE',
 	/* LdrType */ 'LEADER_AZUR_LANE_YUUDACHI',
 	/* ItmType */ 'BUILDING_KAIGUN_KOSHO',
 	/* ItmIcon */ 'ICON_BUILDING_KAIGUN_KOSHO',
@@ -135,6 +144,15 @@ VALUES (
 	/* ItmName */ 'LOC_UNIT_BULIN_MK1_NAME',
 	/* Dscrptn */ 'LOC_UNIT_BULIN_MK1_DESCRIPTION',
 	/* SortIdx */ 30
+),(
+	/* Domain  */ 'Players:Expansion2_Players',
+	/* CivType */ 'CIVILIZATION_AZUR_LANE_SE',
+	/* LdrType */ 'LEADER_AZUR_LANE_YUUDACHI',
+	/* ItmType */ 'UNIT_BULIN_MK2',
+	/* ItmIcon */ 'ICON_UNIT_BULIN_MK2',
+	/* ItmName */ 'LOC_UNIT_BULIN_MK2_NAME',
+	/* Dscrptn */ 'LOC_UNIT_BULIN_MK2_DESCRIPTION',
+	/* SortIdx */ 40
 ),(
 	/* Domain  */ 'Players:Expansion2_Players',
 	/* CivType */ 'CIVILIZATION_AZUR_LANE_SE',
@@ -165,6 +183,15 @@ VALUES (
 ),(
 	/* Domain  */ 'Players:Expansion2_Players',
 	/* CivType */ 'CIVILIZATION_AZUR_LANE_SE',
+	/* LdrType */ 'LEADER_AZUR_LANE_SHIGURE',
+	/* ItmType */ 'UNIT_BULIN_MK2',
+	/* ItmIcon */ 'ICON_UNIT_BULIN_MK2',
+	/* ItmName */ 'LOC_UNIT_BULIN_MK2_NAME',
+	/* Dscrptn */ 'LOC_UNIT_BULIN_MK2_DESCRIPTION',
+	/* SortIdx */ 40
+),(
+	/* Domain  */ 'Players:Expansion2_Players',
+	/* CivType */ 'CIVILIZATION_AZUR_LANE_SE',
 	/* LdrType */ 'LEADER_AZUR_LANE_YUKIKAZE',
 	/* ItmType */ 'BUILDING_KAIGUN_KOSHO',
 	/* ItmIcon */ 'ICON_BUILDING_KAIGUN_KOSHO',
@@ -189,4 +216,13 @@ VALUES (
 	/* ItmName */ 'LOC_UNIT_BULIN_MK1_NAME',
 	/* Dscrptn */ 'LOC_UNIT_BULIN_MK1_DESCRIPTION',
 	/* SortIdx */ 30
+),(
+	/* Domain  */ 'Players:Expansion2_Players',
+	/* CivType */ 'CIVILIZATION_AZUR_LANE_SE',
+	/* LdrType */ 'LEADER_AZUR_LANE_YUKIKAZE',
+	/* ItmType */ 'UNIT_BULIN_MK2',
+	/* ItmIcon */ 'ICON_UNIT_BULIN_MK2',
+	/* ItmName */ 'LOC_UNIT_BULIN_MK2_NAME',
+	/* Dscrptn */ 'LOC_UNIT_BULIN_MK2_DESCRIPTION',
+	/* SortIdx */ 40
 );

@@ -57,12 +57,26 @@
 		<Row Name="ICON_ATLAS_DISTRICT_SAKURA_EMPIRE_JINJA" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_DISTRICT_SAKURA_EMPIRE_JINJA_38.dds"/>
 		<Row Name="ICON_ATLAS_DISTRICT_SAKURA_EMPIRE_JINJA" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_DISTRICT_SAKURA_EMPIRE_JINJA_32.dds"/>
 
+		<Row Name="ICON_ATLAS_UNIT_BULIN_MK1" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_BULIN_MK1_256.dds"/>
+		<Row Name="ICON_ATLAS_UNIT_BULIN_MK1" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_BULIN_MK1_80.dds"/>
+		<Row Name="ICON_ATLAS_UNIT_BULIN_MK1" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_BULIN_MK1_50.dds"/>
+		<Row Name="ICON_ATLAS_UNIT_BULIN_MK1" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_BULIN_MK1_38.dds"/>
+		<Row Name="ICON_ATLAS_UNIT_BULIN_MK1" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_BULIN_MK1_32.dds"/>
+		<Row Name="ICON_ATLAS_UNIT_BULIN_MK1" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_BULIN_MK1_22.dds"/>
+
 		<Row Name="ICON_ATLAS_UNIT_BULIN_MK1_PORTRAIT" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_BULIN_MK1_256.dds"/>
 		<Row Name="ICON_ATLAS_UNIT_BULIN_MK1_PORTRAIT" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_BULIN_MK1_200.dds"/>
 		<Row Name="ICON_ATLAS_UNIT_BULIN_MK1_PORTRAIT" IconSize="95" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_BULIN_MK1_95.dds"/>
 		<Row Name="ICON_ATLAS_UNIT_BULIN_MK1_PORTRAIT" IconSize="70" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_BULIN_MK1_70.dds"/>
 		<Row Name="ICON_ATLAS_UNIT_BULIN_MK1_PORTRAIT" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_BULIN_MK1_50.dds"/>
 		<Row Name="ICON_ATLAS_UNIT_BULIN_MK1_PORTRAIT" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_BULIN_MK1_38.dds"/>
+
+		<Row Name="ICON_ATLAS_UNIT_BULIN_MK2" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_BULIN_MK2_256.dds"/>
+		<Row Name="ICON_ATLAS_UNIT_BULIN_MK2" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_BULIN_MK2_80.dds"/>
+		<Row Name="ICON_ATLAS_UNIT_BULIN_MK2" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_BULIN_MK2_50.dds"/>
+		<Row Name="ICON_ATLAS_UNIT_BULIN_MK2" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_BULIN_MK2_38.dds"/>
+		<Row Name="ICON_ATLAS_UNIT_BULIN_MK2" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_BULIN_MK2_32.dds"/>
+		<Row Name="ICON_ATLAS_UNIT_BULIN_MK2" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_BULIN_MK2_22.dds"/>
 		
 		<Row Name="ICON_ATLAS_UNIT_BULIN_MK2_PORTRAIT" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_BULIN_MK2_256.dds"/>
 		<Row Name="ICON_ATLAS_UNIT_BULIN_MK2_PORTRAIT" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_BULIN_MK2_200.dds"/>
@@ -81,7 +95,9 @@
 		<Row Name="ICON_DISTRICT_SAKURA_EMPIRE_JINJA" Atlas="ICON_ATLAS_DISTRICT_SAKURA_EMPIRE_JINJA" index="0"/>
 		<Row Name="DISTRICT_SAKURA_EMPIRE_JINJA" Atlas="ICON_ATLAS_FONT_ICON_BASELINE_4" Index="180"/>
 		<Row Name="ICON_BUILDING_KAIGUN_KOSHO" Atlas="ICON_ATLAS_BUILDINGS" index="22"/>
+		<Row Name="ICON_UNIT_BULIN_MK1" Atlas="ICON_ATLAS_UNIT_BULIN_MK1" index="0"/>
 		<Row Name="ICON_UNIT_BULIN_MK1_PORTRAIT" Atlas="ICON_ATLAS_UNIT_BULIN_MK1_PORTRAIT" index="0"/>
+		<Row Name="ICON_UNIT_BULIN_MK2" Atlas="ICON_ATLAS_UNIT_BULIN_MK2" index="0"/>
 		<Row Name="ICON_UNIT_BULIN_MK2_PORTRAIT" Atlas="ICON_ATLAS_UNIT_BULIN_MK2_PORTRAIT" index="0"/>
 	</IconDefinitions>
 </GameData>
