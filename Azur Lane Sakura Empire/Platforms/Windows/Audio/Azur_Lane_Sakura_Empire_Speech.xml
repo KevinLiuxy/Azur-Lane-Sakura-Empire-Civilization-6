@@ -1,37 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
-	<RootPaths>
-		<ProjectRoot>C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Azur Lane Sakura Empire\Azur Lane Sakura Empire - Audio\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Azur Lane Sakura Empire\Azur Lane Sakura Empire - Audio\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Azur Lane Sakura Empire\Azur Lane Sakura Empire - Audio\GeneratedSoundBanks\Windows\</SoundBanksRoot>
-		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\liuxi\Documents\Firaxis ModBuddy\Civilization VI\Azur Lane Sakura Empire\Azur Lane Sakura Empire - Audio\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
-	</RootPaths>
+	<RootPaths/>
 	<DialogueEvents/>
-	<StreamedFiles>
-		<File Id="481624135" Language="SFX">
-			<ShortName>Sakura Empire Medieval Era.wav</ShortName>
-			<Path>SFX\Sakura Empire Medieval Era_123ADC11.wem</Path>
-		</File>
-		<File Id="757188491" Language="SFX">
-			<ShortName>Sakura Empire Atomic Era.wav</ShortName>
-			<Path>SFX\Sakura Empire Atomic Era_123ADC11.wem</Path>
-		</File>
-		<File Id="766742123" Language="SFX">
-			<ShortName>Sakura Empire Ancient Era.wav</ShortName>
-			<Path>SFX\Sakura Empire Ancient Era_123ADC11.wem</Path>
-		</File>
-		<File Id="1067645851" Language="SFX">
-			<ShortName>Sakura Empire Industrial Era.wav</ShortName>
-			<Path>SFX\Sakura Empire Industrial Era_123ADC11.wem</Path>
-		</File>
-	</StreamedFiles>
+	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
 		<SoundBank Id="410953146" Language="SFX">
 			<ShortName>Azur_Lane_Sakura_Empire_Speech</ShortName>
 			<Path>Azur_Lane_Sakura_Empire_Speech.bnk</Path>
 			<IncludedEvents>
+				<Event Id="4034943115" Name="ALSE_AY_DECLARE_FRIEND"/>
+				<Event Id="1641073479" Name="ALSE_AY_DECLARE_WAR_FROM_AI"/>
+				<Event Id="3373135552" Name="ALSE_AY_DECLARE_WAR_FROM_HUMAN"/>
+				<Event Id="2390946675" Name="ALSE_AY_DEFEAT"/>
+				<Event Id="155196823" Name="ALSE_AY_DENOUNCE_FROM_AI"/>
+				<Event Id="2745434128" Name="ALSE_AY_DENOUNCE_FROM_HUMAN"/>
+				<Event Id="2752147706" Name="ALSE_AY_FIRST_MEET"/>
+				<Event Id="3078445400" Name="ALSE_AY_IDLE_1"/>
+				<Event Id="3078445403" Name="ALSE_AY_IDLE_2"/>
+				<Event Id="2475903133" Name="ALSE_AY_KUDO"/>
+				<Event Id="2782859079" Name="ALSE_AY_MAKE_PEACE"/>
+				<Event Id="2500928687" Name="ALSE_AY_NEGATIVE"/>
+				<Event Id="3231736731" Name="ALSE_AY_POSITIVE"/>
+				<Event Id="2833675202" Name="ALSE_AY_WARNING"/>
+				<Event Id="2373147927" Name="ALSE_AY_WIKI_QUOTE"/>
+				<Event Id="4105029586" Name="ALSE_SH_DECLARE_FRIEND"/>
+				<Event Id="1680505964" Name="ALSE_SH_DECLARE_WAR_FROM_AI"/>
+				<Event Id="3527407965" Name="ALSE_SH_DECLARE_WAR_FROM_HUMAN"/>
+				<Event Id="845588094" Name="ALSE_SH_DEFEAT"/>
+				<Event Id="2964323318" Name="ALSE_SH_DENOUNCE_FROM_AI"/>
+				<Event Id="2804252799" Name="ALSE_SH_DENOUNCE_FROM_HUMAN"/>
+				<Event Id="1923292847" Name="ALSE_SH_FIRST_MEET"/>
+				<Event Id="2974956177" Name="ALSE_SH_IDLE_1"/>
+				<Event Id="2974956178" Name="ALSE_SH_IDLE_2"/>
+				<Event Id="2122736408" Name="ALSE_SH_KUDO"/>
+				<Event Id="979395330" Name="ALSE_SH_MAKE_PEACE"/>
+				<Event Id="3611646522" Name="ALSE_SH_NEGATIVE"/>
+				<Event Id="3658261162" Name="ALSE_SH_POSITIVE"/>
+				<Event Id="236360089" Name="ALSE_SH_WARNING"/>
+				<Event Id="1783216270" Name="ALSE_SH_WIKI_QUOTE"/>
+				<Event Id="824840721" Name="ALSE_YK_DECLARE_FRIEND"/>
+				<Event Id="2158780585" Name="ALSE_YK_DECLARE_WAR_FROM_AI"/>
+				<Event Id="2048403218" Name="ALSE_YK_DECLARE_WAR_FROM_HUMAN"/>
+				<Event Id="3413720085" Name="ALSE_YK_DEFEAT"/>
+				<Event Id="3710178489" Name="ALSE_YK_DENOUNCE_FROM_AI"/>
+				<Event Id="347230946" Name="ALSE_YK_DENOUNCE_FROM_HUMAN"/>
+				<Event Id="321266704" Name="ALSE_YK_FIRST_MEET"/>
+				<Event Id="1261673394" Name="ALSE_YK_IDLE_1"/>
+				<Event Id="1261673393" Name="ALSE_YK_IDLE_2"/>
+				<Event Id="1034840827" Name="ALSE_YK_KUDO"/>
+				<Event Id="1194682145" Name="ALSE_YK_MAKE_PEACE"/>
+				<Event Id="1515056881" Name="ALSE_YK_NEGATIVE"/>
+				<Event Id="2923333757" Name="ALSE_YK_POSITIVE"/>
+				<Event Id="4252110248" Name="ALSE_YK_WARNING"/>
+				<Event Id="245714749" Name="ALSE_YK_WIKI_QUOTE"/>
+				<Event Id="1313795991" Name="ALSE_YU_DECLARE_FRIEND"/>
+				<Event Id="2960677019" Name="ALSE_YU_DECLARE_WAR_FROM_AI"/>
+				<Event Id="3410734340" Name="ALSE_YU_DECLARE_WAR_FROM_HUMAN"/>
+				<Event Id="2011259935" Name="ALSE_YU_DEFEAT"/>
+				<Event Id="804692635" Name="ALSE_YU_DENOUNCE_FROM_AI"/>
+				<Event Id="4010367748" Name="ALSE_YU_DENOUNCE_FROM_HUMAN"/>
+				<Event Id="139272966" Name="ALSE_YU_FIRST_MEET"/>
+				<Event Id="353679836" Name="ALSE_YU_IDLE_1"/>
+				<Event Id="353679839" Name="ALSE_YU_IDLE_2"/>
+				<Event Id="897651897" Name="ALSE_YU_KUDO"/>
+				<Event Id="1173707987" Name="ALSE_YU_MAKE_PEACE"/>
+				<Event Id="3871342211" Name="ALSE_YU_NEGATIVE"/>
+				<Event Id="623865455" Name="ALSE_YU_POSITIVE"/>
+				<Event Id="261297646" Name="ALSE_YU_WARNING"/>
+				<Event Id="2233199371" Name="ALSE_YU_WIKI_QUOTE"/>
 				<Event Id="1038655397" Name="Play_Unit_Bulin_MK1_1"/>
 				<Event Id="1038655398" Name="Play_Unit_Bulin_MK1_2"/>
 				<Event Id="1038655399" Name="Play_Unit_Bulin_MK1_3"/>
@@ -44,9 +81,109 @@
 				<Event Id="1038802462" Name="Play_Unit_Bulin_MK2_5"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
+				<File Id="23029126" Language="SFX">
+					<ShortName>ALSE_YK_DECLARE_WAR_FROM_HUMAN.wav</ShortName>
+					<Path>SFX\ALSE_YK_DECLARE_WAR_FROM_HUMAN_A30F1A68.wem</Path>
+				</File>
 				<File Id="31082466" Language="SFX">
 					<ShortName>UNIT_BULIN_MK2_3.wav</ShortName>
 					<Path>SFX\UNIT_BULIN_MK2_3_A30F1A68.wem</Path>
+				</File>
+				<File Id="68428006" Language="SFX">
+					<ShortName>ALSE_SH_NEGATIVE.wav</ShortName>
+					<Path>SFX\ALSE_SH_NEGATIVE_A30F1A68.wem</Path>
+				</File>
+				<File Id="76757663" Language="SFX">
+					<ShortName>ALSE_AY_FIRST_MEET.wav</ShortName>
+					<Path>SFX\ALSE_AY_FIRST_MEET_A30F1A68.wem</Path>
+				</File>
+				<File Id="89753783" Language="SFX">
+					<ShortName>ALSE_YU_DENOUNCE_FROM_HUMAN.wav</ShortName>
+					<Path>SFX\ALSE_YU_DENOUNCE_FROM_HUMAN_A30F1A68.wem</Path>
+				</File>
+				<File Id="133603562" Language="SFX">
+					<ShortName>ALSE_AY_MAKE_PEACE.wav</ShortName>
+					<Path>SFX\ALSE_AY_MAKE_PEACE_A30F1A68.wem</Path>
+				</File>
+				<File Id="146575312" Language="SFX">
+					<ShortName>ALSE_YU_DECLARE_WAR_FROM_AI.wav</ShortName>
+					<Path>SFX\ALSE_YU_DECLARE_WAR_FROM_AI_A30F1A68.wem</Path>
+				</File>
+				<File Id="146639100" Language="SFX">
+					<ShortName>ALSE_AY_WARNING.wav</ShortName>
+					<Path>SFX\ALSE_AY_WARNING_A30F1A68.wem</Path>
+				</File>
+				<File Id="147985979" Language="SFX">
+					<ShortName>ALSE_YK_DENOUNCE_FROM_AI.wav</ShortName>
+					<Path>SFX\ALSE_YK_DENOUNCE_FROM_AI_A30F1A68.wem</Path>
+				</File>
+				<File Id="169528052" Language="SFX">
+					<ShortName>ALSE_YU_DECLARE_FRIEND.wav</ShortName>
+					<Path>SFX\ALSE_YU_DECLARE_FRIEND_A30F1A68.wem</Path>
+				</File>
+				<File Id="174321056" Language="SFX">
+					<ShortName>ALSE_YU_IDLE_1.wav</ShortName>
+					<Path>SFX\ALSE_YU_IDLE_1_A30F1A68.wem</Path>
+				</File>
+				<File Id="186071138" Language="SFX">
+					<ShortName>ALSE_SH_DENOUNCE_FROM_HUMAN.wav</ShortName>
+					<Path>SFX\ALSE_SH_DENOUNCE_FROM_HUMAN_A30F1A68.wem</Path>
+				</File>
+				<File Id="188226862" Language="SFX">
+					<ShortName>ALSE_YU_DEFEAT.wav</ShortName>
+					<Path>SFX\ALSE_YU_DEFEAT_A30F1A68.wem</Path>
+				</File>
+				<File Id="196558050" Language="SFX">
+					<ShortName>ALSE_SH_FIRST_MEET.wav</ShortName>
+					<Path>SFX\ALSE_SH_FIRST_MEET_A30F1A68.wem</Path>
+				</File>
+				<File Id="211838328" Language="SFX">
+					<ShortName>ALSE_YK_POSITIVE.wav</ShortName>
+					<Path>SFX\ALSE_YK_POSITIVE_A30F1A68.wem</Path>
+				</File>
+				<File Id="218033511" Language="SFX">
+					<ShortName>ALSE_YK_KUDO.wav</ShortName>
+					<Path>SFX\ALSE_YK_KUDO_A30F1A68.wem</Path>
+				</File>
+				<File Id="223932415" Language="SFX">
+					<ShortName>ALSE_AY_POSITIVE.wav</ShortName>
+					<Path>SFX\ALSE_AY_POSITIVE_A30F1A68.wem</Path>
+				</File>
+				<File Id="227033763" Language="SFX">
+					<ShortName>ALSE_SH_POSITIVE.wav</ShortName>
+					<Path>SFX\ALSE_SH_POSITIVE_A30F1A68.wem</Path>
+				</File>
+				<File Id="259116057" Language="SFX">
+					<ShortName>ALSE_YU_WIKI_QUOTE.wav</ShortName>
+					<Path>SFX\ALSE_YU_WIKI_QUOTE_A30F1A68.wem</Path>
+				</File>
+				<File Id="270428431" Language="SFX">
+					<ShortName>ALSE_SH_DENOUNCE_FROM_AI.wav</ShortName>
+					<Path>SFX\ALSE_SH_DENOUNCE_FROM_AI_A30F1A68.wem</Path>
+				</File>
+				<File Id="272965159" Language="SFX">
+					<ShortName>ALSE_AY_DECLARE_FRIEND.wav</ShortName>
+					<Path>SFX\ALSE_AY_DECLARE_FRIEND_A30F1A68.wem</Path>
+				</File>
+				<File Id="317139503" Language="SFX">
+					<ShortName>ALSE_YK_WIKI_QUOTE.wav</ShortName>
+					<Path>SFX\ALSE_YK_WIKI_QUOTE_A30F1A68.wem</Path>
+				</File>
+				<File Id="339027823" Language="SFX">
+					<ShortName>ALSE_YU_WARNING.wav</ShortName>
+					<Path>SFX\ALSE_YU_WARNING_A30F1A68.wem</Path>
+				</File>
+				<File Id="367582876" Language="SFX">
+					<ShortName>ALSE_SH_KUDO.wav</ShortName>
+					<Path>SFX\ALSE_SH_KUDO_A30F1A68.wem</Path>
+				</File>
+				<File Id="388546405" Language="SFX">
+					<ShortName>ALSE_YK_FIRST_MEET.wav</ShortName>
+					<Path>SFX\ALSE_YK_FIRST_MEET_A30F1A68.wem</Path>
+				</File>
+				<File Id="396028924" Language="SFX">
+					<ShortName>ALSE_YK_DECLARE_WAR_FROM_AI.wav</ShortName>
+					<Path>SFX\ALSE_YK_DECLARE_WAR_FROM_AI_A30F1A68.wem</Path>
 				</File>
 				<File Id="408463732" Language="SFX">
 					<ShortName>UNIT_BULIN_MK2_4.wav</ShortName>
@@ -56,6 +193,10 @@
 					<ShortName>UNIT_BULIN_MK1_4.wav</ShortName>
 					<Path>SFX\UNIT_BULIN_MK1_4_A30F1A68.wem</Path>
 				</File>
+				<File Id="455463740" Language="SFX">
+					<ShortName>ALSE_YU_FIRST_MEET.wav</ShortName>
+					<Path>SFX\ALSE_YU_FIRST_MEET_A30F1A68.wem</Path>
+				</File>
 				<File Id="459239022" Language="SFX">
 					<ShortName>UNIT_BULIN_MK2_1.wav</ShortName>
 					<Path>SFX\UNIT_BULIN_MK2_1_A30F1A68.wem</Path>
@@ -64,50 +205,163 @@
 					<ShortName>UNIT_BULIN_MK2_2.wav</ShortName>
 					<Path>SFX\UNIT_BULIN_MK2_2_A30F1A68.wem</Path>
 				</File>
+				<File Id="480401358" Language="SFX">
+					<ShortName>ALSE_AY_WIKI_QUOTE.wav</ShortName>
+					<Path>SFX\ALSE_AY_WIKI_QUOTE_A30F1A68.wem</Path>
+				</File>
+				<File Id="491767901" Language="SFX">
+					<ShortName>ALSE_YU_DENOUNCE_FROM_AI.wav</ShortName>
+					<Path>SFX\ALSE_YU_DENOUNCE_FROM_AI_A30F1A68.wem</Path>
+				</File>
 				<File Id="495983378" Language="SFX">
 					<ShortName>UNIT_BULIN_MK1_3.wav</ShortName>
 					<Path>SFX\UNIT_BULIN_MK1_3_A30F1A68.wem</Path>
+				</File>
+				<File Id="499539264" Language="SFX">
+					<ShortName>ALSE_SH_IDLE_1.wav</ShortName>
+					<Path>SFX\ALSE_SH_IDLE_1_A30F1A68.wem</Path>
+				</File>
+				<File Id="503451463" Language="SFX">
+					<ShortName>ALSE_AY_IDLE_2.wav</ShortName>
+					<Path>SFX\ALSE_AY_IDLE_2_A30F1A68.wem</Path>
+				</File>
+				<File Id="529020610" Language="SFX">
+					<ShortName>ALSE_SH_WIKI_QUOTE.wav</ShortName>
+					<Path>SFX\ALSE_SH_WIKI_QUOTE_A30F1A68.wem</Path>
+				</File>
+				<File Id="534633926" Language="SFX">
+					<ShortName>ALSE_YK_IDLE_1.wav</ShortName>
+					<Path>SFX\ALSE_YK_IDLE_1_A30F1A68.wem</Path>
+				</File>
+				<File Id="539838637" Language="SFX">
+					<ShortName>ALSE_AY_DECLARE_WAR_FROM_HUMAN.wav</ShortName>
+					<Path>SFX\ALSE_AY_DECLARE_WAR_FROM_HUMAN_A30F1A68.wem</Path>
+				</File>
+				<File Id="541927942" Language="SFX">
+					<ShortName>ALSE_AY_NEGATIVE.wav</ShortName>
+					<Path>SFX\ALSE_AY_NEGATIVE_A30F1A68.wem</Path>
+				</File>
+				<File Id="547069250" Language="SFX">
+					<ShortName>ALSE_SH_MAKE_PEACE.wav</ShortName>
+					<Path>SFX\ALSE_SH_MAKE_PEACE_A30F1A68.wem</Path>
+				</File>
+				<File Id="555350444" Language="SFX">
+					<ShortName>ALSE_AY_IDLE_1.wav</ShortName>
+					<Path>SFX\ALSE_AY_IDLE_1_A30F1A68.wem</Path>
+				</File>
+				<File Id="565167366" Language="SFX">
+					<ShortName>ALSE_AY_DENOUNCE_FROM_HUMAN.wav</ShortName>
+					<Path>SFX\ALSE_AY_DENOUNCE_FROM_HUMAN_A30F1A68.wem</Path>
+				</File>
+				<File Id="573288365" Language="SFX">
+					<ShortName>ALSE_SH_DECLARE_WAR_FROM_HUMAN.wav</ShortName>
+					<Path>SFX\ALSE_SH_DECLARE_WAR_FROM_HUMAN_A30F1A68.wem</Path>
+				</File>
+				<File Id="603458989" Language="SFX">
+					<ShortName>ALSE_YU_IDLE_2.wav</ShortName>
+					<Path>SFX\ALSE_YU_IDLE_2_A30F1A68.wem</Path>
+				</File>
+				<File Id="613334855" Language="SFX">
+					<ShortName>ALSE_YK_DECLARE_FRIEND.wav</ShortName>
+					<Path>SFX\ALSE_YK_DECLARE_FRIEND_A30F1A68.wem</Path>
+				</File>
+				<File Id="614928158" Language="SFX">
+					<ShortName>ALSE_YK_DEFEAT.wav</ShortName>
+					<Path>SFX\ALSE_YK_DEFEAT_A30F1A68.wem</Path>
+				</File>
+				<File Id="648287160" Language="SFX">
+					<ShortName>ALSE_YK_MAKE_PEACE.wav</ShortName>
+					<Path>SFX\ALSE_YK_MAKE_PEACE_A30F1A68.wem</Path>
+				</File>
+				<File Id="662582545" Language="SFX">
+					<ShortName>ALSE_SH_DECLARE_WAR_FROM_AI.wav</ShortName>
+					<Path>SFX\ALSE_SH_DECLARE_WAR_FROM_AI_A30F1A68.wem</Path>
+				</File>
+				<File Id="703131129" Language="SFX">
+					<ShortName>ALSE_SH_IDLE_2.wav</ShortName>
+					<Path>SFX\ALSE_SH_IDLE_2_A30F1A68.wem</Path>
+				</File>
+				<File Id="727196924" Language="SFX">
+					<ShortName>ALSE_YK_IDLE_2.wav</ShortName>
+					<Path>SFX\ALSE_YK_IDLE_2_A30F1A68.wem</Path>
+				</File>
+				<File Id="750592602" Language="SFX">
+					<ShortName>ALSE_YK_DENOUNCE_FROM_HUMAN.wav</ShortName>
+					<Path>SFX\ALSE_YK_DENOUNCE_FROM_HUMAN_A30F1A68.wem</Path>
+				</File>
+				<File Id="799644290" Language="SFX">
+					<ShortName>ALSE_SH_DEFEAT.wav</ShortName>
+					<Path>SFX\ALSE_SH_DEFEAT_A30F1A68.wem</Path>
 				</File>
 				<File Id="816809806" Language="SFX">
 					<ShortName>UNIT_BULIN_MK1_2.wav</ShortName>
 					<Path>SFX\UNIT_BULIN_MK1_2_A30F1A68.wem</Path>
 				</File>
+				<File Id="857076693" Language="SFX">
+					<ShortName>ALSE_YU_NEGATIVE.wav</ShortName>
+					<Path>SFX\ALSE_YU_NEGATIVE_A30F1A68.wem</Path>
+				</File>
 				<File Id="858573046" Language="SFX">
 					<ShortName>UNIT_BULIN_MK1_5.wav</ShortName>
 					<Path>SFX\UNIT_BULIN_MK1_5_A30F1A68.wem</Path>
+				</File>
+				<File Id="861853354" Language="SFX">
+					<ShortName>ALSE_AY_KUDO.wav</ShortName>
+					<Path>SFX\ALSE_AY_KUDO_A30F1A68.wem</Path>
+				</File>
+				<File Id="883805014" Language="SFX">
+					<ShortName>ALSE_AY_DECLARE_WAR_FROM_AI.wav</ShortName>
+					<Path>SFX\ALSE_AY_DECLARE_WAR_FROM_AI_A30F1A68.wem</Path>
+				</File>
+				<File Id="911549903" Language="SFX">
+					<ShortName>ALSE_SH_DECLARE_FRIEND.wav</ShortName>
+					<Path>SFX\ALSE_SH_DECLARE_FRIEND_A30F1A68.wem</Path>
+				</File>
+				<File Id="918353185" Language="SFX">
+					<ShortName>ALSE_YU_KUDO.wav</ShortName>
+					<Path>SFX\ALSE_YU_KUDO_A30F1A68.wem</Path>
+				</File>
+				<File Id="929171452" Language="SFX">
+					<ShortName>ALSE_YU_MAKE_PEACE.wav</ShortName>
+					<Path>SFX\ALSE_YU_MAKE_PEACE_A30F1A68.wem</Path>
+				</File>
+				<File Id="949051137" Language="SFX">
+					<ShortName>ALSE_YU_DECLARE_WAR_FROM_HUMAN.wav</ShortName>
+					<Path>SFX\ALSE_YU_DECLARE_WAR_FROM_HUMAN_A30F1A68.wem</Path>
+				</File>
+				<File Id="959151330" Language="SFX">
+					<ShortName>ALSE_YU_POSITIVE.wav</ShortName>
+					<Path>SFX\ALSE_YU_POSITIVE_A30F1A68.wem</Path>
+				</File>
+				<File Id="960123874" Language="SFX">
+					<ShortName>ALSE_AY_DENOUNCE_FROM_AI.wav</ShortName>
+					<Path>SFX\ALSE_AY_DENOUNCE_FROM_AI_A30F1A68.wem</Path>
 				</File>
 				<File Id="993526744" Language="SFX">
 					<ShortName>UNIT_BULIN_MK2_5.wav</ShortName>
 					<Path>SFX\UNIT_BULIN_MK2_5_A30F1A68.wem</Path>
 				</File>
+				<File Id="993567421" Language="SFX">
+					<ShortName>ALSE_SH_WARNING.wav</ShortName>
+					<Path>SFX\ALSE_SH_WARNING_A30F1A68.wem</Path>
+				</File>
+				<File Id="1029752996" Language="SFX">
+					<ShortName>ALSE_YK_NEGATIVE.wav</ShortName>
+					<Path>SFX\ALSE_YK_NEGATIVE_A30F1A68.wem</Path>
+				</File>
+				<File Id="1032992299" Language="SFX">
+					<ShortName>ALSE_YK_WARNING.wav</ShortName>
+					<Path>SFX\ALSE_YK_WARNING_A30F1A68.wem</Path>
+				</File>
 				<File Id="1033808190" Language="SFX">
 					<ShortName>UNIT_BULIN_MK1_1.wav</ShortName>
 					<Path>SFX\UNIT_BULIN_MK1_1_A30F1A68.wem</Path>
 				</File>
+				<File Id="1035115782" Language="SFX">
+					<ShortName>ALSE_AY_DEFEAT.wav</ShortName>
+					<Path>SFX\ALSE_AY_DEFEAT_A30F1A68.wem</Path>
+				</File>
 			</IncludedMemoryFiles>
-		</SoundBank>
-		<SoundBank Id="1355168291" Language="SFX">
-			<ShortName>Init</ShortName>
-			<Path>Init.bnk</Path>
-		</SoundBank>
-		<SoundBank Id="2010416950" Language="SFX">
-			<ShortName>Azur_Lane_Sakura_Empire_Audio</ShortName>
-			<Path>Azur_Lane_Sakura_Empire_Audio.bnk</Path>
-			<IncludedEvents>
-				<Event Id="75758272" Name="Pause_Music_AZUR_LANE_SE"/>
-				<Event Id="2940388068" Name="Play_Leader_Music_AZUR_LANE_SE"/>
-				<Event Id="3845086734" Name="Play_Music_AZUR_LANE_SE"/>
-				<Event Id="1354130347" Name="Resume_Music_AZUR_LANE_SE"/>
-				<Event Id="1464542694" Name="Start_Music_AZUR_LANE_SE"/>
-				<Event Id="486829202" Name="Stop_Leader_Music_AZUR_LANE_SE"/>
-				<Event Id="4092385432" Name="Stop_Music_AZUR_LANE_SE"/>
-			</IncludedEvents>
-			<ReferencedStreamedFiles>
-				<File Id="481624135"/>
-				<File Id="757188491"/>
-				<File Id="766742123"/>
-				<File Id="1067645851"/>
-			</ReferencedStreamedFiles>
 		</SoundBank>
 	</SoundBanks>
 </SoundBanksInfo>

@@ -3,15 +3,15 @@
 	<Platform GUID="{699ED1CD-60BB-4B3D-A241-14DBA846E1C3}">
 		<Language ID="0">
 			<Bank Name="Azur_Lane_Sakura_Empire_Audio" Hash="3174527954" StreamHash="148039513" Timestamp="132708600091236881"/>
-			<Bank Name="Azur_Lane_Sakura_Empire_Speech" Hash="399152877" StreamHash="157587662" Timestamp="132712212011732199"/>
-			<Bank Name="Init" Hash="1045212614" StreamHash="157587662" Timestamp="132712161994961368"/>
+			<Bank Name="Azur_Lane_Sakura_Empire_Speech" Hash="1284146993" StreamHash="157587662" Timestamp="132716492659789115"/>
+			<Bank Name="Init" Hash="1045212614" StreamHash="157587662" Timestamp="132715550622275415"/>
 		</Language>
 	</Platform>
 	<Platform GUID="{81F8CFE5-E8B3-4189-998C-6E5B483DF399}">
 		<Language ID="0">
 			<Bank Name="Azur_Lane_Sakura_Empire_Audio" Hash="3174527954" StreamHash="148039513" Timestamp="132708600094589930"/>
-			<Bank Name="Azur_Lane_Sakura_Empire_Speech" Hash="399152877" StreamHash="157587662" Timestamp="132712212047845020"/>
-			<Bank Name="Init" Hash="695083073" StreamHash="157587662" Timestamp="132712162004960454"/>
+			<Bank Name="Azur_Lane_Sakura_Empire_Speech" Hash="1284146993" StreamHash="157587662" Timestamp="132716492670268637"/>
+			<Bank Name="Init" Hash="695083073" StreamHash="157587662" Timestamp="132715550631153488"/>
 		</Language>
 	</Platform>
 </IncrementalBankBuild>

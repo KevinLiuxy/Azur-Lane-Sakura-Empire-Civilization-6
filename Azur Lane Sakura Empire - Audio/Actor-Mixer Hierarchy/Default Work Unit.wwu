@@ -33,17 +33,1247 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<ActorMixer Name="Unit Bulin Speech" ID="{281EFB0F-9734-42FD-9FB3-8CDF6EED315E}" ShortID="420282817">
+										<ActorMixer Name="Shigure Speech" ID="{DC7FE42E-431B-481B-8234-2256C18B5F5D}" ShortID="811090121">
 											<PropertyList>
 												<Property Name="Volume" Type="Real64">
 													<ValueList>
-														<Value>-4</Value>
+														<Value>-9</Value>
 													</ValueList>
 												</Property>
 											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<Sound Name="ALSE_SH_DECLARE_FRIEND" ID="{C040F4ED-A1F8-4764-93B5-25BF3A86CDC4}" ShortID="534134628" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_SH_DECLARE_FRIEND" ID="{91D00FA8-FF28-4CAF-B41C-797A34A32099}" ShortID="911549903">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_SH_DECLARE_FRIEND.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_SH_DECLARE_FRIEND" ID="{91D00FA8-FF28-4CAF-B41C-797A34A32099}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_SH_DECLARE_WAR_FROM_AI" ID="{080C207B-126A-4981-BB94-D48D256B5075}" ShortID="988326618" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_SH_DECLARE_WAR_FROM_AI" ID="{22D2A8DA-572A-4CD4-87BA-A400CB10A57A}" ShortID="662582545">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_SH_DECLARE_WAR_FROM_AI.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_SH_DECLARE_WAR_FROM_AI" ID="{22D2A8DA-572A-4CD4-87BA-A400CB10A57A}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_SH_DECLARE_WAR_FROM_HUMAN" ID="{3E052D39-DB0F-4EC7-900E-BEDB5712573E}" ShortID="899243133" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_SH_DECLARE_WAR_FROM_HUMAN" ID="{0BB7D4F2-F5F0-4D30-A846-A0D0AC7C79A0}" ShortID="573288365">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_SH_DECLARE_WAR_FROM_HUMAN.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_SH_DECLARE_WAR_FROM_HUMAN" ID="{0BB7D4F2-F5F0-4D30-A846-A0D0AC7C79A0}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_SH_DEFEAT" ID="{BF3BD978-6F2B-4C34-ABDB-0728CBBE3675}" ShortID="865345973" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_SH_DEFEAT" ID="{172B8091-6768-44A6-B1B2-34B6444309C8}" ShortID="799644290">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_SH_DEFEAT.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_SH_DEFEAT" ID="{172B8091-6768-44A6-B1B2-34B6444309C8}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_SH_DENOUNCE_FROM_AI" ID="{796F4433-4A46-4812-AC28-2FDB8C650400}" ShortID="734077115" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_SH_DENOUNCE_FROM_AI" ID="{9EFADDAC-B996-4AA4-A933-4544BF41787F}" ShortID="270428431">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_SH_DENOUNCE_FROM_AI.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_SH_DENOUNCE_FROM_AI" ID="{9EFADDAC-B996-4AA4-A933-4544BF41787F}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_SH_DENOUNCE_FROM_HUMAN" ID="{18992A2C-820A-4817-AFAE-875626536BFE}" ShortID="525802742" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_SH_DENOUNCE_FROM_HUMAN" ID="{895391CE-48B8-462A-9C79-26BC56415576}" ShortID="186071138">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_SH_DENOUNCE_FROM_HUMAN.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_SH_DENOUNCE_FROM_HUMAN" ID="{895391CE-48B8-462A-9C79-26BC56415576}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_SH_FIRST_MEET" ID="{0DC94EB2-9A24-4A0D-8B4D-61401CF12E27}" ShortID="1019346392" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_SH_FIRST_MEET" ID="{8897614B-1B73-4953-BAF3-8FBD2D3E46F6}" ShortID="196558050">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_SH_FIRST_MEET.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_SH_FIRST_MEET" ID="{8897614B-1B73-4953-BAF3-8FBD2D3E46F6}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_SH_KUDO" ID="{6AFE7F64-98D6-4191-BBD7-0FA5F205FE5C}" ShortID="520431687" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_SH_KUDO" ID="{84266F4A-35BB-4404-AE44-E189BF2E2309}" ShortID="367582876">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_SH_KUDO.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_SH_KUDO" ID="{84266F4A-35BB-4404-AE44-E189BF2E2309}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_SH_MAKE_PEACE" ID="{B8311A6E-F826-4BCA-9E2F-0CB62E9B4610}" ShortID="634961340" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_SH_MAKE_PEACE" ID="{9EB609D8-95CD-4189-8668-E54A8C22BBB9}" ShortID="547069250">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_SH_MAKE_PEACE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_SH_MAKE_PEACE" ID="{9EB609D8-95CD-4189-8668-E54A8C22BBB9}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_SH_NEGATIVE" ID="{11651E4B-4BE8-4840-9673-D6562E2E3439}" ShortID="846873442" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_SH_NEGATIVE" ID="{FDA76DBA-31EA-4B3B-A8E1-C02376AB96B9}" ShortID="68428006">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_SH_NEGATIVE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_SH_NEGATIVE" ID="{FDA76DBA-31EA-4B3B-A8E1-C02376AB96B9}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_SH_POSITIVE" ID="{C3B46FCE-EFA8-4B9B-9A76-96A8D990F476}" ShortID="1512807" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_SH_POSITIVE" ID="{D4D549F1-8591-4480-8D24-B841A978B10F}" ShortID="227033763">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_SH_POSITIVE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_SH_POSITIVE" ID="{D4D549F1-8591-4480-8D24-B841A978B10F}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_SH_WARNING" ID="{BF0F9B2A-455C-4F15-B3AE-5C2B202205BF}" ShortID="398647303" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_SH_WARNING" ID="{308CA82D-EC5A-480D-9D14-A376944B2C54}" ShortID="993567421">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_SH_WARNING.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_SH_WARNING" ID="{308CA82D-EC5A-480D-9D14-A376944B2C54}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_SH_WIKI_QUOTE" ID="{1375AFD6-07E6-4BEF-8DF4-E6100D5D3DAC}" ShortID="937477326" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_SH_WIKI_QUOTE" ID="{EDCA07AB-624F-4D09-A985-D66A16643B08}" ShortID="529020610">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_SH_WIKI_QUOTE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_SH_WIKI_QUOTE" ID="{EDCA07AB-624F-4D09-A985-D66A16643B08}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_SH_IDLE_1" ID="{DFFA2796-A4D6-445E-B095-0BAF2661E1EE}" ShortID="398747044" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_SH_IDLE_1" ID="{9D1AE4A6-E3FC-49D8-A4D3-A5E7DAE1934B}" ShortID="499539264">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_SH_IDLE_1.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_SH_IDLE_1" ID="{9D1AE4A6-E3FC-49D8-A4D3-A5E7DAE1934B}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_SH_IDLE_2" ID="{27781501-F23A-4537-9092-577D61B58094}" ShortID="34881253" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_SH_IDLE_2" ID="{E89E45DE-2319-4A6A-B278-63D9F2C26929}" ShortID="703131129">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_SH_IDLE_2.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_SH_IDLE_2" ID="{E89E45DE-2319-4A6A-B278-63D9F2C26929}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+											</ChildrenList>
+										</ActorMixer>
+										<ActorMixer Name="Yukikaze Speech" ID="{1F1E65FF-7B7B-4DB9-BEBD-0C8B797E6B9C}" ShortID="244383959">
+											<PropertyList>
+												<Property Name="Volume" Type="Real64">
+													<ValueList>
+														<Value>-5</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<Sound Name="ALSE_YK_DECLARE_FRIEND" ID="{3972E241-3F32-4A8A-A8CA-B186005B12F4}" ShortID="155181273" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YK_DECLARE_FRIEND" ID="{C8264657-E8CB-43D2-92EA-AE0A8C57F7FC}" ShortID="613334855">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YK_DECLARE_FRIEND.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YK_DECLARE_FRIEND" ID="{C8264657-E8CB-43D2-92EA-AE0A8C57F7FC}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YK_DECLARE_WAR_FROM_AI" ID="{66D02501-D8DC-4289-9C65-FF8F8C121388}" ShortID="29372655" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YK_DECLARE_WAR_FROM_AI" ID="{3494A831-00B6-4F68-8F05-F0568255CF75}" ShortID="396028924">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YK_DECLARE_WAR_FROM_AI.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YK_DECLARE_WAR_FROM_AI" ID="{3494A831-00B6-4F68-8F05-F0568255CF75}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YK_DECLARE_WAR_FROM_HUMAN" ID="{D6C4441D-1209-4F33-AB40-46C168F3B136}" ShortID="93895273" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YK_DECLARE_WAR_FROM_HUMAN" ID="{7AD1D0BB-A7D8-4DB3-8EEF-C804E3016E8E}" ShortID="23029126">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YK_DECLARE_WAR_FROM_HUMAN.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YK_DECLARE_WAR_FROM_HUMAN" ID="{7AD1D0BB-A7D8-4DB3-8EEF-C804E3016E8E}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YK_DEFEAT" ID="{132DFC1C-AB01-4DA5-B060-1B0B7EE3C560}" ShortID="989782280" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YK_DEFEAT" ID="{FF0A1CA9-E866-45A3-AD43-CFE3C6AF887F}" ShortID="614928158">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YK_DEFEAT.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YK_DEFEAT" ID="{FF0A1CA9-E866-45A3-AD43-CFE3C6AF887F}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YK_DENOUNCE_FROM_AI" ID="{EE6F7B75-AF16-464B-8770-F6286FA491EF}" ShortID="659889022" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YK_DENOUNCE_FROM_AI" ID="{1AB59651-078C-443C-8D69-6D145857D583}" ShortID="147985979">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YK_DENOUNCE_FROM_AI.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YK_DENOUNCE_FROM_AI" ID="{1AB59651-078C-443C-8D69-6D145857D583}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YK_DENOUNCE_FROM_HUMAN" ID="{451B5FCB-8430-4E6A-9A70-393BF4534B7F}" ShortID="187911418" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YK_DENOUNCE_FROM_HUMAN" ID="{3196952E-C144-463E-8B2D-D8CAF9EF24E6}" ShortID="750592602">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YK_DENOUNCE_FROM_HUMAN.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YK_DENOUNCE_FROM_HUMAN" ID="{3196952E-C144-463E-8B2D-D8CAF9EF24E6}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YK_FIRST_MEET" ID="{D9174F78-4D1B-406E-B0FD-36ED61E56ACB}" ShortID="91508795" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YK_FIRST_MEET" ID="{349DE81B-CA4E-4153-8D8A-4862EF997841}" ShortID="388546405">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YK_FIRST_MEET.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YK_FIRST_MEET" ID="{349DE81B-CA4E-4153-8D8A-4862EF997841}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YK_KUDO" ID="{B413C7B6-2AA4-4F8C-9EF0-2EC9A7F367F4}" ShortID="236634565" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YK_KUDO" ID="{1915DF51-E0C3-4A93-BF44-04E16887C97E}" ShortID="218033511">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YK_KUDO.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YK_KUDO" ID="{1915DF51-E0C3-4A93-BF44-04E16887C97E}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YK_MAKE_PEACE" ID="{FE78DA1D-32B5-40CF-A642-F41564826365}" ShortID="287913635" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YK_MAKE_PEACE" ID="{322A3646-CEF3-48FD-AD32-02356AB5AF22}" ShortID="648287160">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YK_MAKE_PEACE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YK_MAKE_PEACE" ID="{322A3646-CEF3-48FD-AD32-02356AB5AF22}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YK_NEGATIVE" ID="{A409653D-5142-4A2E-9E83-271D2CEAF1F2}" ShortID="364866507" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YK_NEGATIVE" ID="{57FF4867-43A0-49DA-9C6E-6790D7C0A99C}" ShortID="1029752996">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YK_NEGATIVE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YK_NEGATIVE" ID="{57FF4867-43A0-49DA-9C6E-6790D7C0A99C}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YK_POSITIVE" ID="{C0819AD0-3477-4258-946F-7FE7335F70A5}" ShortID="159655794" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YK_POSITIVE" ID="{A5B2EAB2-2931-421E-90A4-997495DB15AC}" ShortID="211838328">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YK_POSITIVE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YK_POSITIVE" ID="{A5B2EAB2-2931-421E-90A4-997495DB15AC}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YK_WARNING" ID="{D1172EFF-33E4-45C7-A57B-3B50269B4B2F}" ShortID="100834791" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YK_WARNING" ID="{7B9D1D61-EAC1-4FC7-A69A-86F43B530F23}" ShortID="1032992299">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YK_WARNING.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YK_WARNING" ID="{7B9D1D61-EAC1-4FC7-A69A-86F43B530F23}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YK_WIKI_QUOTE" ID="{415DD310-FA31-4975-A534-DD6990ED7EFA}" ShortID="90238912" Type="SoundFX">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64">
+															<ValueList>
+																<Value>1</Value>
+															</ValueList>
+														</Property>
+													</PropertyList>
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YK_WIKI_QUOTE" ID="{6C92C40D-5227-4416-9E7D-B98F7C0CBA8F}" ShortID="317139503">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YK_WIKI_QUOTE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YK_WIKI_QUOTE" ID="{6C92C40D-5227-4416-9E7D-B98F7C0CBA8F}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YK_IDLE_1" ID="{D1C632C7-4DF1-4573-8DCE-1FCB8574359F}" ShortID="724864122" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YK_IDLE_1" ID="{E0F6FF32-FDFA-423B-A670-A753ADAF7EE7}" ShortID="534633926">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YK_IDLE_1.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YK_IDLE_1" ID="{E0F6FF32-FDFA-423B-A670-A753ADAF7EE7}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YK_IDLE_2" ID="{AD1A5A55-804E-4D96-97A8-EA56510CF3AC}" ShortID="101021967" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YK_IDLE_2" ID="{38B1C093-EACD-4F60-932D-E87937CAB720}" ShortID="727196924">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YK_IDLE_2.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YK_IDLE_2" ID="{38B1C093-EACD-4F60-932D-E87937CAB720}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+											</ChildrenList>
+										</ActorMixer>
+										<ActorMixer Name="Yuudachi Speech" ID="{14C1FF77-C3DB-4FBA-AEC6-1AA2FCA5B44E}" ShortID="139141066">
+											<PropertyList>
+												<Property Name="Volume" Type="Real64">
+													<ValueList>
+														<Value>-8</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<Sound Name="ALSE_YU_DECLARE_FRIEND" ID="{CA636215-B3C8-4B15-BC3A-79B0962B0019}" ShortID="891580542" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YU_DECLARE_FRIEND" ID="{F8DB3329-AC21-4318-927A-5DB364CF0C77}" ShortID="169528052">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YU_DECLARE_FRIEND.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YU_DECLARE_FRIEND" ID="{F8DB3329-AC21-4318-927A-5DB364CF0C77}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YU_DECLARE_WAR_FROM_AI" ID="{53E14ECB-B2E0-46A1-8F2C-855C161F0B16}" ShortID="327634041" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YU_DECLARE_WAR_FROM_AI" ID="{FD1B96CB-A752-4A1F-BA8D-9B76B1585752}" ShortID="146575312">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YU_DECLARE_WAR_FROM_AI.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YU_DECLARE_WAR_FROM_AI" ID="{FD1B96CB-A752-4A1F-BA8D-9B76B1585752}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YU_DECLARE_WAR_FROM_HUMAN" ID="{7EBEB6AE-6E2F-4123-ABC9-5F7A7B63ECE9}" ShortID="794110009" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YU_DECLARE_WAR_FROM_HUMAN" ID="{5F49A462-0A2E-49D0-87D6-209E59CB884A}" ShortID="949051137">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YU_DECLARE_WAR_FROM_HUMAN.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YU_DECLARE_WAR_FROM_HUMAN" ID="{5F49A462-0A2E-49D0-87D6-209E59CB884A}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YU_DEFEAT" ID="{214BBF70-731A-4F6B-8A7A-012096BF42B7}" ShortID="491352036" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YU_DEFEAT" ID="{D922DF06-DACA-4BA1-A781-F003A2C648D5}" ShortID="188226862">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YU_DEFEAT.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YU_DEFEAT" ID="{D922DF06-DACA-4BA1-A781-F003A2C648D5}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YU_DENOUNCE_FROM_AI" ID="{268CD452-6EA3-4E5F-8514-4DC1BD30C9FB}" ShortID="764892841" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YU_DENOUNCE_FROM_AI" ID="{5B55EED3-543F-4D55-9583-7182F6DE7912}" ShortID="491767901">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YU_DENOUNCE_FROM_AI.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YU_DENOUNCE_FROM_AI" ID="{5B55EED3-543F-4D55-9583-7182F6DE7912}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YU_DENOUNCE_FROM_HUMAN" ID="{83977434-589F-41C4-B435-A98F8E9D5C34}" ShortID="280774857" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YU_DENOUNCE_FROM_HUMAN" ID="{66EA2A58-FB28-4D37-9F74-907F89A89887}" ShortID="89753783">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YU_DENOUNCE_FROM_HUMAN.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YU_DENOUNCE_FROM_HUMAN" ID="{66EA2A58-FB28-4D37-9F74-907F89A89887}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YU_FIRST_MEET" ID="{9645F01F-C6A4-488D-8A10-D5298525C7D4}" ShortID="967238807" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YU_FIRST_MEET" ID="{2ECE7204-2AD7-4E0A-9570-05FC9A7E64F4}" ShortID="455463740">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YU_FIRST_MEET.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YU_FIRST_MEET" ID="{2ECE7204-2AD7-4E0A-9570-05FC9A7E64F4}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YU_KUDO" ID="{C2F2335B-1507-455A-A501-FC70F5F64B9D}" ShortID="606421001" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YU_KUDO" ID="{9A637BA4-5879-4C41-9799-57761DF843B6}" ShortID="918353185">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YU_KUDO.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YU_KUDO" ID="{9A637BA4-5879-4C41-9799-57761DF843B6}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YU_MAKE_PEACE" ID="{9C5AF631-D217-43EB-88D5-8A9E91EF14D5}" ShortID="591636099" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YU_MAKE_PEACE" ID="{1A65D3A1-21B8-48F9-BF1F-0958DF10FA4A}" ShortID="929171452">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YU_MAKE_PEACE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YU_MAKE_PEACE" ID="{1A65D3A1-21B8-48F9-BF1F-0958DF10FA4A}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YU_NEGATIVE" ID="{01B95D51-7D71-463C-A621-787B2DD89FF5}" ShortID="318329260" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YU_NEGATIVE" ID="{8320F543-D139-43A6-9730-16C1F72B3443}" ShortID="857076693">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YU_NEGATIVE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YU_NEGATIVE" ID="{8320F543-D139-43A6-9730-16C1F72B3443}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YU_POSITIVE" ID="{6C9EBDC8-87C7-405E-B6D5-5C15E08E242C}" ShortID="96302866" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YU_POSITIVE" ID="{6D0F6B95-602A-4B58-A1BC-8E9478E7C493}" ShortID="959151330">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YU_POSITIVE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YU_POSITIVE" ID="{6D0F6B95-602A-4B58-A1BC-8E9478E7C493}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YU_WARNING" ID="{DA0068C9-D8D8-4B06-9C0D-20356FB132D4}" ShortID="1065464446" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YU_WARNING" ID="{7C6D30E2-6CEE-4E10-9782-BE4DFDEB7EBA}" ShortID="339027823">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YU_WARNING.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YU_WARNING" ID="{7C6D30E2-6CEE-4E10-9782-BE4DFDEB7EBA}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YU_WIKI_QUOTE" ID="{E439468A-72F2-4C04-BB38-9DCE703AFC0C}" ShortID="1049597683" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YU_WIKI_QUOTE" ID="{980D7A79-E68E-47B7-904F-C033ED53E3EF}" ShortID="259116057">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YU_WIKI_QUOTE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YU_WIKI_QUOTE" ID="{980D7A79-E68E-47B7-904F-C033ED53E3EF}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YU_IDLE_1" ID="{26B0A624-3F75-4D30-A4F4-3D6B213460CF}" ShortID="789401156" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YU_IDLE_1" ID="{16D14E34-93E3-454D-9E4A-BAB16A2CC067}" ShortID="174321056">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YU_IDLE_1.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YU_IDLE_1" ID="{16D14E34-93E3-454D-9E4A-BAB16A2CC067}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_YU_IDLE_2" ID="{430EEE6D-343D-4C8C-BD9F-57D78777A01C}" ShortID="983815395" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_YU_IDLE_2" ID="{DCE8D850-DDE2-4E4B-8F67-FCDE7504634B}" ShortID="603458989">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_YU_IDLE_2.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_YU_IDLE_2" ID="{DCE8D850-DDE2-4E4B-8F67-FCDE7504634B}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+											</ChildrenList>
+										</ActorMixer>
+										<ActorMixer Name="Ayanami Speech" ID="{A881E1E6-F007-4FF1-8AC3-8D3224543D2B}" ShortID="481649087">
+											<PropertyList>
+												<Property Name="Volume" Type="Real64">
+													<ValueList>
+														<Value>-11</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<Sound Name="ALSE_AY_DECLARE_FRIEND" ID="{F1A7199E-14CF-4525-B0EC-C936392C9487}" ShortID="217478092" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_AY_DECLARE_FRIEND" ID="{1ED4FAD2-E4F5-46E1-9D48-3E148836FC2B}" ShortID="272965159">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_AY_DECLARE_FRIEND.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_AY_DECLARE_FRIEND" ID="{1ED4FAD2-E4F5-46E1-9D48-3E148836FC2B}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_AY_DECLARE_WAR_FROM_AI" ID="{19734CBF-E961-4D49-9349-8B383F7ECABE}" ShortID="393995565" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_AY_DECLARE_WAR_FROM_AI" ID="{C657598D-DE4A-447E-8B0B-1FD2D1F21377}" ShortID="883805014">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_AY_DECLARE_WAR_FROM_AI.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_AY_DECLARE_WAR_FROM_AI" ID="{C657598D-DE4A-447E-8B0B-1FD2D1F21377}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_AY_DECLARE_WAR_FROM_HUMAN" ID="{890588D6-A7F8-4C29-B583-32C0BC5376BF}" ShortID="1064768995" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_AY_DECLARE_WAR_FROM_HUMAN" ID="{3BFAFB84-02F4-4982-8812-590FBFAA053A}" ShortID="539838637">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_AY_DECLARE_WAR_FROM_HUMAN.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_AY_DECLARE_WAR_FROM_HUMAN" ID="{3BFAFB84-02F4-4982-8812-590FBFAA053A}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_AY_DEFEAT" ID="{C9F461EE-5E0F-4170-A27B-A128BE938453}" ShortID="883727192" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_AY_DEFEAT" ID="{E932694C-0951-4471-97AB-88761FCD3711}" ShortID="1035115782">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_AY_DEFEAT.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_AY_DEFEAT" ID="{E932694C-0951-4471-97AB-88761FCD3711}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_AY_DENOUNCE_FROM_AI" ID="{5E24CCD4-7E5A-4DBE-B1B1-6341F22A7B48}" ShortID="96412983" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_AY_DENOUNCE_FROM_AI" ID="{A43FCE07-33FF-4300-8E0F-21950FDDEE5E}" ShortID="960123874">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_AY_DENOUNCE_FROM_AI.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_AY_DENOUNCE_FROM_AI" ID="{A43FCE07-33FF-4300-8E0F-21950FDDEE5E}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_AY_DENOUNCE_FROM_HUMAN" ID="{E5829226-B4BB-4509-8BE6-3942F85AF346}" ShortID="6048486" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_AY_DENOUNCE_FROM_HUMAN" ID="{6F5E4FFC-607E-4B73-8881-66BD367083CD}" ShortID="565167366">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_AY_DENOUNCE_FROM_HUMAN.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_AY_DENOUNCE_FROM_HUMAN" ID="{6F5E4FFC-607E-4B73-8881-66BD367083CD}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_AY_FIRST_MEET" ID="{92809E85-BAA3-4133-B3EE-64C2FE73F795}" ShortID="385774180" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_AY_FIRST_MEET" ID="{CE2D7D3B-3DEB-471A-B116-085E6C1A0E34}" ShortID="76757663">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_AY_FIRST_MEET.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_AY_FIRST_MEET" ID="{CE2D7D3B-3DEB-471A-B116-085E6C1A0E34}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_AY_KUDO" ID="{0066F500-1319-4B37-9845-8DC7D4F84848}" ShortID="364409747" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_AY_KUDO" ID="{5CF6BC73-D593-4D49-866F-8BF8B77685E4}" ShortID="861853354">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_AY_KUDO.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_AY_KUDO" ID="{5CF6BC73-D593-4D49-866F-8BF8B77685E4}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_AY_MAKE_PEACE" ID="{6CE19B59-0843-4345-B671-8614293A7439}" ShortID="908260331" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_AY_MAKE_PEACE" ID="{009EB3F4-07DA-4406-948E-537C78733F46}" ShortID="133603562">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_AY_MAKE_PEACE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_AY_MAKE_PEACE" ID="{009EB3F4-07DA-4406-948E-537C78733F46}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_AY_NEGATIVE" ID="{BE22581C-DA03-4311-80D4-78CE75555E3B}" ShortID="851439232" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_AY_NEGATIVE" ID="{60655933-CED8-4D1B-8C85-C8E5FC9777C7}" ShortID="541927942">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_AY_NEGATIVE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_AY_NEGATIVE" ID="{60655933-CED8-4D1B-8C85-C8E5FC9777C7}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_AY_POSITIVE" ID="{8AB47DB4-1452-4129-8A3F-CC85918687BE}" ShortID="644591918" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_AY_POSITIVE" ID="{F8515B18-56EC-4C02-A001-8E3A94D338DE}" ShortID="223932415">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_AY_POSITIVE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_AY_POSITIVE" ID="{F8515B18-56EC-4C02-A001-8E3A94D338DE}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_AY_WARNING" ID="{4CF17600-7351-44DD-9CAF-EE7A02890978}" ShortID="328271018" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_AY_WARNING" ID="{BE0E495F-AF29-4BE2-BB4C-F66B8963F185}" ShortID="146639100">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_AY_WARNING.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_AY_WARNING" ID="{BE0E495F-AF29-4BE2-BB4C-F66B8963F185}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_AY_WIKI_QUOTE" ID="{47A4DE77-CC79-4C62-A1A8-61FFD2F7E281}" ShortID="1073035018" Type="SoundFX">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64">
+															<ValueList>
+																<Value>2</Value>
+															</ValueList>
+														</Property>
+													</PropertyList>
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_AY_WIKI_QUOTE" ID="{B6CF013C-F3E0-400F-A16C-FC1CBDE91823}" ShortID="480401358">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_AY_WIKI_QUOTE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_AY_WIKI_QUOTE" ID="{B6CF013C-F3E0-400F-A16C-FC1CBDE91823}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_AY_IDLE_1" ID="{0AE1EB25-FFD5-4C70-8F70-203A1F3EDA1A}" ShortID="247914498" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_AY_IDLE_1" ID="{7792FCA8-A41B-450B-8901-997056607BBA}" ShortID="555350444">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_AY_IDLE_1.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_AY_IDLE_1" ID="{7792FCA8-A41B-450B-8901-997056607BBA}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_AY_IDLE_2" ID="{9E216365-7C24-459B-8594-934104EED501}" ShortID="960919535" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_AY_IDLE_2" ID="{2807EC46-AF31-4D0B-B718-AF4679042A60}" ShortID="503451463">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_AY_IDLE_2.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_AY_IDLE_2" ID="{2807EC46-AF31-4D0B-B718-AF4679042A60}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+											</ChildrenList>
+										</ActorMixer>
+										<ActorMixer Name="Unit Bulin Speech" ID="{281EFB0F-9734-42FD-9FB3-8CDF6EED315E}" ShortID="420282817">
+											<PropertyList>
+												<Property Name="Volume" Type="Real64">
+													<ValueList>
+														<Value>-5</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Voice Conversion Settings" ID="{C48AAF45-26D7-4048-A6D9-BB16B1C053FE}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
 												</Reference>
 												<Reference Name="OutputBus">
 													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>

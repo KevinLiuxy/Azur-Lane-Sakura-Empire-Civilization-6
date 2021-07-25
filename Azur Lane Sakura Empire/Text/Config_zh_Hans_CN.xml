@@ -21,7 +21,7 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_SAKURA_EMPIRE_JINJA_NAME"
 			Text="樱花神社"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_SAKURA_EMPIRE_JINJA_DESCRIPTION"
-			Text="重樱特色宗教活动区域。替代圣地，建造费用更低。[NEWLINE][NEWLINE]提供 +1 [ICON_Housing] 住房。从相邻加成中获得等量的 [ICON_Culture] 文化值。为相邻的单元格提供 +2 魅力，相邻的海岸 +1 [ICON_Faith] 信仰，湖泊 +2 [ICON_Faith] 信仰。+1 [ICON_Housing] 住房。[NEWLINE]"/>
+			Text="重樱特色宗教活动区域。替代圣地，建造费用更低。[NEWLINE][NEWLINE]提供 +1 [ICON_Housing] 住房。从相邻加成中获得等量的 [ICON_Culture] 文化值。为相邻的单元格提供 +2 魅力，相邻的海岸 +1 [ICON_Faith] 信仰，湖泊 +2 [ICON_Faith] 信仰。[NEWLINE]"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_SAKURA_EMPIRE_JINJA_DESCRIPTION_GS"
 			Text="重樱特色宗教活动区域。替代圣地，建造费用更低。[NEWLINE][NEWLINE]提供 +1 [ICON_Housing] 住房。从相邻加成中获得等量的 [ICON_Culture] 文化值。为相邻的单元格提供 +2 魅力，相邻的海岸 +1 [ICON_Faith] 信仰，湖泊 +2 [ICON_Faith] 信仰；相邻的火山土和地热裂缝 +3 [ICON_Faith] 信仰。[NEWLINE]"/>
 
@@ -54,7 +54,9 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_NAME"
 			Text="好运陪伴之船"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_DESCRIPTION"
-			Text="经验值高于 30 的单位被击杀时，将损失 30 点经验，保留 1 点体力值并撤退至最近的城市。拥有总督的城市 +1 [ICON_Amenities] 宜居度、+4 忠诚度。"/>
+			Text="经验值高于 30 的单位被击杀时，将损失 30 点经验，保留 1 点体力值并撤退至最近的城市。拥有驻军的城市 +1 [ICON_Amenities] 宜居度。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_DESCRIPTION_RnF"
+			Text="经验值高于 30 的单位被击杀时，将损失 30 点经验，保留 1 点体力值并撤退至最近的城市。拥有驻军的城市 +1 [ICON_Amenities] 宜居度、+4 忠诚度。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_AZUR_LANE_YUKIKAZE_NAME"
 			Text="碧蓝航线 · 雪风（莲）"/>

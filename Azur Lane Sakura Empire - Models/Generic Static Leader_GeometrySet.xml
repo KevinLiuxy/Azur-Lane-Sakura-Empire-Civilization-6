@@ -1,0 +1,24 @@
+<m_GeometrySet>
+<m_ModelInstances>
+<Element>
+<m_Name text="Armature"/>
+<m_GeoName text="Generic Static Leader"/>
+<m_GroupStates>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="Leader Texture"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="Leader Texture"/>
+<m_MeshName text="Plane"/>
+<m_StateName text="Default"/>
+</Element>
+</m_GroupStates>
+</Element>
+</m_ModelInstances>
+</m_GeometrySet>

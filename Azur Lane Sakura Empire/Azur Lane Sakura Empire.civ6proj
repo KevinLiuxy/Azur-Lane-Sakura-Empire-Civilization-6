@@ -73,6 +73,9 @@
     <Content Include="Data\Sakura_Empire_Icons.xml">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Data\Sakura_Empire_Leaders.lua">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Data\Sakura_Empire_Leaders.sql">
       <SubType>Content</SubType>
     </Content>
@@ -154,6 +157,9 @@
     <Content Include="UI\Bulin_Speech.xml">
       <SubType>Content</SubType>
     </Content>
+    <XLP Include="XLPs\Civilization_Leaders.xlp">
+      <SubType>Content</SubType>
+    </XLP>
     <XLP Include="XLPs\Civilization_Art.xlp">
       <SubType>Content</SubType>
     </XLP>

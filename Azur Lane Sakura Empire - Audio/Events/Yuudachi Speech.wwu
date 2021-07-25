@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{58DC87A3-1723-4B20-8BAB-0D4F7DF9E210}" SchemaVersion="70">
+	<Events>
+		<WorkUnit Name="Yuudachi Speech" ID="{58DC87A3-1723-4B20-8BAB-0D4F7DF9E210}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="ALSE_YU_DECLARE_FRIEND" ID="{8D5E1787-D8B2-4A7E-83AC-9B8049E6FB0B}">
+					<ChildrenList>
+						<Action Name="Play" ID="{B47C89C6-E67C-43AD-A749-C7E35D3E6E58}" ShortID="515127158" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{C13F05BB-51EF-43CC-880F-F54FCE317B86}" Global="false">
+									<ObjectRef Name="ALSE_YU_DECLARE_FRIEND" ID="{CA636215-B3C8-4B15-BC3A-79B0962B0019}" WorkUnitID="{2125B4B0-4AA7-452D-955C-49E0C2FAD8AE}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ALSE_YU_DECLARE_WAR_FROM_AI" ID="{8DEAB86E-AF3A-4929-A132-090B1BEC0BD2}">
+					<ChildrenList>
+						<Action Name="Play" ID="{09A43045-49CD-4B42-AB64-5D9D21813C8D}" ShortID="831414471" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{F0B9EC05-399F-4FAA-B8EF-00064C6D6D03}" Global="false">
+									<ObjectRef Name="ALSE_YU_DECLARE_WAR_FROM_AI" ID="{53E14ECB-B2E0-46A1-8F2C-855C161F0B16}" WorkUnitID="{2125B4B0-4AA7-452D-955C-49E0C2FAD8AE}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ALSE_YU_DECLARE_WAR_FROM_HUMAN" ID="{672F3130-26F6-4E03-A50C-ABA8FE50F68D}">
+					<ChildrenList>
+						<Action Name="Play" ID="{C1FC2709-60FD-46DF-8A6C-C5B36DD0CF6D}" ShortID="733229443" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{E6036388-240E-4E33-B87C-9353C54F25C4}" Global="false">
+									<ObjectRef Name="ALSE_YU_DECLARE_WAR_FROM_HUMAN" ID="{7EBEB6AE-6E2F-4123-ABC9-5F7A7B63ECE9}" WorkUnitID="{2125B4B0-4AA7-452D-955C-49E0C2FAD8AE}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ALSE_YU_DEFEAT" ID="{DD24F3EC-AF32-4A10-9577-A5BB2114BB19}">
+					<ChildrenList>
+						<Action Name="Play" ID="{D8C6F25A-C53F-4BF9-A984-2F674220126D}" ShortID="661710823" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{28C42D35-0FF7-4C74-92D9-EDC8B3DC4286}" Global="false">
+									<ObjectRef Name="ALSE_YU_DEFEAT" ID="{214BBF70-731A-4F6B-8A7A-012096BF42B7}" WorkUnitID="{2125B4B0-4AA7-452D-955C-49E0C2FAD8AE}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ALSE_YU_DENOUNCE_FROM_AI" ID="{277631DA-4E0D-4DD0-BFCB-60EA66F62A4A}">
+					<ChildrenList>
+						<Action Name="Play" ID="{73373A70-96A7-49DE-9774-524CB3CF4C4C}" ShortID="612851741" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{7A413CA1-F873-4D1C-9304-D6E705420E7A}" Global="false">
+									<ObjectRef Name="ALSE_YU_DENOUNCE_FROM_AI" ID="{268CD452-6EA3-4E5F-8514-4DC1BD30C9FB}" WorkUnitID="{2125B4B0-4AA7-452D-955C-49E0C2FAD8AE}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ALSE_YU_DENOUNCE_FROM_HUMAN" ID="{2BA19741-2664-4F21-A9A1-9747DFEAB6AC}">
+					<ChildrenList>
+						<Action Name="Play" ID="{7E6991F0-7F4B-4EB2-92FA-4FBA54B8EBAA}" ShortID="327245327" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{0F46CFB8-C10B-4A2E-9FBA-80F60CDC7116}" Global="false">
+									<ObjectRef Name="ALSE_YU_DENOUNCE_FROM_HUMAN" ID="{83977434-589F-41C4-B435-A98F8E9D5C34}" WorkUnitID="{2125B4B0-4AA7-452D-955C-49E0C2FAD8AE}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ALSE_YU_FIRST_MEET" ID="{2D62D954-4AA7-40C4-9884-47F72ACC289B}">
+					<ChildrenList>
+						<Action Name="Play" ID="{6F5D47E0-FF31-417C-9AFD-CE567BF760F0}" ShortID="361311645" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{CA89B3DB-729B-4F54-8095-73886357C274}" Global="false">
+									<ObjectRef Name="ALSE_YU_FIRST_MEET" ID="{9645F01F-C6A4-488D-8A10-D5298525C7D4}" WorkUnitID="{2125B4B0-4AA7-452D-955C-49E0C2FAD8AE}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ALSE_YU_KUDO" ID="{29691BAD-4C46-4F64-BDCE-2276542298F9}">
+					<ChildrenList>
+						<Action Name="Play" ID="{600ED0D2-5969-446F-8D02-1BD1F052E6B3}" ShortID="300169177" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{478CDD19-40EE-40BA-B695-7C513DF75CF0}" Global="false">
+									<ObjectRef Name="ALSE_YU_KUDO" ID="{C2F2335B-1507-455A-A501-FC70F5F64B9D}" WorkUnitID="{2125B4B0-4AA7-452D-955C-49E0C2FAD8AE}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ALSE_YU_MAKE_PEACE" ID="{68DE78F8-4958-48B6-8B07-45673758D6F4}">
+					<ChildrenList>
+						<Action Name="Play" ID="{9089EF50-B3CE-4597-9451-44ADFDB18B1F}" ShortID="433827520" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{CB6AC9C5-104D-4D3B-853C-C461E9AE1AEB}" Global="false">
+									<ObjectRef Name="ALSE_YU_MAKE_PEACE" ID="{9C5AF631-D217-43EB-88D5-8A9E91EF14D5}" WorkUnitID="{2125B4B0-4AA7-452D-955C-49E0C2FAD8AE}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ALSE_YU_NEGATIVE" ID="{871546D7-35E8-4618-AD59-AA5050EBD087}">
+					<ChildrenList>
+						<Action Name="Play" ID="{9A5F633D-8073-480D-AD86-C1EF0D360846}" ShortID="519600858" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{BE09C779-C23D-4D04-973E-9E6894AB83BC}" Global="false">
+									<ObjectRef Name="ALSE_YU_NEGATIVE" ID="{01B95D51-7D71-463C-A621-787B2DD89FF5}" WorkUnitID="{2125B4B0-4AA7-452D-955C-49E0C2FAD8AE}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ALSE_YU_POSITIVE" ID="{4FD8AF5F-5288-49A8-8478-4B8B184DDABE}">
+					<ChildrenList>
+						<Action Name="Play" ID="{64EC76A5-B136-4E7B-9CCC-6118ADA00B89}" ShortID="761221239" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{26E2D30C-98FB-4860-812D-348EDA38C03B}" Global="false">
+									<ObjectRef Name="ALSE_YU_POSITIVE" ID="{6C9EBDC8-87C7-405E-B6D5-5C15E08E242C}" WorkUnitID="{2125B4B0-4AA7-452D-955C-49E0C2FAD8AE}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ALSE_YU_WARNING" ID="{0C53139B-3039-464F-9245-B499F0EAF602}">
+					<ChildrenList>
+						<Action Name="Play" ID="{629FFD84-7B61-4578-957B-AC4632171642}" ShortID="1049757987" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{3B52B005-FF18-4713-A1DE-0DF7F78F8999}" Global="false">
+									<ObjectRef Name="ALSE_YU_WARNING" ID="{DA0068C9-D8D8-4B06-9C0D-20356FB132D4}" WorkUnitID="{2125B4B0-4AA7-452D-955C-49E0C2FAD8AE}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ALSE_YU_WIKI_QUOTE" ID="{9291AE41-CA9E-4332-B9D6-68BF873A6328}">
+					<ChildrenList>
+						<Action Name="Play" ID="{D715DC6B-FB6B-4444-AC2C-9969FCC891F7}" ShortID="832702429" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{CB1F4FCF-ED85-4B4A-AC44-F431D2C232DD}" Global="false">
+									<ObjectRef Name="ALSE_YU_WIKI_QUOTE" ID="{E439468A-72F2-4C04-BB38-9DCE703AFC0C}" WorkUnitID="{2125B4B0-4AA7-452D-955C-49E0C2FAD8AE}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ALSE_YU_IDLE_1" ID="{30236B4E-51E5-4D80-AC91-B6A50E9B3852}">
+					<ChildrenList>
+						<Action Name="Play" ID="{DE4BC742-3829-437C-9A6C-578F3D2AA1E6}" ShortID="448099889" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{B2B3153F-B757-4087-B483-32719CADD33B}" Global="false">
+									<ObjectRef Name="ALSE_YU_IDLE_1" ID="{26B0A624-3F75-4D30-A4F4-3D6B213460CF}" WorkUnitID="{2125B4B0-4AA7-452D-955C-49E0C2FAD8AE}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ALSE_YU_IDLE_2" ID="{D9487B65-BC8D-4F7C-9EC4-0A164501F1E4}">
+					<ChildrenList>
+						<Action Name="Play" ID="{952E48A8-871D-42D3-B392-8D54F481C533}" ShortID="491241626" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{0B23D8AF-A7BD-4930-8513-635915CC2304}" Global="false">
+									<ObjectRef Name="ALSE_YU_IDLE_2" ID="{430EEE6D-343D-4C8C-BD9F-57D78777A01C}" WorkUnitID="{2125B4B0-4AA7-452D-955C-49E0C2FAD8AE}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

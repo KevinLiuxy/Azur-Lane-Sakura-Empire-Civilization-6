@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="Leader"/>
+	<m_PackageName text="Civilization_Leaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LEAD_ALSE_AYANAMI"/>
+			<m_ObjectName text="LEAD_ALSE_AYANAMI"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEAD_ALSE_YUUDACHI"/>
+			<m_ObjectName text="LEAD_ALSE_YUUDACHI"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEAD_ALSE_SHIGURE"/>
+			<m_ObjectName text="LEAD_ALSE_SHIGURE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEAD_ALSE_YUKIKAZE"/>
+			<m_ObjectName text="LEAD_ALSE_YUKIKAZE"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+		<Element>LINUX</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
