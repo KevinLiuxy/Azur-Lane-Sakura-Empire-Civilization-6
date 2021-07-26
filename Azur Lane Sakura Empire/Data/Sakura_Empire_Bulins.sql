@@ -51,7 +51,7 @@ INSERT INTO Units(
 	/* Type   */ 'UNIT_BULIN_MK1',
 	/* Name   */ 'LOC_UNIT_BULIN_MK1_NAME',
 	/* Dscrpt */ 'LOC_UNIT_BULIN_MK1_DESCRIPTION',
-	/* Cost   */ 1/*50*/, 0, 2, 2, 0, 0,
+	/* Cost   */ 50, 0, 2, 2, 0, 0,
 	/* Domain */ 'DOMAIN_LAND',
 	/* Format */ 'FORMATION_CLASS_CIVILIAN',
 	/* Promot */ NULL,
@@ -66,7 +66,7 @@ INSERT INTO Units(
 	/* Type   */ 'UNIT_BULIN_MK2',
 	/* Name   */ 'LOC_UNIT_BULIN_MK2_NAME',
 	/* Dscrpt */ 'LOC_UNIT_BULIN_MK2_DESCRIPTION',
-	/* Cost   */ 1/*170*/, 2, 2, 2, 0, 0,
+	/* Cost   */ 200, 2, 2, 2, 0, 0,
 	/* Domain */ 'DOMAIN_LAND',
 	/* Format */ 'FORMATION_CLASS_SUPPORT',
 	/* Promot */ 'PROMOTION_CLASS_SUPPORT',
@@ -74,7 +74,7 @@ INSERT INTO Units(
 	/* PModel */ 'NO_COST_PROGRESSION',
 	/* PParam */ 0,
 	/* Yield  */ 'YIELD_GOLD',
-	/* Charge */ 2,
+	/* Charge */ 3,
 	/* Prereq */ 'TECH_MILITARY_ENGINEERING',
 	/* Trait  */ 'TRAIT_CIVILIZATION_UNIT_BULIN_MK2'
 );

@@ -373,6 +373,18 @@
 			<m_EntryID text="ICON_UNIT_BULIN_MK2_80"/>
 			<m_ObjectName text="ICON_UNIT_BULIN_MK2_80"/>
 		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_NORMAL_AL_AKASHI"/>
+			<m_ObjectName text="GOVERNOR_NORMAL_AL_AKASHI"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_SELECTED_AL_AKASHI"/>
+			<m_ObjectName text="GOVERNOR_SELECTED_AL_AKASHI"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_ICON_AL_AKASHI"/>
+			<m_ObjectName text="GOVERNOR_ICON_AL_AKASHI"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>
@@ -381,3 +393,4 @@
 		<Element>LINUX</Element>
 	</m_AllowedPlatforms>
 </AssetObjects..XLP>
+

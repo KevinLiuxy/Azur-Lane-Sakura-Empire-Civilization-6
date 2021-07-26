@@ -84,6 +84,8 @@
 		<Row Name="ICON_ATLAS_UNIT_BULIN_MK2_PORTRAIT" IconSize="70" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_BULIN_MK2_70.dds"/>
 		<Row Name="ICON_ATLAS_UNIT_BULIN_MK2_PORTRAIT" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_BULIN_MK2_50.dds"/>
 		<Row Name="ICON_ATLAS_UNIT_BULIN_MK2_PORTRAIT" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_BULIN_MK2_38.dds"/>
+
+		<Row Name="ICON_ATLAS_AZUR_LANE_AKASHI_PROMOTION" IconSize="24" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_ICON_AL_AKASHI.dds"/>
 	</IconTextureAtlases>
 
 	<IconDefinitions>
@@ -99,5 +101,6 @@
 		<Row Name="ICON_UNIT_BULIN_MK1_PORTRAIT" Atlas="ICON_ATLAS_UNIT_BULIN_MK1_PORTRAIT" index="0"/>
 		<Row Name="ICON_UNIT_BULIN_MK2" Atlas="ICON_ATLAS_UNIT_BULIN_MK2" index="0"/>
 		<Row Name="ICON_UNIT_BULIN_MK2_PORTRAIT" Atlas="ICON_ATLAS_UNIT_BULIN_MK2_PORTRAIT" index="0"/>
+		<Row Name="ICON_GOVERNOR_AZUR_LANE_AKASHI_PROMOTION" Atlas="ICON_ATLAS_AZUR_LANE_AKASHI_PROMOTION" index="0"/>
 	</IconDefinitions>
 </GameData>

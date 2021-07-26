@@ -187,7 +187,7 @@
 						<m_Name text="NEUTRAL_POSITIVE_A"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>6.000000</m_fDuration>
+						<m_fDuration>6.500000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -232,7 +232,7 @@
 						<m_Name text="NEUTRAL_POSITIVE_B"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>6.000000</m_fDuration>
+						<m_fDuration>6.500000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -277,7 +277,7 @@
 						<m_Name text="NEUTRAL_NEGATIVE_A"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>5.500000</m_fDuration>
+						<m_fDuration>7.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -322,7 +322,7 @@
 						<m_Name text="NEUTRAL_NEGATIVE_B"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>5.500000</m_fDuration>
+						<m_fDuration>7.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -367,7 +367,7 @@
 						<m_Name text="HAPPY_POSITIVE_A"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>6.000000</m_fDuration>
+						<m_fDuration>6.500000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -412,7 +412,7 @@
 						<m_Name text="HAPPY_POSITIVE_B"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>6.000000</m_fDuration>
+						<m_fDuration>6.500000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -457,7 +457,7 @@
 						<m_Name text="HAPPY_NEGATIVE_A"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>5.500000</m_fDuration>
+						<m_fDuration>7.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -502,7 +502,7 @@
 						<m_Name text="HAPPY_NEGATIVE_B"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>5.500000</m_fDuration>
+						<m_fDuration>7.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -547,7 +547,7 @@
 						<m_Name text="UNHAPPY_POSITIVE_A"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>6.000000</m_fDuration>
+						<m_fDuration>6.500000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -592,7 +592,7 @@
 						<m_Name text="UNHAPPY_POSITIVE_B"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>6.000000</m_fDuration>
+						<m_fDuration>6.500000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -637,7 +637,7 @@
 						<m_Name text="UNHAPPY_NEGATIVE_A"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>5.500000</m_fDuration>
+						<m_fDuration>7.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -682,7 +682,7 @@
 						<m_Name text="UNHAPPY_NEGATIVE_B"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>5.500000</m_fDuration>
+						<m_fDuration>7.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -727,7 +727,7 @@
 						<m_Name text="DECLARE_WAR_A"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>11.500000</m_fDuration>
+						<m_fDuration>8.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -861,7 +861,7 @@
 						<m_Name text="01_FIRST_MEET"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>12.000000</m_fDuration>
+						<m_fDuration>17.500000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -906,7 +906,7 @@
 						<m_Name text="02_DECLARE_WAR_FROM_HUMAN"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>12.000000</m_fDuration>
+						<m_fDuration>8.500000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -951,7 +951,7 @@
 						<m_Name text="03_DECLARE_WAR_FROM_AI"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>7.000000</m_fDuration>
+						<m_fDuration>9.500000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -996,7 +996,7 @@
 						<m_Name text="04_KUDOS"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>11.500000</m_fDuration>
+						<m_fDuration>9.500000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -1041,7 +1041,7 @@
 						<m_Name text="05_WARNING"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>12.500000</m_fDuration>
+						<m_fDuration>11.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -1086,7 +1086,7 @@
 						<m_Name text="06_DEFEAT"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>7.500000</m_fDuration>
+						<m_fDuration>15.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -1131,7 +1131,7 @@
 						<m_Name text="NEUTRAL_TO_HAPPY"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>10.000000</m_fDuration>
+						<m_fDuration>12.500000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -1176,7 +1176,7 @@
 						<m_Name text="NEUTRAL_TO_UNHAPPY"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>3.000000</m_fDuration>
+						<m_fDuration>6.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -1221,7 +1221,7 @@
 						<m_Name text="NEUTRAL_TO_ENRAGED"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>11.500000</m_fDuration>
+						<m_fDuration>8.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -1299,7 +1299,7 @@
 						<m_Name text="HAPPY_TO_ENRAGED"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>11.500000</m_fDuration>
+						<m_fDuration>8.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -1344,7 +1344,7 @@
 						<m_Name text="UNHAPPY_TO_NEUTRAL"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>4.500000</m_fDuration>
+						<m_fDuration>6.500000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -1389,7 +1389,7 @@
 						<m_Name text="UNHAPPY_TO_ENRAGED"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>11.500000</m_fDuration>
+						<m_fDuration>8.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>

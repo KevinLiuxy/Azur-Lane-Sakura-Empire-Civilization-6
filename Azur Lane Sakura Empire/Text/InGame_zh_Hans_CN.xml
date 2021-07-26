@@ -127,5 +127,35 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_58" Text=""/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_59" Text=""/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_60" Text=""/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_NAME" Text="明石"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_TITLE" Text="后勤总管"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_SHORT_TITLE" Text="后勤总管"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_DESCRIPTION"
+			Text="维修舰明石擅长后勤支援、舰队维护和科技研发，是重樱港区万能的补给商店看板娘。[NEWLINE][NEWLINE]——“哪里受伤了，只要交给我就没问题喵”"/>
+		
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_SHOPKEEPER_KANBAN_NAME" Text="商店看板娘"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_SHOPKEEPER_KANBAN_DESCRIPTION"
+			Text="就职后获得一个特殊建造单位“泛用型布里”。明石每获得一次晋升时都会免费获得一个紫布里或金布里。"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_LOGISTICS_REPAIR_NAME" Text="后勤维修"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_LOGISTICS_REPAIR_DESCRIPTION"
+			Text="海军单位可在中立领土上回复。所有单位在中立领土上 +5 [ICON_Damaged] 生命值回复。"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_EQUIPMENT_SUPPLY_NAME" Text="装备补给"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_EQUIPMENT_SUPPLY_DESCRIPTION"
+			Text="帝国中所有单位升级所需的 [ICON_Gold] 金币与资源 -25%。"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_SHIPYARD_EXPANSION_NAME" Text="港区扩建"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_SHIPYARD_EXPANSION_DESCRIPTION"
+			Text="该城市 [ICON_Gold] 金币购买港口建筑的花费 -50%，每座港口建筑额外提供 +5 [ICON_Gold] 金币和 +1 [ICON_RESOURCE_OIL] 石油（需求精炼）。"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_PROJECT_RESEARCH_NAME" Text="方案舰研发"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_PROJECT_RESEARCH_DESCRIPTION"
+			Text="该城市港口区域，和港口中的每座建筑为城市 +10% [ICON_Science] 科技值 +5% [ICON_Production] 生产力。"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_CRIMSON_AXIS_PACT_NAME" Text="赤色中轴协议"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_CRIMSON_AXIS_PACT_DESCRIPTION"
+			Text="增加一个军事政策槽位。与盟友针对共同的敌人作战时，每回合获得大量同盟点数。"/>
 	</LocalizedText>
 </GameData>
