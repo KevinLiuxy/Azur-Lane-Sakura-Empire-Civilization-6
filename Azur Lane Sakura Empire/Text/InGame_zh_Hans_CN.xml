@@ -136,15 +136,15 @@
 		
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_SHOPKEEPER_KANBAN_NAME" Text="商店看板娘"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_SHOPKEEPER_KANBAN_DESCRIPTION"
-			Text="就职后获得一个特殊建造单位“泛用型布里”。明石每获得一次晋升时都会免费获得一个紫布里或金布里。"/>
+			Text="就职后在首都获得一个特殊建造单位“泛用型布里”。明石每获得一次晋升时都会免费获得一个紫布里或金布里。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_LOGISTICS_REPAIR_NAME" Text="后勤维修"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_LOGISTICS_REPAIR_DESCRIPTION"
-			Text="海军单位可在中立领土上回复。所有单位在中立领土上 +5 [ICON_Damaged] 生命值回复。"/>
+			Text="在任何一座城市就职时：海军单位可在中立领土上回复。所有单位在中立领土上 +5 [ICON_Damaged] 生命值回复。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_EQUIPMENT_SUPPLY_NAME" Text="装备补给"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_EQUIPMENT_SUPPLY_DESCRIPTION"
-			Text="帝国中所有单位升级所需的 [ICON_Gold] 金币与资源 -25%。"/>
+			Text="在任何一座城市就职时：帝国内中所有单位升级所需的 [ICON_Gold] 金币与资源 -25%。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_SHIPYARD_EXPANSION_NAME" Text="港区扩建"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_SHIPYARD_EXPANSION_DESCRIPTION"
@@ -152,10 +152,10 @@
 
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_PROJECT_RESEARCH_NAME" Text="方案舰研发"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_PROJECT_RESEARCH_DESCRIPTION"
-			Text="该城市港口区域，和港口中的每座建筑为城市 +10% [ICON_Science] 科技值 +5% [ICON_Production] 生产力。"/>
+			Text="城市港口区域，和港口中的每座建筑为此城 +10% [ICON_Science] 科技值 +5% [ICON_Production] 生产力。"/>
 
-		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_CRIMSON_AXIS_PACT_NAME" Text="赤色中轴协议"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_CRIMSON_AXIS_PACT_DESCRIPTION"
-			Text="增加一个军事政策槽位。与盟友针对共同的敌人作战时，每回合获得大量同盟点数。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_NAME" Text="心智魔方解析"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_DESCRIPTION"
+			Text="城人口增长速度 +20%，此城生产海军单位时 +50% 生产力。"/>
 	</LocalizedText>
 </GameData>
