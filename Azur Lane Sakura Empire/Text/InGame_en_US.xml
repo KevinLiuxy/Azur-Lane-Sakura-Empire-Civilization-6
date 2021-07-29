@@ -127,5 +127,35 @@
 		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_58" Text=""/>
 		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_59" Text=""/>
 		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_60" Text=""/>
+
+		<Row Language="en_US" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_NAME" Text="Akashi"/>
+		<Row Language="en_US" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_TITLE" Text="The Logistics Master"/>
+		<Row Language="en_US" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_SHORT_TITLE" Text="Logistics Master"/>
+		<Row Language="en_US" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_DESCRIPTION"
+			Text="The Master of naval logistics, ship repair and research, Akashi, is the backbone for supporting ongaoing campains on the other side of the oceans."/>
+
+		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_SHOPKEEPER_KANBAN_NAME" Text="Shopkeeper"/>
+		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_SHOPKEEPER_KANBAN_DESCRIPTION"
+			Text="Gain a special unit &quot;Universial Bulin&quot; or &quot;Prototype Bulin&quot; for this and each following promotion Akashi receives."/>
+
+		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_LOGISTICS_REPAIR_NAME" Text="Logistics Repair"/>
+		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_LOGISTICS_REPAIR_DESCRIPTION"
+			Text="When established in a city: Enables all Nval units to heal in neutral territory. Units in neutral territory +5 [ICON_Damaged] Heal."/>
+
+		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EQUIPMENT_SUPPLY_NAME" Text="Equipment Supply"/>
+		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EQUIPMENT_SUPPLY_DESCRIPTION"
+			Text="When established in a city: Receives 25% [ICON_Gold] Gold and resource discout on all unit upgrades."/>
+
+		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_SHIPYARD_EXPANSION_NAME" Text="Shipyard Expansion"/>
+		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_SHIPYARD_EXPANSION_DESCRIPTION"
+			Text="Harbor buildings are 50% cheaper to purchase in the city. Each Harbor building provide +5 [ICON_Gold] Gold and +1 [ICON_RESOURCE_OIL] Oil (requires Refining)."/>
+
+		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_PROJECT_RESEARCH_NAME" Text="Ship Research Plan"/>
+		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_PROJECT_RESEARCH_DESCRIPTION"
+			Text="Harbor district, and each Harbor building increases [ICON_Science] Science and [ICON_Production] Production of this city by 10% and 5%."/>
+
+		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_NAME" Text="Wisdom Cube Analysis"/>
+		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_DESCRIPTION"
+			Text="Increases city growth by 20%. +75% [ICON_Production] Production towards Naval units in this city."/>
 	</LocalizedText>
 </GameData>

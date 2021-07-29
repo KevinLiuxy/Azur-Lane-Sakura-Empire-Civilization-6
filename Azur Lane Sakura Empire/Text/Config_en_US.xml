@@ -63,6 +63,6 @@
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_NAME"
 			Text="The Unsinkable Lucky Ship"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_DESCRIPTION"
-			Text="[ICON_TechBoosted] Eurekas and [ICON_CivicBoosted] Inspirations randomly provides 40% ~ 80% technologies and civics. Enemy Spy level reduced by 2 in your lands. Improvements, buildings, and districts cannot be damaged by Environmental Effects."/>
+			Text="[ICON_TechBoosted] Eurekas and [ICON_CivicBoosted] Inspirations provides +15% technologies and civics. Enemy Spy level reduced by 2 in your lands. Improvements, buildings, and districts cannot be damaged by Environmental Effects."/>
 	</LocalizedText>
 </GameData>

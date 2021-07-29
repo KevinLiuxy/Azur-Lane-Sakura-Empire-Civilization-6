@@ -54,15 +54,15 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_NAME"
 			Text="好运陪伴之船"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_DESCRIPTION"
-			Text="经验值高于 30 的单位被击杀时，将损失 30 点经验，保留 1 点体力值并撤退至最近的城市。拥有驻军的城市 +1 [ICON_Amenities] 宜居度。"/>
+			Text="生命值低于 30 的单位，防御时 +8 [Icon_Strength] 战斗力。拥有驻军的城市 +1 [ICON_Amenities] 宜居度。"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_DESCRIPTION_RnF"
-			Text="经验值高于 30 的单位被击杀时，将损失 30 点经验，保留 1 点体力值并撤退至最近的城市。拥有驻军的城市 +1 [ICON_Amenities] 宜居度、+4 忠诚度。"/>
+			Text="生命值低于 30 的单位，防御时 +8 [Icon_Strength] 战斗力。拥有驻军的城市 +1 [ICON_Amenities] 宜居度、+4 忠诚度。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_AZUR_LANE_YUKIKAZE_NAME"
 			Text="碧蓝航线 · 雪风（莲）"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_NAME"
 			Text="奇迹的幸运舰"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_DESCRIPTION"
-			Text="[ICON_TechBoosted] 尤里卡和 [ICON_CivicBoosted] 鼓舞随机提供 40% ~ 80% 的科技与市政。领土内敌方间谍等级降低2级。环境效应无法对城市中的改良设施、建筑与区域造成伤害。"/>
+			Text="[ICON_TechBoosted] 尤里卡和 [ICON_CivicBoosted] 鼓舞额外提供 15% 的科技与市政。领土内敌方间谍等级降低2级。环境效应无法对城市中的改良设施、建筑与区域造成伤害。"/>
 	</LocalizedText>
 </GameData>

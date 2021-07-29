@@ -18,13 +18,13 @@
 />
 		<!--deligation-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text="虽然不太明白这样有什么意义……但是有点高兴。"
+			Text=""
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AZUR_LANE_AYANAMI_ANY"
 			Text=""
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text="指挥官，吃了吗？我这里还有点心。"
+			Text=""
 />
 		<!--friendship-->
 		<!--***voiced***-->
@@ -308,23 +308,23 @@
 			Text="听好了，我乃高贵的，幸运的，无敌的，雪风・Eight・阳炎The.Geni……（咬舌）咳咳，总而言之，能得到我是你的幸运，感到光荣吧！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text="请玩家去附近城市"
+			Text=""
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text="被玩家请去附近城市"
+			Text=""
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text="跟玩家交换首都信息"
+			Text=""
 />
 		<!--deligation-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text="接受玩家使者"
+			Text=""
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text="拒绝玩家使者"
+			Text=""
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text="请求向玩家派使者"
+			Text=""
 />
 		<!--friendship-->
 		<!--***voiced***-->
@@ -332,19 +332,19 @@
 			Text="既然这是你发自内心的请求，雪风大人就大发慈悲收下好了…特别允许你把雪风大人抱起来也没关系哦~"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text="拒绝宣布友好"
+			Text=""
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text="向玩家宣布友好"
+			Text=""
 />		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_YUKIKAZE_ANY"
 			Text="{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_YUKIKAZE_ANY}"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text="玩家拒绝"
+			Text=""
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text="向玩家宣布同盟（RaF GS 中没有）"
+			Text=""
 />
 		<!--denounce-->
 		<!--***voiced***-->
@@ -374,13 +374,13 @@
 			Text="瞧你那傻样，结果还是要依靠雪风大人我呢~ 指挥官，你求我的话也不是不能帮你一下哦~"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_AZUR_LANE_YUKIKAZE_REASON_ANY"
-			Text="（留空）"
+			Text=""
 />		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AZUR_LANE_YUKIKAZE_ANY"
 			Text="可恶，居然比我还要受欢迎——没、没办法……但你以为雪风大人只想要享乐就大错特错啦！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_AZUR_LANE_YUKIKAZE_REASON_ANY"
-			Text="（留空）"
+			Text=""
 />
 		<!--make deals-->
 		<!--***voiced***-->
@@ -392,7 +392,7 @@
 />
 		<!--troops-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text="部队靠近边境"
+			Text=""
 />
 
 		<!--Civilopedia-->

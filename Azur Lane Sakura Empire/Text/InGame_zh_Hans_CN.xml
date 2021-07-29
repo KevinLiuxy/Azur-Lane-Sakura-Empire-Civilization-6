@@ -154,8 +154,8 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_PROJECT_RESEARCH_DESCRIPTION"
 			Text="城市港口区域，和港口中的每座建筑为此城 +10% [ICON_Science] 科技值 +5% [ICON_Production] 生产力。"/>
 
-		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_NAME" Text="心智魔方解析"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_NAME" Text="魔方解析"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_DESCRIPTION"
-			Text="城人口增长速度 +20%，此城生产海军单位时 +50% 生产力。"/>
+			Text="城市人口增长速度 +20%，此城生产海军单位时 +75% [ICON_Production] 生产力。"/>
 	</LocalizedText>
 </GameData>

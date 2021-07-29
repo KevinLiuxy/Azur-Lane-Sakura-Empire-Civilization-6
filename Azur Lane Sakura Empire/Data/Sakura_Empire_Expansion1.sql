@@ -285,7 +285,7 @@ VALUES	('SAKURA_EMPIRE_SURPRISE_WAR_COMBAT_BUFF',		'DiplomaticYieldSource',	'SUR
 		('WISDOM_QUBE_STUDY_EXTRA_GROWTH',				'Amount',					20						);
 
 INSERT INTO ModifierArguments (ModifierId, Name, Value)
-SELECT	ModifierId, 'Amount', 50
+SELECT	ModifierId, 'Amount', 75
 FROM	GovernorPromotionModifiers
 WHERE	ModifierId LIKE 'WISDOM_QUBE_STUDY_EXTRA_PRODUCTION_%';
 

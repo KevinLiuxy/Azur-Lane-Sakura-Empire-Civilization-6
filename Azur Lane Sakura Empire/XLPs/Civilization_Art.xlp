@@ -385,6 +385,30 @@
 			<m_EntryID text="GOVERNOR_ICON_AL_AKASHI"/>
 			<m_ObjectName text="GOVERNOR_ICON_AL_AKASHI"/>
 		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_AL_AKASHI_FILL_22"/>
+			<m_ObjectName text="GOVERNOR_AL_AKASHI_FILL_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_AL_AKASHI_FILL_32"/>
+			<m_ObjectName text="GOVERNOR_AL_AKASHI_FILL_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_AL_AKASHI_SLOT_22"/>
+			<m_ObjectName text="GOVERNOR_AL_AKASHI_SLOT_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_AL_AKASHI_SLOT_32"/>
+			<m_ObjectName text="GOVERNOR_AL_AKASHI_SLOT_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_AL_AKASHI_ICON_32"/>
+			<m_ObjectName text="GOVERNOR_AL_AKASHI_ICON_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GOVERNOR_AL_AKASHI_ICON_64"/>
+			<m_ObjectName text="GOVERNOR_AL_AKASHI_ICON_64"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>

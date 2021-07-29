@@ -85,6 +85,12 @@
 		<Row Name="ICON_ATLAS_UNIT_BULIN_MK2_PORTRAIT" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_BULIN_MK2_50.dds"/>
 		<Row Name="ICON_ATLAS_UNIT_BULIN_MK2_PORTRAIT" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_PORTRAIT_BULIN_MK2_38.dds"/>
 
+		<Row Name="ICON_ATLAS_AZUR_LANE_AKASHI" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_AL_AKASHI_ICON_64.dds"/>
+		<Row Name="ICON_ATLAS_AZUR_LANE_AKASHI" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_AL_AKASHI_ICON_32.dds"/>
+		<Row Name="ICON_ATLAS_AZUR_LANE_AKASHI_FILL" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_AL_AKASHI_FILL_32.dds"/>
+		<Row Name="ICON_ATLAS_AZUR_LANE_AKASHI_FILL" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_AL_AKASHI_FILL_22.dds"/>
+		<Row Name="ICON_ATLAS_AZUR_LANE_AKASHI_SLOT" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_AL_AKASHI_SLOT_32.dds"/>
+		<Row Name="ICON_ATLAS_AZUR_LANE_AKASHI_SLOT" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_AL_AKASHI_SLOT_22.dds"/>
 		<Row Name="ICON_ATLAS_AZUR_LANE_AKASHI_PROMOTION" IconSize="24" IconsPerRow="1" IconsPerColumn="1" Filename="GOVERNOR_ICON_AL_AKASHI.dds"/>
 	</IconTextureAtlases>
 
@@ -101,6 +107,10 @@
 		<Row Name="ICON_UNIT_BULIN_MK1_PORTRAIT" Atlas="ICON_ATLAS_UNIT_BULIN_MK1_PORTRAIT" index="0"/>
 		<Row Name="ICON_UNIT_BULIN_MK2" Atlas="ICON_ATLAS_UNIT_BULIN_MK2" index="0"/>
 		<Row Name="ICON_UNIT_BULIN_MK2_PORTRAIT" Atlas="ICON_ATLAS_UNIT_BULIN_MK2_PORTRAIT" index="0"/>
+
+		<Row Name="ICON_GOVERNOR_AZUR_LANE_AKASHI" Atlas="ICON_ATLAS_AZUR_LANE_AKASHI" Index="0"/>
+		<Row Name="ICON_GOVERNOR_AZUR_LANE_AKASHI_FILL" Atlas="ICON_ATLAS_AZUR_LANE_AKASHI_FILL" Index="0"/>
+		<Row Name="ICON_GOVERNOR_AZUR_LANE_AKASHI_SLOT" Atlas="ICON_ATLAS_AZUR_LANE_AKASHI_SLOT" Index="0"/>
 		<Row Name="ICON_GOVERNOR_AZUR_LANE_AKASHI_PROMOTION" Atlas="ICON_ATLAS_AZUR_LANE_AKASHI_PROMOTION" index="0"/>
 	</IconDefinitions>
 </GameData>
