@@ -11,7 +11,7 @@
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME"
 			Text="Sun Rising over the Sea"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_DESCRIPTION"
-			Text="Can purchase Naval units with [ICON_Faith] Faith. After declaring a Surprise War, all units +2 [ICON_MOVEMENT] Movement +5 [ICON_STRENGTH] Combat Strength for the next 10 turns, and then -5 [ICON_STRENGTH] for the following 10 turns.[NEWLINE]+1 [ICON_Amenities] Amenity and +15% Growth in coastal cities, or cities with a Sakura Empire Naval Dockyard."/>
+			Text="Can purchase Naval units with [ICON_Faith] Faith. After declaring a Surprise War, all units +2 [ICON_MOVEMENT] Movement +5 [ICON_STRENGTH] Combat Strength for the next 10 turns, and then [COLOR_RED]-5[ENDCOLOR] [ICON_STRENGTH] for the following 10 turns.[NEWLINE]+1 [ICON_Amenities] Amenity and +15% [ICON_Citizen] Growth in coastal cities, or cities with a Sakura Empire Naval Dockyard."/>
 
 		<Row Language="en_US" Tag="LOC_BUILDING_KAIGUN_KOSHO_NAME"
 			Text="Cerise Imperial Dockyard"/>
@@ -21,19 +21,9 @@
 		<Row Language="en_US" Tag="LOC_DISTRICT_SAKURA_EMPIRE_JINJA_NAME"
 			Text="Sakura Jinja"/>
 		<Row Language="en_US" Tag="LOC_DISTRICT_SAKURA_EMPIRE_JINJA_DESCRIPTION"
-			Text="A district unique to Sakura Empire for religious activity. Replaces the Holy Site district and cheaper to build.[NEWLINE][NEWLINE]+1 [ICON_Housing] Housing. Provides [ICON_Culture] Culture equal to its [ICON_Faith] Faith bonus. +2 Appeal. Adjacent coast tiles +1 [ICON_Faith] Faith, adjacent lake tiles +2 Faith.[NEWLINE]"/>
+			Text="A district unique to Sakura Empire for religious activity. Replaces the Holy Site district and cheaper to build.[NEWLINE][NEWLINE]+1 [ICON_Housing] Housing. Provides [ICON_Culture] Culture equal to its [ICON_Faith] Faith bonus. +2 Appeal. Adjacent coast tiles +1 [ICON_Faith] Faith, adjacent lake tiles +2 Faith."/>
 		<Row Language="en_US" Tag="LOC_DISTRICT_SAKURA_EMPIRE_JINJA_DESCRIPTION_GS"
-			Text="A district unique to Sakura Empire for religious activity. Replaces the Holy Site district and cheaper to build.[NEWLINE][NEWLINE]+1 [ICON_Housing] Housing. Provides [ICON_Culture] Culture equal to its [ICON_Faith] Faith bonus. +2 Appeal. Adjacent coast tiles +1 [ICON_Faith] Faith, adjacent lake tiles +2 Faith. Adjacent volcanic soil and geothermal fissures +3 [ICON_Faith] Faith.[NEWLINE]"/>
-
-		<Row Language="en_US" Tag="LOC_UNIT_BULIN_MK1_NAME"
-			Text="Universial Bulin"/>
-		<Row Language="en_US" Tag="LOC_UNIT_BULIN_MK1_DESCRIPTION"
-			Text="Azur Lane unique civilian unit that replaces the Builder."/>
-
-		<Row Language="en_US" Tag="LOC_UNIT_BULIN_MK2_NAME"
-			Text="Prototype Bulin MKII"/>
-		<Row Language="en_US" Tag="LOC_UNIT_BULIN_MK2_DESCRIPTION"
-			Text="Azur Lane unique support unit that replaces the Military Engineer."/>
+			Text="A district unique to Sakura Empire for religious activity. Replaces the Holy Site district and cheaper to build.[NEWLINE][NEWLINE]+1 [ICON_Housing] Housing. Provides [ICON_Culture] Culture equal to its [ICON_Faith] Faith bonus. +2 Appeal. Adjacent coast tiles +1 [ICON_Faith] Faith, adjacent lake tiles +2 Faith. Adjacent volcanic soil and geothermal fissures +3 [ICON_Faith] Faith."/>
 
 		<Row Language="en_US" Tag="LOC_LEADER_AZUR_LANE_AYANAMI_NAME"
 			Text="IJN · Ayanami"/>
@@ -47,22 +37,24 @@
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_NAME"
 			Text="The Nightmare of Solomon"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_DESCRIPTION"
-			Text="Units +100% Flanking Bonus in combat, +50% yields from pillaging and coastal raids. Pastures, Camps, and Fishing Boats +1 [ICON_Food] Food and +1 [ICON_Production] Production."/>
+			Text="Units +100% Flanking Bonus in combat, +30% yields from pillaging and coastal raids. Pastures, Camps, and Fishing Boats +1 [ICON_Food] Food and +1 [ICON_Production] Production."/>
 
 		<Row Language="en_US" Tag="LOC_LEADER_AZUR_LANE_SHIGURE_NAME"
 			Text="IJN · Shigure"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_NAME"
-			Text="Companion-ship of Luck"/>
+			Text="With Goddess of Luck"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_DESCRIPTION"
-			Text="When units with 30 or more EXP is killed, lose 30 EXP and retreats with 1 HP to the nearest city. Cities with a garrisoned unit +1 [ICON_Amenities] Amenity."/>
-		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_DESCRIPTION_RnF"
-			Text="When units with 30 or more EXP is killed, lose 30 EXP and retreats with 1 HP to the nearest city. Cities with a garrisoned unit +1 [ICON_Amenities] Amenity and +4 Loyalty per turn."/>
+			Text="Units +100% Support Bonus in combat. Your districts provide +1 [ICON_GreatPerson] Great Person point of their type."/>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_DESCRIPTION_GS"
+			Text="Units +100% Support Bonus in combat. Your districts provide +1 [ICON_GreatPerson] Great Person point of their type. Improvements, buildings, and districts cannot be damaged by Environmental Effects in cities with an Governor."/>
 
 		<Row Language="en_US" Tag="LOC_LEADER_AZUR_LANE_YUKIKAZE_NAME"
 			Text="IJN · Yukikaze"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_NAME"
 			Text="The Unsinkable Lucky Ship"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_DESCRIPTION"
-			Text="[ICON_TechBoosted] Eurekas and [ICON_CivicBoosted] Inspirations provides +15% technologies and civics. Enemy Spy level reduced by 2 in your lands. Improvements, buildings, and districts cannot be damaged by Environmental Effects."/>
+			Text="[ICON_TechBoosted] Eurekas and [ICON_CivicBoosted] Inspirations provides +15% technologies and civics. Enemy Spy level reduced by 2 in your lands."/>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_DESCRIPTION_GS"
+			Text="[ICON_TechBoosted] Eurekas and [ICON_CivicBoosted] Inspirations provides +15% technologies and civics. Enemy Spy level reduced by 2 in your lands. Improvements, buildings, and districts cannot be damaged by Environmental Effects in cities with an Governor."/>
 	</LocalizedText>
 </GameData>

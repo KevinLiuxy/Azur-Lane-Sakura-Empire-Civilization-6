@@ -1,138 +1,133 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
+	<BaseGameText>
+		<Row Tag="LOC_UNIT_BULIN_MK1_DESCRIPTION"
+			Text="{LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK1_PLACEHOLDER_DESCRIPTION}[NEWLINE][NEWLINE]{LOC_UNIT_BUILDER_DESCRIPTION}"/>
+		<Row Tag="LOC_UNIT_BULIN_MK2_DESCRIPTION"
+			Text="{LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK2_PLACEHOLDER_DESCRIPTION}[NEWLINE][NEWLINE]{LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION}"/>
+	</BaseGameText>
+	
 	<LocalizedText>
 		<Replace Language="en_US" Tag="LOC_LEADER_AZUR_LANE_AYANAMI_NAME" Text="Ayanami"/>
 		<Replace Language="en_US" Tag="LOC_LEADER_AZUR_LANE_YUUDACHI_NAME" Text="Yuudachi"/>
 		<Replace Language="en_US" Tag="LOC_LEADER_AZUR_LANE_SHIGURE_NAME" Text="Shigure"/>
 		<Replace Language="en_US" Tag="LOC_LEADER_AZUR_LANE_YUKIKAZE_NAME" Text="Yukikaze"/>
 
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_1"  Text="Juuyo"/>
+		<Row Language="en_US" Tag="LOC_UNIT_BULIN_MK1_NAME" Text="Universial Bulin"/>
+		<Row Language="en_US" Tag="LOC_UNIT_BULIN_MK2_NAME" Text="Prototype Bulin MKII"/>
+
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK1_PLACEHOLDER_DESCRIPTION"
+			Text="Azur Lane unique civilian unit that replaces the Builder."/>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK2_PLACEHOLDER_DESCRIPTION"
+			Text="Azur Lane unique support unit that replaces the Military Engineer, with 1 additional build charge."/>
+
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_1"  Text="Juuyo Chinjufu"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_2"  Text="Yokosuka"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_3"  Text="Kure"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_4"  Text="Sasebo"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_5"  Text="Maizuru"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_6"  Text="Ishikawajima"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_7"  Text="Coral Sea"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_8"  Text="Midway"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_9"  Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_10" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_11" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_12" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_13" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_14" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_15" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_16" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_17" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_18" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_19" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_20" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_21" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_22" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_23" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_24" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_25" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_26" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_27" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_28" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_29" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_30" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_31" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_32" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_33" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_34" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_35" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_36" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_37" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_38" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_39" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_40" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_41" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_42" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_43" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_44" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_45" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_46" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_47" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_48" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_49" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_50" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_51" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_52" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_53" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_54" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_55" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_56" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_57" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_58" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_59" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_60" Text=""/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_6"  Text="Ominato"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_7"  Text="Makō"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_8"  Text="Chinkai"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_9"  Text="Ishikawajima"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_10" Text="Chichi-jima"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_11" Text="Minami-Tori-shima"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_12" Text="Solomon"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_13" Text="Guadalcanal"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_14" Text="Atsugi"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_15" Text="Okinawa"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_16" Text="Iwo-jima"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_17" Text="Naha"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_18" Text="Kochi"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_19" Text="Toba"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_20" Text="Guam"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_21" Text="Senzaki"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_22" Text="Ryukyu"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_23" Text="Sado"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_24" Text="Tsushima"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_25" Text="Iriomote-jima"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_26" Text="Yakushima"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_27" Text="Ishigaki"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_28" Text="Kōzu-shima"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_29" Text="Amami Ōshima"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_30" Text="Miyako-jima"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_31" Text="Midway"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_32" Text="Tinian"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_33" Text="Saipan"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_34" Text="Mariana"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_35" Text="Riyojun"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_36" Text="Kainan"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_37" Text="Enoshima"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_38" Text="Okinoshima"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_39" Text="Ogasawara"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_40" Text="Luzon"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_41" Text="Ōkunoshima"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_42" Text="Yoron"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_43" Text="Ōshima"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_44" Text="Itsukushima"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_45" Text="Iki"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_46" Text="Rebun"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_47" Text="Nokonoshima"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_48" Text="Taketomi"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_49" Text="Kume"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_50" Text="Truk"/>
 
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_1"  Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_2"  Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_3"  Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_4"  Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_5"  Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_6"  Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_7"  Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_8"  Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_9"  Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_10" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_11" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_12" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_13" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_14" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_15" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_16" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_17" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_18" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_19" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_20" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_21" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_22" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_23" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_24" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_25" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_26" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_27" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_28" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_29" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_30" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_31" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_32" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_33" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_34" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_35" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_36" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_37" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_38" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_39" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_40" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_41" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_42" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_43" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_44" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_45" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_46" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_47" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_48" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_49" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_50" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_51" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_52" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_53" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_54" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_55" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_56" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_57" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_58" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_59" Text=""/>
-		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_60" Text=""/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_1"  Text="Ibuki"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_2"  Text="Izumo"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_3"  Text="Kitakaze"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_4"  Text="Shinano"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_5"  Text="Akagi"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_6"  Text="Amagi"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_7"  Text="Atago"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_8"  Text="I-13"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_9"  Text="I-168"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_10" Text="I-19"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_11" Text="Kaga"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_12" Text="Kawakaze"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_13" Text="Mikasa"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_14" Text="Nagato"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_15" Text="Noshiro"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_16" Text="Shoukaku"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_17" Text="Suruga"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_18" Text="Shimakaze"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_19" Text="Taihou"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_20" Text="Takao"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_21" Text="Zuikaku"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_22" Text="Agano"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_23" Text="Ashigara"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_24" Text="Fubuki"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_25" Text="Haruna"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_26" Text="Hiei"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_27" Text="Hiryuu"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_28" Text="Jintsuu"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_29" Text="Kirishima"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_30" Text="Kongou"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_31" Text="Mogami"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_32" Text="Mutsu"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_33" Text="Ryuujou"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_34" Text="Souryuu"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_35" Text="Suzuya"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_36" Text="Yuubari"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_37" Text="Akatsuki"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_38" Text="Fusou"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_39" Text="Isuzu"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_40" Text="Ikazuchi"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_41" Text="Inazuma"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_42" Text="Kagerou"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_43" Text="Kuroshio"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_44" Text="Kamikaze"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_45" Text="Naka"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_46" Text="Oyashio"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_47" Text="Sendai"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_48" Text="Shiratsuyu"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_49" Text="Shouhou"/>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_50" Text="Yamashiro"/>
 
 		<Row Language="en_US" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_NAME" Text="Akashi"/>
 		<Row Language="en_US" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_TITLE" Text="The Logistics Master"/>
 		<Row Language="en_US" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_SHORT_TITLE" Text="Logistics Master"/>
 		<Row Language="en_US" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_DESCRIPTION"
-			Text="The Master of naval logistics, ship repair and research, Akashi, is the backbone for supporting ongaoing campains on the other side of the oceans."/>
+			Text="The Master of naval logistics, ship repair and research, Akashi, is the backbone for supporting ongoing campains on the other side of the oceans."/>
 
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_SHOPKEEPER_KANBAN_NAME" Text="Shopkeeper"/>
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_SHOPKEEPER_KANBAN_DESCRIPTION"
@@ -140,15 +135,15 @@
 
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_LOGISTICS_REPAIR_NAME" Text="Logistics Repair"/>
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_LOGISTICS_REPAIR_DESCRIPTION"
-			Text="When established in a city: Enables all Nval units to heal in neutral territory. Units in neutral territory +5 [ICON_Damaged] Heal."/>
+			Text="When established in a city: Enables all Naval units to heal in neutral territory. Units in neutral territory +5 [ICON_Damaged] Heal."/>
 
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EQUIPMENT_SUPPLY_NAME" Text="Equipment Supply"/>
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EQUIPMENT_SUPPLY_DESCRIPTION"
-			Text="When established in a city: Receives 25% [ICON_Gold] Gold and resource discout on all unit upgrades."/>
+			Text="When established in a city: Receives 25% [ICON_Gold] Gold and resource discount on all unit upgrades."/>
 
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_SHIPYARD_EXPANSION_NAME" Text="Shipyard Expansion"/>
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_SHIPYARD_EXPANSION_DESCRIPTION"
-			Text="Harbor buildings are 50% cheaper to purchase in the city. Each Harbor building provide +5 [ICON_Gold] Gold and +1 [ICON_RESOURCE_OIL] Oil (requires Refining)."/>
+			Text="Harbor buildings are 50% cheaper to purchase in this city. Each Harbor building provide +5 [ICON_Gold] Gold and +1 [ICON_RESOURCE_OIL] Oil (requires Refining)."/>
 
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_PROJECT_RESEARCH_NAME" Text="Ship Research Plan"/>
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_PROJECT_RESEARCH_DESCRIPTION"
@@ -156,6 +151,19 @@
 
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_NAME" Text="Wisdom Cube Analysis"/>
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_DESCRIPTION"
-			Text="Increases city growth by 20%. +75% [ICON_Production] Production towards Naval units in this city."/>
+			Text="Increases city [ICON_Citizen] growth by 20%. +75% [ICON_Production] Production towards Naval units in this city."/>
+
+		<Row Language="en_US" Tag="LOC_KAIGUN_KOSHO_NAVAL_COMBAT_DESCRIPTION"
+			Text="+1 [ICON_Strength] Combat Strength from each {LOC_BUILDING_KAIGUN_KOSHO_NAME}."/>
+		<Row Language="en_US" Tag="LOC_SAKURA_EMPIRE_SURPRISE_WAR_COMBAT_BUFF_DESCRIPTION"
+			Text="+10 [ICON_Strength] Combat Strength from Surprise War (within 10 turns)."/>
+		<Row Language="en_US" Tag="LOC_SAKURA_EMPIRE_SURPRISE_WAR_COMBAT_DEBUFF_DESCRIPTION"
+			Text="-5 [ICON_Strength] Combat Strength from Surprise War (within 20 turns)."/>
+
+		<Row Language="en_US" Tag="LOC_CIVINFO_ALSE_LOCATION" Text="Juuyo Islands"/>
+		<Row Language="en_US" Tag="LOC_CIVINFO_AL_FACTION"    Text="Faction"/>
+		<Row Language="en_US" Tag="LOC_CIVINFO_ALSE_FACTION"  Text="Crimson Axis"/>
+		<Row Language="en_US" Tag="LOC_CIVINFO_AL_PREFIX"     Text="Prefix"/>
+		<Row Language="en_US" Tag="LOC_CIVINFO_ALSE_PREFIX"   Text="IJN"/>
 	</LocalizedText>
 </GameData>

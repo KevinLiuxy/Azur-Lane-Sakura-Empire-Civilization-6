@@ -58,7 +58,7 @@ INSERT INTO Players(
 	/* LdrName */ 'LOC_LEADER_AZUR_LANE_SHIGURE_NAME',
 	/* LdrIcon */ 'ICON_LEADER_AZUR_LANE_SHIGURE',
 	/* LA Name */ 'LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_NAME',
-	/* LA Dscp */ 'LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_DESCRIPTION_RnF',
+	/* LA Dscp */ 'LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_DESCRIPTION_GS',
 	/* LA Icon */ 'ICON_LEADER_AZUR_LANE_SHIGURE',
 	/* Prtrait */ 'PORTRAIT_LEADER_AL_SHIGURE',
 	/* Backgnd */ 'PORTRAIT_BACKGROUND_AZUR_LANE_SE'
@@ -74,7 +74,7 @@ INSERT INTO Players(
 	/* LdrName */ 'LOC_LEADER_AZUR_LANE_YUKIKAZE_NAME',
 	/* LdrIcon */ 'ICON_LEADER_AZUR_LANE_YUKIKAZE',
 	/* LA Name */ 'LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_NAME',
-	/* LA Dscp */ 'LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_DESCRIPTION',
+	/* LA Dscp */ 'LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_DESCRIPTION_GS',
 	/* LA Icon */ 'ICON_LEADER_AZUR_LANE_YUKIKAZE',
 	/* Prtrait */ 'PORTRAIT_LEADER_AL_YUKIKAZE',
 	/* Backgnd */ 'PORTRAIT_BACKGROUND_AZUR_LANE_SE'
@@ -102,24 +102,6 @@ VALUES (
 ),(
 	/* Domain  */ 'Players:Expansion2_Players',
 	/* CivType */ 'CIVILIZATION_AZUR_LANE_SE',
-	/* LdrType */ 'LEADER_AZUR_LANE_AYANAMI',
-	/* ItmType */ 'UNIT_BULIN_MK1',
-	/* ItmIcon */ 'ICON_UNIT_BULIN_MK1',
-	/* ItmName */ 'LOC_UNIT_BULIN_MK1_NAME',
-	/* Dscrptn */ 'LOC_UNIT_BULIN_MK1_DESCRIPTION',
-	/* SortIdx */ 30
-),(
-	/* Domain  */ 'Players:Expansion2_Players',
-	/* CivType */ 'CIVILIZATION_AZUR_LANE_SE',
-	/* LdrType */ 'LEADER_AZUR_LANE_AYANAMI',
-	/* ItmType */ 'UNIT_BULIN_MK2',
-	/* ItmIcon */ 'ICON_UNIT_BULIN_MK2',
-	/* ItmName */ 'LOC_UNIT_BULIN_MK2_NAME',
-	/* Dscrptn */ 'LOC_UNIT_BULIN_MK2_DESCRIPTION',
-	/* SortIdx */ 40
-),(
-	/* Domain  */ 'Players:Expansion2_Players',
-	/* CivType */ 'CIVILIZATION_AZUR_LANE_SE',
 	/* LdrType */ 'LEADER_AZUR_LANE_YUUDACHI',
 	/* ItmType */ 'BUILDING_KAIGUN_KOSHO',
 	/* ItmIcon */ 'ICON_BUILDING_KAIGUN_KOSHO',
@@ -135,24 +117,6 @@ VALUES (
 	/* ItmName */ 'LOC_DISTRICT_SAKURA_EMPIRE_JINJA_NAME',
 	/* Dscrptn */ 'LOC_DISTRICT_SAKURA_EMPIRE_JINJA_DESCRIPTION_GS',
 	/* SortIdx */ 20
-),(
-	/* Domain  */ 'Players:Expansion2_Players',
-	/* CivType */ 'CIVILIZATION_AZUR_LANE_SE',
-	/* LdrType */ 'LEADER_AZUR_LANE_YUUDACHI',
-	/* ItmType */ 'UNIT_BULIN_MK1',
-	/* ItmIcon */ 'ICON_UNIT_BULIN_MK1',
-	/* ItmName */ 'LOC_UNIT_BULIN_MK1_NAME',
-	/* Dscrptn */ 'LOC_UNIT_BULIN_MK1_DESCRIPTION',
-	/* SortIdx */ 30
-),(
-	/* Domain  */ 'Players:Expansion2_Players',
-	/* CivType */ 'CIVILIZATION_AZUR_LANE_SE',
-	/* LdrType */ 'LEADER_AZUR_LANE_YUUDACHI',
-	/* ItmType */ 'UNIT_BULIN_MK2',
-	/* ItmIcon */ 'ICON_UNIT_BULIN_MK2',
-	/* ItmName */ 'LOC_UNIT_BULIN_MK2_NAME',
-	/* Dscrptn */ 'LOC_UNIT_BULIN_MK2_DESCRIPTION',
-	/* SortIdx */ 40
 ),(
 	/* Domain  */ 'Players:Expansion2_Players',
 	/* CivType */ 'CIVILIZATION_AZUR_LANE_SE',
@@ -174,24 +138,6 @@ VALUES (
 ),(
 	/* Domain  */ 'Players:Expansion2_Players',
 	/* CivType */ 'CIVILIZATION_AZUR_LANE_SE',
-	/* LdrType */ 'LEADER_AZUR_LANE_SHIGURE',
-	/* ItmType */ 'UNIT_BULIN_MK1',
-	/* ItmIcon */ 'ICON_UNIT_BULIN_MK1',
-	/* ItmName */ 'LOC_UNIT_BULIN_MK1_NAME',
-	/* Dscrptn */ 'LOC_UNIT_BULIN_MK1_DESCRIPTION',
-	/* SortIdx */ 30
-),(
-	/* Domain  */ 'Players:Expansion2_Players',
-	/* CivType */ 'CIVILIZATION_AZUR_LANE_SE',
-	/* LdrType */ 'LEADER_AZUR_LANE_SHIGURE',
-	/* ItmType */ 'UNIT_BULIN_MK2',
-	/* ItmIcon */ 'ICON_UNIT_BULIN_MK2',
-	/* ItmName */ 'LOC_UNIT_BULIN_MK2_NAME',
-	/* Dscrptn */ 'LOC_UNIT_BULIN_MK2_DESCRIPTION',
-	/* SortIdx */ 40
-),(
-	/* Domain  */ 'Players:Expansion2_Players',
-	/* CivType */ 'CIVILIZATION_AZUR_LANE_SE',
 	/* LdrType */ 'LEADER_AZUR_LANE_YUKIKAZE',
 	/* ItmType */ 'BUILDING_KAIGUN_KOSHO',
 	/* ItmIcon */ 'ICON_BUILDING_KAIGUN_KOSHO',
@@ -207,22 +153,4 @@ VALUES (
 	/* ItmName */ 'LOC_DISTRICT_SAKURA_EMPIRE_JINJA_NAME',
 	/* Dscrptn */ 'LOC_DISTRICT_SAKURA_EMPIRE_JINJA_DESCRIPTION_GS',
 	/* SortIdx */ 20
-),(
-	/* Domain  */ 'Players:Expansion2_Players',
-	/* CivType */ 'CIVILIZATION_AZUR_LANE_SE',
-	/* LdrType */ 'LEADER_AZUR_LANE_YUKIKAZE',
-	/* ItmType */ 'UNIT_BULIN_MK1',
-	/* ItmIcon */ 'ICON_UNIT_BULIN_MK1',
-	/* ItmName */ 'LOC_UNIT_BULIN_MK1_NAME',
-	/* Dscrptn */ 'LOC_UNIT_BULIN_MK1_DESCRIPTION',
-	/* SortIdx */ 30
-),(
-	/* Domain  */ 'Players:Expansion2_Players',
-	/* CivType */ 'CIVILIZATION_AZUR_LANE_SE',
-	/* LdrType */ 'LEADER_AZUR_LANE_YUKIKAZE',
-	/* ItmType */ 'UNIT_BULIN_MK2',
-	/* ItmIcon */ 'ICON_UNIT_BULIN_MK2',
-	/* ItmName */ 'LOC_UNIT_BULIN_MK2_NAME',
-	/* Dscrptn */ 'LOC_UNIT_BULIN_MK2_DESCRIPTION',
-	/* SortIdx */ 40
 );

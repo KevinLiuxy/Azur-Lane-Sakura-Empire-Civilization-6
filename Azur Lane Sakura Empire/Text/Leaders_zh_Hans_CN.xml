@@ -8,23 +8,23 @@
 			Text="绫波……的说，他们喜欢叫我“鬼神”就是了。对我来说，战斗没什么好害怕的，所以虽然只是驱逐舰，但是无论什么敌人我都敢一战……"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text=""
+			Text="要来我们附近的城市参观吗？游览指南在这里……的说。"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text=""
+			Text="那就一起出发吧。"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text=""
+			Text="我们的城市氛围完全不一样……的说。不过，都很不错。您能……介绍您的首都吗？"
 />
 		<!--deligation-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text=""
+			Text="您的礼物，我还真有些期待……"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text=""
+			Text="礼物？绫波不是很明白……"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text=""
+			Text="我的使团带了礼物给您，希望您能收下。这是我们的心意，应该会很不错……请多指教。"
 />
 		<!--friendship-->
 		<!--***voiced***-->
@@ -32,25 +32,25 @@
 			Text="现在的话，能感觉到自己不是孤单一人…因为指挥官一直在这里"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text=""
+			Text="不是很想和你们走得太近……"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text=""
+			Text="和你在一起很开心，所以我……想和你成为朋友。"
 />
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_AYANAMI_ANY"
 			Text="{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_AYANAMI_ANY}"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text=""
+			Text="不理我的话，我会有点……伤心。"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text=""
+			Text="无论去哪里，我都会跟上你的脚步的……结为盟友吧？"
 />
 		<!--denounce-->
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text="想去……所罗门吗？"
+			Text="难道你想……去所罗门吗？"
 />
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_AZUR_LANE_AYANAMI_ANY"
@@ -67,7 +67,7 @@
 />
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text="我不要……一个人……不会…就这样结束…！"
+			Text="重回孤身一人……不要！不会……就这么结束的说！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_AZUR_LANE_AYANAMI_ANY"
 			Text="{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AZUR_LANE_AYANAMI_ANY}"
@@ -90,7 +90,7 @@
 		<!--make deals-->
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text="虽然并不是很懂那是什么意思，不过，谢谢。"
+			Text="虽然并不是很懂那是什么意思，不过，谢谢……的说。"
 />
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_AZUR_LANE_AYANAMI_ANY"
@@ -98,7 +98,7 @@
 />
 		<!--troops-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text=""
+			Text="在战场需要我的时候，我随时都会赶往前线作战——我们无论何时都没有懈怠训练。"
 />
 
 		<!--==============================================================-->
@@ -108,44 +108,44 @@
 			Text="我是夕立！人称“所罗门的疯狗”！哼哼，听起来很强吧，打群架我是不会输的！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AZUR_LANE_YUUDACHI_ANY"
-			Text=""
+			Text="快别窝在办公室里了，总呆在室内骨头会生锈的！出来到我们最近的城市玩耍吧！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AZUR_LANE_YUUDACHI_ANY"
-			Text=""
+			Text="哦？可以出去玩了吗！？"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AZUR_LANE_YUUDACHI_ANY"
-			Text=""
+			Text="夕立的首都有很多很多好吃的肉，实在是太棒啦！你们的首都是什么样的呀？"
 />
 		<!--deligation-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AZUR_LANE_YUUDACHI_ANY"
-			Text=""
+			Text="听说有吃的？好像很好吃！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AZUR_LANE_YUUDACHI_ANY"
-			Text=""
+			Text="不要把我当小孩子！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AZUR_LANE_YUUDACHI_ANY"
-			Text=""
+			Text="我的使团带了礼物给您！时雨说“夕立你绝对会吃掉的”，就给我了两份，剩下一份就拿来给你咯！"
 />
 		<!--friendship-->
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_YUUDACHI_ANY"
-			Text="复杂的事情虽然我还不太明白，但是我最喜欢指挥官啦！谁要是敢欺负指挥官，就得先问过我的主炮才行！"
+			Text="复杂的事情虽然我还不太明白，但是我最喜欢你啦！谁要是敢欺负指挥官，就得先问过我的主炮才行！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_YUUDACHI_ANY"
-			Text=""
+			Text="唔……我没有搞错吧？"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_YUUDACHI_ANY"
-			Text=""
+			Text="我们可以宣布我们的友谊吧？对吧对吧！"
 />
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_YUUDACHI_ANY"
 			Text="{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_YUUDACHI_ANY}"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_YUUDACHI_ANY"
-			Text=""
+			Text="都怪你，我回去被笑话了，你要怎么赔我！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_AZUR_LANE_YUUDACHI_ANY"
-			Text=""
+			Text="我们结为盟友嘛。我超可靠的。"
 />
 		<!--denounce-->
 		<!--***voiced***-->
@@ -154,7 +154,7 @@
 />
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_AZUR_LANE_YUUDACHI_ANY"
-			Text="什么？握爪？？？你在看不起我么！唔……不要把我当小孩子！[NEWLINE]（谴责你）"
+			Text="什么？握爪？？？你在看不起我么！你要让我生气了！[NEWLINE]（谴责你）"
 />
 		<!--warfare-->
 		<!--***voiced***-->
@@ -163,11 +163,11 @@
 />
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_AZUR_LANE_YUUDACHI_ANY"
-			Text="嗷呜，今天咬谁！怎么样，是不是超凶？破坏东西这种事我还是很擅长的~ 让你们见识一下所罗门的噩梦！"
+			Text="嗷呜，今天咬谁！怎么样，是不是超凶？破坏东西这种事我还是很擅长的——让你们见识一下所罗门的噩梦！"
 />
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AZUR_LANE_YUUDACHI_ANY"
-			Text="唔，指挥官……混蛋，为什么……我居然输了……"
+			Text="唔……混蛋，为什么……我居然输了……"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_AZUR_LANE_YUUDACHI_ANY"
 			Text="{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AZUR_LANE_YUUDACHI_ANY}"
@@ -198,33 +198,33 @@
 />
 		<!--troops-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AZUR_LANE_YUUDACHI_ANY"
-			Text=""
+			Text="我现在很想找点什么发泄一下——快撤走你的军队，否则你最好做好心理准备……"
 />
 
 		<!--==============================================================-->
 		<!--first meet-->
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text="白露级驱逐舰时雨的说，不是吹牛，我可是被幸运之神眷顾着的，哼哼，运气也是实力呢，不要不服哟？"
+			Text="我是白露级驱逐舰时雨呢。不是吹牛，我可是被幸运之神眷顾着的，哼哼，运气也是实力呢，不要不服哟？"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text=""
+			Text="居然能在这里遇到我，你运气真好呢~既然如此，就让幸运的时雨大人带你去最近的城市转转好了！要感谢我啊！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text=""
+			Text="麻利点，快准备一下吧~"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text=""
+			Text="所谓幸运呢，就是不经意间获得的才叫幸运哦，比如说……你要和我交换首都的信息吗？"
 />
 		<!--deligation-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text=""
+			Text="哦~呵~呵~不用猜啦，反正你也知道本时雨大人会来迎接的吧？"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text=""
+			Text="哼哼，是在对时雨打什么鬼主意吧~？"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text=""
+			Text="时雨大人的使团和礼物，你就好好感恩戴德的收下吧！目的？呵呵呵——猜一猜？"
 />
 		<!--friendship-->
 		<!--***voiced***-->
@@ -232,20 +232,20 @@
 			Text="嘻嘻，笨笨的指挥官，你就尽管依靠时雨好了，时雨大人什~么都会帮你解决的"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text=""
+			Text="你干什么！？时雨大人可不是雪风啊！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text=""
+			Text="我可是个大红人呢~ 还不快来和我宣布友谊！"
 />
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_SHIGURE_ANY"
 			Text="{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_SHIGURE_ANY}"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text=""
+			Text="你在干什么啊，笨蛋！邀请都已经送达了啦！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text=""
+			Text="真是让人放心不下呢，这样的话时雨大人就只好一~直在你身边照顾你了……你只需要和我结为同盟就好了，你这个幸运的笨蛋~"
 />
 		<!--denounce-->
 		<!--***voiced***-->
@@ -254,16 +254,16 @@
 />
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text="白痴指挥官！再看我咬你哦！想被酸素鱼雷敲头吗！[NEWLINE]（谴责你）"
+			Text="你这白痴，再看我咬你哦！想被酸素鱼雷敲头吗？看看你还能活多久吧！[NEWLINE]（谴责你）"
 />
 		<!--warfare-->
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text="你干什么！？哈哈，明知会输还要送上门的大笨蛋，真有趣~ 来吧，让你们见识时雨大人的能耐！"
+			Text="你干什么！？哈哈，有趣，明知会输还要送上门的大笨蛋！来吧，让你们见识时雨大人的能耐！"
 />
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text="看你没什么精神呢，要不要吃我一发鱼雷啊？佐世保之时雨，睁大眼看着吧！让我来好好招待一下对面的笨蛋们~"
+			Text="看你没什么精神呢，要不要吃我一发鱼雷啊？看好了吧，这就是佐世保之时雨！让我来好好招待一下对面的笨蛋们~"
 />
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AZUR_LANE_SHIGURE_ANY"
@@ -298,33 +298,33 @@
 />
 		<!--troops-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text=""
+			Text="来玩个游戏吧，给你15回合，你能撤走边界的军队，时雨大人就放过你喔~"
 />
 
 		<!--==============================================================-->
 		<!--first meet-->
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text="听好了，我乃高贵的，幸运的，无敌的，雪风・Eight・阳炎The.Geni……（咬舌）咳咳，总而言之，能得到我是你的幸运，感到光荣吧！"
+			Text="听好了，我乃高贵的，幸运的，无敌的，雪风——阳炎——8号舰——咳咳，总而言之，能得到我是你的幸运，感到光荣吧！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text=""
+			Text="要不要到我们最近的城市看看呀——先说好了，雪风大人只负责带路，其它的全部要请您自便了呢！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text=""
+			Text="好，我就随你看个高兴吧！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text=""
+			Text="你是不是也会被我们首都美丽端庄的姿态折服呢？来吧，也告诉我你的首都是什么样吧！"
 />
 		<!--deligation-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text=""
+			Text="你求我的话也不是不能接受一下哦~"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text=""
+			Text="哼，优雅的雪风大人才不会随便接受他人的邀约。"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text=""
+			Text="心怀感激地收下雪风大人的使团送出的礼物吧！由我准备的礼物说不定能改善你的运势呢？"
 />
 		<!--friendship-->
 		<!--***voiced***-->
@@ -332,19 +332,19 @@
 			Text="既然这是你发自内心的请求，雪风大人就大发慈悲收下好了…特别允许你把雪风大人抱起来也没关系哦~"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text=""
+			Text="居然敢藐视我雪风大人，你这可是万死之罪！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text=""
+			Text="注意到雪风大人的伟大了吗？眼光不错嘛，那快和我宣布我们的友谊吧。"
 />		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_YUKIKAZE_ANY"
 			Text="{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_YUKIKAZE_ANY}"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text=""
+			Text="哼，你还嫩着呢。"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text=""
+			Text="哼，你开始考虑和雪风大人结盟了吗？"
 />
 		<!--denounce-->
 		<!--***voiced***-->
@@ -388,11 +388,11 @@
 			Text="……哼，雪风大人心情好，就难得满足一下你。"
 />		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text="怎么样，指挥官，是不是很羡慕？但是很遗憾——"
+			Text="怎么样，是不是很羡慕？但是很遗憾——"
 />
 		<!--troops-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text=""
+			Text="怎么样，是不是很羡慕我的领土，想不想来看一看？很遗憾，这是高贵的雪风大人的！"
 />
 
 		<!--Civilopedia-->

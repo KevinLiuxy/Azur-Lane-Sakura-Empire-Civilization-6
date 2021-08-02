@@ -6,127 +6,115 @@
 		<Replace Language="zh_Hans_CN" Tag="LOC_LEADER_AZUR_LANE_SHIGURE_NAME" Text="时雨"/>
 		<Replace Language="zh_Hans_CN" Tag="LOC_LEADER_AZUR_LANE_YUKIKAZE_NAME" Text="雪风"/>
 
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_1"  Text="重樱京都"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_BULIN_MK1_NAME" Text="泛用型布里"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_BULIN_MK2_NAME" Text="试作型布里MKII"/>
+		
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK1_PLACEHOLDER_DESCRIPTION"
+			Text="碧蓝航线特色建造单位，替代建造者。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK2_PLACEHOLDER_DESCRIPTION"
+			Text="碧蓝航线特色支援单位，替代军事工程师，拥有更多建造次数。"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_1"  Text="重樱镇守府"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_2"  Text="横须贺"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_3"  Text="吴港"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_4"  Text="佐世保"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_5"  Text="舞鹤"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_6"  Text="石川岛"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_7"  Text="珊瑚海"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_8"  Text="中途岛"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_9"  Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_10" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_11" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_12" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_13" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_14" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_15" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_16" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_17" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_18" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_19" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_20" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_21" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_22" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_23" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_24" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_25" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_26" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_27" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_28" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_29" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_30" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_31" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_32" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_33" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_34" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_35" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_36" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_37" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_38" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_39" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_40" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_41" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_42" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_43" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_44" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_45" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_46" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_47" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_48" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_49" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_50" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_51" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_52" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_53" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_54" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_55" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_56" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_57" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_58" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_59" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_60" Text=""/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_6"  Text="大湊"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_7"  Text="马公"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_8"  Text="镇海"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_9"  Text="石川岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_10" Text="父岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_11" Text="南岛岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_12" Text="所罗门"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_13" Text="瓜岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_14" Text="厚木"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_15" Text="冲绳岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_16" Text="硫磺岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_17" Text="那覇"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_18" Text="高知"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_19" Text="岛羽"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_20" Text="关岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_21" Text="仙崎"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_22" Text="琉球"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_23" Text="佐渡"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_24" Text="对马"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_25" Text="西表"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_26" Text="屋久"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_27" Text="石垣"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_28" Text="神津"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_29" Text="奄美"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_30" Text="宮古岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_31" Text="中途岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_32" Text="天宁岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_33" Text="塞班岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_34" Text="马里亚纳"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_35" Text="旅顺"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_36" Text="海南"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_37" Text="江之岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_38" Text="冲之岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_39" Text="小笠原岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_40" Text="吕宋岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_41" Text="大久野岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_42" Text="与论岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_43" Text="大岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_44" Text="严岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_45" Text="壹岐岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_46" Text="礼文岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_47" Text="能古岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_48" Text="竹富岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_49" Text="久米岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_50" Text="特鲁克岛"/>
 
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_1"  Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_2"  Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_3"  Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_4"  Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_5"  Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_6"  Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_7"  Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_8"  Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_9"  Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_10" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_11" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_12" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_13" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_14" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_15" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_16" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_17" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_18" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_19" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_20" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_21" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_22" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_23" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_24" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_25" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_26" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_27" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_28" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_29" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_30" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_31" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_32" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_33" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_34" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_35" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_36" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_37" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_38" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_39" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_40" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_41" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_42" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_43" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_44" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_45" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_46" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_47" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_48" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_49" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_50" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_51" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_52" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_53" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_54" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_55" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_56" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_57" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_58" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_59" Text=""/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_60" Text=""/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_1"  Text="伊吹"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_2"  Text="出云"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_3"  Text="北风"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_4"  Text="信浓"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_5"  Text="赤城"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_6"  Text="天城"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_7"  Text="爱宕"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_8"  Text="伊13"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_9"  Text="伊168"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_10" Text="伊19"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_11" Text="加贺"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_12" Text="江风"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_13" Text="三笠"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_14" Text="长门"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_15" Text="能代"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_16" Text="翔鹤"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_17" Text="骏河"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_18" Text="岛风"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_19" Text="大凤"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_20" Text="高雄"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_21" Text="瑞鹤"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_22" Text="阿贺野"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_23" Text="足柄"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_24" Text="吹雪"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_25" Text="榛名"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_26" Text="比叡"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_27" Text="飞龙"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_28" Text="神通"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_29" Text="雾岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_30" Text="金刚"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_31" Text="最上"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_32" Text="陆奥"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_33" Text="龙骧"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_34" Text="苍龙"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_35" Text="铃谷"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_36" Text="夕张"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_37" Text="晓"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_38" Text="扶桑"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_39" Text="五十铃"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_40" Text="雷"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_41" Text="电"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_42" Text="阳炎"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_43" Text="黑潮"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_44" Text="神风"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_45" Text="那珂"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_46" Text="亲潮"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_47" Text="川内"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_48" Text="白露"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_49" Text="翔凤"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_50" Text="山城"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_NAME" Text="明石"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_TITLE" Text="后勤总管"/>
@@ -136,15 +124,15 @@
 		
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_SHOPKEEPER_KANBAN_NAME" Text="商店看板娘"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_SHOPKEEPER_KANBAN_DESCRIPTION"
-			Text="就职后在首都获得一个特殊建造单位“泛用型布里”。明石每获得一次晋升时都会免费获得一个紫布里或金布里。"/>
+			Text="就职后可在首都获得一名特殊建造者“泛用型布里”。[NEWLINE]明石每次晋升时，都会免费获得一个紫布里或金布里。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_LOGISTICS_REPAIR_NAME" Text="后勤维修"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_LOGISTICS_REPAIR_DESCRIPTION"
-			Text="在任何一座城市就职时：海军单位可在中立领土上回复。所有单位在中立领土上 +5 [ICON_Damaged] 生命值回复。"/>
+			Text="在任何一座城市就职时：海军单位可在中立领土上回复。所有单位在中立领土上可额外回复5点 [ICON_Damaged] 生命值。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_EQUIPMENT_SUPPLY_NAME" Text="装备补给"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_EQUIPMENT_SUPPLY_DESCRIPTION"
-			Text="在任何一座城市就职时：帝国内中所有单位升级所需的 [ICON_Gold] 金币与资源 -25%。"/>
+			Text="在任何一座城市就职时：帝国境内所有单位升级所需的 [ICON_Gold] 金币与资源 -25%。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_SHIPYARD_EXPANSION_NAME" Text="港区扩建"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_SHIPYARD_EXPANSION_DESCRIPTION"
@@ -152,10 +140,23 @@
 
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_PROJECT_RESEARCH_NAME" Text="方案舰研发"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_PROJECT_RESEARCH_DESCRIPTION"
-			Text="城市港口区域，和港口中的每座建筑为此城 +10% [ICON_Science] 科技值 +5% [ICON_Production] 生产力。"/>
+			Text="所在城市的港口区域，和港口中的每座建筑为此城 +10% [ICON_Science] 科技值，+5% [ICON_Production] 生产力。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_NAME" Text="魔方解析"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_DESCRIPTION"
-			Text="城市人口增长速度 +20%，此城生产海军单位时 +75% [ICON_Production] 生产力。"/>
+			Text="所在城市 [ICON_Citizen] 人口增长速度 +20%，训练海上战斗单位时 +75% [ICON_Production] 生产力。"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_KAIGUN_KOSHO_NAVAL_COMBAT_DESCRIPTION"
+			Text="从每座{LOC_BUILDING_KAIGUN_KOSHO_NAME}处获得 +1 [ICON_Strength] 战斗力。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_SAKURA_EMPIRE_SURPRISE_WAR_COMBAT_BUFF_DESCRIPTION"
+			Text="宣布突袭战争后 10 回合内 +10 [ICON_Strength] 战斗力。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_SAKURA_EMPIRE_SURPRISE_WAR_COMBAT_DEBUFF_DESCRIPTION"
+			Text="宣布突袭战争后 20 回合内 -5 [ICON_Strength] 战斗力。"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_ALSE_LOCATION" Text="重樱群岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_AL_FACTION"    Text="阵营"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_ALSE_FACTION"  Text="赤色中轴"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_AL_PREFIX"     Text="舰船代号"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_ALSE_PREFIX"   Text="IJN"/>
 	</LocalizedText>
 </GameData>
