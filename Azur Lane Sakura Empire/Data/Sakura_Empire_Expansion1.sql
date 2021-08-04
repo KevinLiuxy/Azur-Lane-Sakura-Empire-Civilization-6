@@ -125,6 +125,10 @@ INSERT INTO GovernorPromotionModifiers (GovernorPromotionType, ModifierId)
 SELECT 'GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY', 'WISDOM_QUBE_STUDY_EXTRA_PRODUCTION_' || UnitType
 FROM Units WHERE Domain = 'DOMAIN_SEA';
 
+INSERT INTO AiFavoredItems (ListType, Item, Favored)
+VALUES	('SakuraEmpireWonders',	'BUILDING_KOTOKU_IN',				1),
+		('SakuraEmpireWonders',	'BUILDING_CASA_DE_CONTRATACION',	1);
+
 --------------------------------------------------------------
 INSERT INTO Modifiers (ModifierId, ModifierType)
 VALUES	('SAKURA_EMPIRE_SURPRISE_WAR_COMBAT_BUFF',		'MODIFIER_PLAYER_ADD_DIPLOMATIC_COMBAT_MODIFIER'		),
@@ -238,8 +242,10 @@ VALUES	('SAKURA_EMPIRE_SURPRISE_WAR_COMBAT_BUFF',		'DiplomaticYieldSource',	'SUR
 		('WISDOM_QUBE_STUDY_GRANT_BULIN_MK2',			'ModifierId',				'AKASHI_GRANT_BULIN_MK2'),
 		('AKASHI_GRANT_BULIN_MK1',						'UnitType',					'UNIT_BULIN_MK1'		),
 		('AKASHI_GRANT_BULIN_MK1',						'Amount',					1						),
+		('AKASHI_GRANT_BULIN_MK1',						'AllowUniqueOverride',		1						),
 		('AKASHI_GRANT_BULIN_MK2',						'UnitType',					'UNIT_BULIN_MK2'		),
 		('AKASHI_GRANT_BULIN_MK2',						'Amount',					1						),
+		('AKASHI_GRANT_BULIN_MK2',						'AllowUniqueOverride',		1						),
 		('LOGISTICS_REPAIR_NAVY_NEUTRAL_HEAL',			'Amount',					10						),
 		('LOGISTICS_REPAIR_NAVY_NEUTRAL_HEAL',			'Type',						'NEUTRAL'				),
 		('LOGISTICS_REPAIR_ALL_NEUTRAL_HEAL',			'Amount',					5						),
@@ -301,14 +307,3 @@ VALUES	('CITY_HAS_KAIGUN_KOSHO_REQUIREMENTS',			'REQUIREMENTSET_TEST_ALL'),
 INSERT INTO RequirementSetRequirements (RequirementSetId, RequirementId)
 VALUES	('CITY_HAS_KAIGUN_KOSHO_REQUIREMENTS',			'REQUIRES_CITY_HAS_KAIGUN_KOSHO'),
 		('SAKURA_EMPIRE_CITY_HAS_HARBOR_REQUIREMENTS',	'REQUIRES_CITY_HAS_HARBOR'		);
-
-INSERT INTO ModifierStrings (ModifierId, Context, Text)
-VALUES (
-	'SAKURA_EMPIRE_SURPRISE_WAR_COMBAT_BUFF',
-	'Preview',
-	'LOC_SAKURA_EMPIRE_SURPRISE_WAR_COMBAT_BUFF_DESCRIPTION'
-),(
-	'SAKURA_EMPIRE_SURPRISE_WAR_COMBAT_DEBUFF',
-	'Preview',
-	'LOC_SAKURA_EMPIRE_SURPRISE_WAR_COMBAT_DEBUFF_DESCRIPTION'
-);

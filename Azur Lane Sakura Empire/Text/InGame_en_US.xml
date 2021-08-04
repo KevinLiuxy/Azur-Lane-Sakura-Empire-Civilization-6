@@ -2,9 +2,9 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_UNIT_BULIN_MK1_DESCRIPTION"
-			Text="{LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK1_PLACEHOLDER_DESCRIPTION}[NEWLINE][NEWLINE]{LOC_UNIT_BUILDER_DESCRIPTION}"/>
+			Text="{LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK1_DESCRIPTION}[NEWLINE][NEWLINE]{LOC_UNIT_BUILDER_DESCRIPTION}"/>
 		<Row Tag="LOC_UNIT_BULIN_MK2_DESCRIPTION"
-			Text="{LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK2_PLACEHOLDER_DESCRIPTION}[NEWLINE][NEWLINE]{LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION}"/>
+			Text="{LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK2_DESCRIPTION}[NEWLINE][NEWLINE]{LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION}"/>
 	</BaseGameText>
 	
 	<LocalizedText>
@@ -16,10 +16,19 @@
 		<Row Language="en_US" Tag="LOC_UNIT_BULIN_MK1_NAME" Text="Universial Bulin"/>
 		<Row Language="en_US" Tag="LOC_UNIT_BULIN_MK2_NAME" Text="Prototype Bulin MKII"/>
 
-		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK1_PLACEHOLDER_DESCRIPTION"
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK1_DESCRIPTION"
 			Text="Azur Lane unique civilian unit that replaces the Builder."/>
-		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK2_PLACEHOLDER_DESCRIPTION"
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK2_DESCRIPTION"
 			Text="Azur Lane unique support unit that replaces the Military Engineer, with 1 additional build charge."/>
+
+		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_AYANAMI"
+			Text=""/>
+		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_YUUDACHI"
+			Text=""/>
+		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_SHIGURE"
+			Text=""/>
+		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_YUKIKAZE"
+			Text=""/>
 
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_1"  Text="Juuyo Chinjufu"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_2"  Text="Yokosuka"/>
@@ -155,10 +164,6 @@
 
 		<Row Language="en_US" Tag="LOC_KAIGUN_KOSHO_NAVAL_COMBAT_DESCRIPTION"
 			Text="+1 [ICON_Strength] Combat Strength from each {LOC_BUILDING_KAIGUN_KOSHO_NAME}."/>
-		<Row Language="en_US" Tag="LOC_SAKURA_EMPIRE_SURPRISE_WAR_COMBAT_BUFF_DESCRIPTION"
-			Text="+10 [ICON_Strength] Combat Strength from Surprise War (within 10 turns)."/>
-		<Row Language="en_US" Tag="LOC_SAKURA_EMPIRE_SURPRISE_WAR_COMBAT_DEBUFF_DESCRIPTION"
-			Text="-5 [ICON_Strength] Combat Strength from Surprise War (within 20 turns)."/>
 
 		<Row Language="en_US" Tag="LOC_CIVINFO_ALSE_LOCATION" Text="Juuyo Islands"/>
 		<Row Language="en_US" Tag="LOC_CIVINFO_AL_FACTION"    Text="Faction"/>

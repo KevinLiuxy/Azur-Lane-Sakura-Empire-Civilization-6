@@ -21,10 +21,13 @@ WHERE DistrictType = 'DISTRICT_SAKURA_EMPIRE_JINJA';
 INSERT INTO GovernorPromotionModifiers (GovernorPromotionType, ModifierId)
 VALUES ('GOVERNOR_PROMOTION_EQUIPMENT_SUPPLY', 'EQUIPMENT_SUPPLY_RESOURCE_DISCOUNT');
 
+INSERT INTO AiFavoredItems (ListType, Item, Favored)
+VALUES ('SakuraEmpireWonders', 'BUILDING_PANAMA_CANAL', 1);
+
+--------------------------------------------------------------
 UPDATE Modifiers SET ModifierType = 'MODIFIER_SINGLE_CITY_ADJUST_FREE_RESOURCE_EXTRACTION'
 WHERE ModifierId LIKE 'SHIPYARD_EXPANSION_HARBOR_OIL%';
 
---------------------------------------------------------------
 INSERT INTO Modifiers (ModifierId, ModifierType, SubjectRequirementSetId)
 VALUES (
 	'SAKURA_EMPIRE_JINJA_VOLCANIC_FAITH_BONUS',

@@ -208,7 +208,7 @@
 			Text="我是白露级驱逐舰时雨呢。不是吹牛，我可是被幸运之神眷顾着的，哼哼，运气也是实力呢，不要不服哟？"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text="居然能在这里遇到我，你运气真好呢~既然如此，就让幸运的时雨大人带你去最近的城市转转好了！要感谢我啊！"
+			Text="居然能在这里遇到我，你运气真好呢~ 既然如此，就让幸运的时雨大人带你去最近的城市转转好了！要感谢我啊！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AZUR_LANE_SHIGURE_ANY"
 			Text="麻利点，快准备一下吧~"
@@ -263,7 +263,7 @@
 />
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text="看你没什么精神呢，要不要吃我一发鱼雷啊？看好了吧，这就是佐世保之时雨！让我来好好招待一下对面的笨蛋们~"
+			Text="看你没什么精神呢，要不要吃我一发鱼雷啊？看好了吧，这就是佐世保之时雨！让我来好好招待一下你这笨蛋~"
 />
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AZUR_LANE_SHIGURE_ANY"
@@ -332,7 +332,7 @@
 			Text="既然这是你发自内心的请求，雪风大人就大发慈悲收下好了…特别允许你把雪风大人抱起来也没关系哦~"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text="居然敢藐视我雪风大人，你这可是万死之罪！"
+			Text="哼，你还嫩着呢。"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_YUKIKAZE_ANY"
 			Text="注意到雪风大人的伟大了吗？眼光不错嘛，那快和我宣布我们的友谊吧。"
@@ -341,7 +341,7 @@
 			Text="{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_YUKIKAZE_ANY}"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text="哼，你还嫩着呢。"
+			Text="居然敢藐视我雪风大人，你这可是万死之罪！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_AZUR_LANE_YUKIKAZE_ANY"
 			Text="哼，你开始考虑和雪风大人结盟了吗？"

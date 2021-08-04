@@ -9,10 +9,36 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_BULIN_MK1_NAME" Text="泛用型布里"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_BULIN_MK2_NAME" Text="试作型布里MKII"/>
 		
-		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK1_PLACEHOLDER_DESCRIPTION"
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK1_DESCRIPTION"
 			Text="碧蓝航线特色建造单位，替代建造者。"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK2_PLACEHOLDER_DESCRIPTION"
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK2_DESCRIPTION"
 			Text="碧蓝航线特色支援单位，替代军事工程师，拥有更多建造次数。"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_AYANAMI"
+			Text="绫波，所罗门的鬼神，您的战绩名垂千古！您从不害怕战斗，即使面对数倍于己的敌军，也能履行自己的使命直至最后一刻。无畏的精神始终激励着您的人民。现在，您的舰队已整装待发。请别忘记您已不再是孤身一人。守护你的同伴，并平安归来吧。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_YUUDACHI"
+			Text="所罗门的狂犬夕立，您将成为强敌的噩梦。无论面对的对手有多强大，您都会义无反顾地杀入下一个战场。您绝不会向任何人屈服，即使绝境之中也能永远向前突击。大战的阴云笼罩着您的帝国，击碎任何挡在您面前的障碍吧，让全世界都认可您的实力。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_SHIGURE"
+			Text="佐世保的时雨，愿幸运之神与您同在。您在最危险的前线出生入死，却总能平安归来。英勇无畏并非您的志向所在，因为您深知只有幸存下来的强者，才能夺得最终的胜利。用您的智慧与好运带领您的人民吧，但也不要忘记谨慎行事，毕竟运气总是反复无常。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_YUKIKAZE"
+			Text="雪风，奇迹般的不沉幸运舰，您经受住了时间的考验，就连您的敌人也不得不承认您的优秀。无论战争的胜败，您都会尽己所能，用温柔的力量保护身边的人。面对您忠诚的盟友和可敬的对手吧，愿一往的好运永远伴随着您，直到迎来胜利的那天。"/>
+		
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_WAR_PUPPET_HAPPY"
+					Text="绫波很高兴看到您的国家远离战争，生活幸福"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_WAR_PUPPET_UNHAPPY"
+					Text="绫波对您的国家好战且幸福度低而感到失望"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_SOLOMON_MAD_DOG_HAPPY"
+					Text="夕立因您正在进行的战斗而感到欣喜若狂"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_SOLOMON_MAD_DOG_UNHAPPY"
+					Text="夕立认为您与其他文明和平相处非常无聊"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_SHIGURE_SAMA_HAPPY"
+					Text="时雨喜欢在近处与您友好相处、亲密无间"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_SHIGURE_SAMA_UNHAPPY"
+					Text="时雨因您离她太远、关系生疏而感到失落"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_PRIDE_NEKO_HAPPY"
+					Text="雪风很高兴看到您在科技和文化上落后于她"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_PRIDE_NEKO_UNHAPPY"
+					Text="雪风因你在科技和文化上的领先而感到嫉妒"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_1"  Text="重樱镇守府"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_2"  Text="横须贺"/>
@@ -148,10 +174,6 @@
 
 		<Row Language="zh_Hans_CN" Tag="LOC_KAIGUN_KOSHO_NAVAL_COMBAT_DESCRIPTION"
 			Text="从每座{LOC_BUILDING_KAIGUN_KOSHO_NAME}处获得 +1 [ICON_Strength] 战斗力。"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_SAKURA_EMPIRE_SURPRISE_WAR_COMBAT_BUFF_DESCRIPTION"
-			Text="宣布突袭战争后 10 回合内 +10 [ICON_Strength] 战斗力。"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_SAKURA_EMPIRE_SURPRISE_WAR_COMBAT_DEBUFF_DESCRIPTION"
-			Text="宣布突袭战争后 20 回合内 -5 [ICON_Strength] 战斗力。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_ALSE_LOCATION" Text="重樱群岛"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_AL_FACTION"    Text="阵营"/>
