@@ -17,9 +17,9 @@
 		<Row Language="en_US" Tag="LOC_UNIT_BULIN_MK2_NAME" Text="Prototype Bulin MKII"/>
 
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK1_DESCRIPTION"
-			Text="Azur Lane unique civilian unit that replaces the Builder."/>
+			Text="Azur Lane unique civilian unit that replaces the Builder. Provided by Governor Akashi"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK2_DESCRIPTION"
-			Text="Azur Lane unique support unit that replaces the Military Engineer, with 1 additional build charge."/>
+			Text="Azur Lane unique support unit that replaces the Military Engineer, with 1 additional build charge. Provided by Governor Akashi"/>
 
 		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_AYANAMI"
 			Text=""/>
@@ -144,23 +144,23 @@
 
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_LOGISTICS_REPAIR_NAME" Text="Logistics Repair"/>
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_LOGISTICS_REPAIR_DESCRIPTION"
-			Text="When established in a city: Enables all Naval units to heal in neutral territory. Units in neutral territory +5 [ICON_Damaged] Heal."/>
+			Text="When established in a city: Enables all Naval units to heal in neutral territory. All units +5 [ICON_Damaged] Heal per turn."/>
 
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EQUIPMENT_SUPPLY_NAME" Text="Equipment Supply"/>
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EQUIPMENT_SUPPLY_DESCRIPTION"
-			Text="When established in a city: Receives 25% [ICON_Gold] Gold and resource discount on all unit upgrades."/>
+			Text="When established in a city: Receives 30% [ICON_Gold] Gold and resource discount on all unit upgrades."/>
 
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_SHIPYARD_EXPANSION_NAME" Text="Shipyard Expansion"/>
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_SHIPYARD_EXPANSION_DESCRIPTION"
-			Text="Harbor buildings are 50% cheaper to purchase in this city. Each Harbor building provide +5 [ICON_Gold] Gold and +1 [ICON_RESOURCE_OIL] Oil (requires Refining)."/>
+			Text="Harbor buildings are 50% cheaper to purchase in this city. Each Harbor building provide +10 [ICON_Gold] Gold and +1 [ICON_RESOURCE_OIL] Oil (requires Refining)."/>
 
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_PROJECT_RESEARCH_NAME" Text="Ship Research Plan"/>
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_PROJECT_RESEARCH_DESCRIPTION"
-			Text="Harbor district, and each Harbor building increases [ICON_Science] Science and [ICON_Production] Production of this city by 10% and 5%."/>
+			Text="Harbor district, and each Harbor building increases [ICON_Science] Science and [ICON_Production] Production of this city by 12% and 6%."/>
 
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_NAME" Text="Wisdom Cube Analysis"/>
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_DESCRIPTION"
-			Text="Increases city [ICON_Citizen] growth by 20%. +75% [ICON_Production] Production towards Naval units in this city."/>
+			Text="Increases city [ICON_Citizen] growth by 15%, and +75% [ICON_Production] Production towards Naval units in this city.[NEWLINE]Gain a Military policy slot permanently."/>
 
 		<Row Language="en_US" Tag="LOC_KAIGUN_KOSHO_NAVAL_COMBAT_DESCRIPTION"
 			Text="+1 [ICON_Strength] Combat Strength from each {LOC_BUILDING_KAIGUN_KOSHO_NAME}."/>

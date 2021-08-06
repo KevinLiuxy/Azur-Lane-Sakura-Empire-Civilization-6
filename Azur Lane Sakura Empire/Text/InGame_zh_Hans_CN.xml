@@ -10,9 +10,9 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_BULIN_MK2_NAME" Text="试作型布里MKII"/>
 		
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK1_DESCRIPTION"
-			Text="碧蓝航线特色建造单位，替代建造者。"/>
+			Text="碧蓝航线特色建造单位，替代建造者。由总督明石升级提供。"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK2_DESCRIPTION"
-			Text="碧蓝航线特色支援单位，替代军事工程师，拥有更多建造次数。"/>
+			Text="碧蓝航线特色支援单位，替代军事工程师，拥有更多建造次数。由总督明石升级提供。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_AYANAMI"
 			Text="绫波，所罗门的鬼神，您的战绩名垂千古！您从不害怕战斗，即使面对数倍于己的敌军，也能履行自己的使命直至最后一刻。无畏的精神始终激励着您的人民。现在，您的舰队已整装待发。请别忘记您已不再是孤身一人。守护你的同伴，并平安归来吧。"/>
@@ -23,6 +23,23 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_YUKIKAZE"
 			Text="雪风，奇迹般的不沉幸运舰，您经受住了时间的考验，就连您的敌人也不得不承认您的优秀。无论战争的胜败，您都会尽己所能，用温柔的力量保护身边的人。面对您忠诚的盟友和可敬的对手吧，愿一往的好运永远伴随着您，直到迎来胜利的那天。"/>
 		
+		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_WAR_PUPPET_NAME"
+					Text="兵器少女"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_WAR_PUPPET_DESCRIPTION"
+					Text="向往爱好和平且幸福度高的文明，厌恶好战而幸福度低的文明。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_SOLOMON_MAD_DOG_NAME"
+					Text="狂犬"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_SOLOMON_MAD_DOG_DESCRIPTION"
+					Text="喜欢与人交战、时刻处于战争状态的文明。讨厌长期保持和平的文明。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_SHIGURE_SAMA_NAME"
+					Text="爱照顾人的时雨大人"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_SHIGURE_SAMA_DESCRIPTION"
+					Text="喜欢首都在同一大陆、或关系友好的文明。讨厌距离遥远、或关系恶劣的文明。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_PRIDE_NEKO_NAME"
+					Text="雪风大人可是无敌的"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_PRIDE_NEKO_DESCRIPTION"
+					Text="喜欢科技文化落后于自己的文明，讨厌在这些方面被其他文明领先。"/>
+
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_WAR_PUPPET_HAPPY"
 					Text="绫波很高兴看到您的国家远离战争，生活幸福"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_WAR_PUPPET_UNHAPPY"
@@ -30,7 +47,7 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_SOLOMON_MAD_DOG_HAPPY"
 					Text="夕立因您正在进行的战斗而感到欣喜若狂"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_SOLOMON_MAD_DOG_UNHAPPY"
-					Text="夕立认为您与其他文明和平相处非常无聊"/>
+					Text="夕立认为您与其他文明和平相处无聊透顶"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_SHIGURE_SAMA_HAPPY"
 					Text="时雨喜欢在近处与您友好相处、亲密无间"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_SHIGURE_SAMA_UNHAPPY"
@@ -150,27 +167,27 @@
 		
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_SHOPKEEPER_KANBAN_NAME" Text="商店看板娘"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_SHOPKEEPER_KANBAN_DESCRIPTION"
-			Text="就职后可在首都获得一名特殊建造者“泛用型布里”。[NEWLINE]明石每次晋升时，都会免费获得一个紫布里或金布里。"/>
+			Text="就职后所在城市获得一名特殊建造者“泛用型布里”。[NEWLINE]明石每次晋升时，都会免费获得一个紫布里或金布里。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_LOGISTICS_REPAIR_NAME" Text="后勤维修"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_LOGISTICS_REPAIR_DESCRIPTION"
-			Text="在任何一座城市就职时：海军单位可在中立领土上回复。所有单位在中立领土上可额外回复5点 [ICON_Damaged] 生命值。"/>
+			Text="在任何一座城市就职时：海军单位可在中立领土上回复。所有单位每回合可额外回复5点 [ICON_Damaged] 生命值。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_EQUIPMENT_SUPPLY_NAME" Text="装备补给"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_EQUIPMENT_SUPPLY_DESCRIPTION"
-			Text="在任何一座城市就职时：帝国境内所有单位升级所需的 [ICON_Gold] 金币与资源 -25%。"/>
+			Text="在任何一座城市就职时：帝国境内所有单位升级所需的 [ICON_Gold] 金币与资源 -30%。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_SHIPYARD_EXPANSION_NAME" Text="港区扩建"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_SHIPYARD_EXPANSION_DESCRIPTION"
-			Text="该城市 [ICON_Gold] 金币购买港口建筑的花费 -50%，每座港口建筑额外提供 +5 [ICON_Gold] 金币和 +1 [ICON_RESOURCE_OIL] 石油（需求精炼）。"/>
+			Text="该城市 [ICON_Gold] 金币购买港口建筑的花费 -50%，每座港口建筑额外提供 +10 [ICON_Gold] 金币和 +1 [ICON_RESOURCE_OIL] 石油（需求精炼）。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_PROJECT_RESEARCH_NAME" Text="方案舰研发"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_PROJECT_RESEARCH_DESCRIPTION"
-			Text="所在城市的港口区域，和港口中的每座建筑为此城 +10% [ICON_Science] 科技值，+5% [ICON_Production] 生产力。"/>
+			Text="所在城市的港口区域，和港口中的每座建筑为此城 +12% [ICON_Science] 科技值，+6% [ICON_Production] 生产力。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_NAME" Text="魔方解析"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_DESCRIPTION"
-			Text="所在城市 [ICON_Citizen] 人口增长速度 +20%，训练海上战斗单位时 +75% [ICON_Production] 生产力。"/>
+			Text="所在城市 [ICON_Citizen] 人口增长速度 +15%，训练海上战斗单位时 +75% [ICON_Production] 生产力。[NEWLINE]永久获得一个军事政策槽位。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_KAIGUN_KOSHO_NAVAL_COMBAT_DESCRIPTION"
 			Text="从每座{LOC_BUILDING_KAIGUN_KOSHO_NAME}处获得 +1 [ICON_Strength] 战斗力。"/>

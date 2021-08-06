@@ -11,7 +11,9 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME"
 			Text="沧海扶桑"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_DESCRIPTION"
-			Text="可用 [ICON_Faith] 信仰值购买海军单位。宣布突袭战争后，10回合内 +5 [ICON_STRENGTH] 战斗力，+2 [ICON_MOVEMENT] 移动力。但10~20回合内 [COLOR_RED]-5[ENDCOLOR] [ICON_STRENGTH] 战斗力。[NEWLINE]海岸城市或拥有重樱海军船坞的城市 +1 [ICON_Amenities] 宜居度，[ICON_Citizen] 人口增长速度 +15%。"/>
+			Text="可用 [ICON_Faith] 信仰值购买海军单位。宣布突袭战争后，10回合内 +1 [ICON_MOVEMENT] 移动力。[NEWLINE]海岸为城市区域提供标准的相邻加成。海岸城市或拥有重樱海军船坞的城市 +1 [ICON_Amenities] 宜居度，[ICON_Citizen] 人口增长速度 +15%。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_DESCRIPTION_RnF"
+			Text="可用 [ICON_Faith] 信仰值购买海军单位。宣布突袭战争后，10回合内 +5 [ICON_STRENGTH] 战斗力，+1 [ICON_MOVEMENT] 移动力。但10~20回合内 [COLOR_RED]-5[ENDCOLOR] [ICON_STRENGTH] 战斗力。[NEWLINE]海岸为城市区域提供标准的相邻加成。海岸城市或拥有重樱海军船坞的城市 +1 [ICON_Amenities] 宜居度，[ICON_Citizen] 人口增长速度 +15%。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_KAIGUN_KOSHO_NAME"
 			Text="重樱海军船坞"/>
@@ -31,6 +33,8 @@
 			Text="鬼神"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_KISHIN_DESCRIPTION"
 			Text="城市不会产生厌战情绪。军事单位无视敌方区域控制。单位 [ICON_Damaged] 受损时的 [ICON_Strength] 战斗力减益降低 50%。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_KISHIN_DESCRIPTION_GS"
+			Text="城市不会产生厌战情绪。军事单位无视敌方区域控制。单位 [ICON_Damaged] 受损时的 [ICON_Strength] 战斗力减益降低 50%。[NEWLINE]拥有擅长作战后勤的专属特色总督。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_AZUR_LANE_YUUDACHI_NAME"
 			Text="碧蓝航线 · 夕立（椿）"/>
@@ -38,6 +42,8 @@
 			Text="所罗门的狂犬"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_DESCRIPTION"
 			Text="军事单位夹击加成翻倍，掠夺和海岸扫荡的收益 +30%。牧场、营地和渔船 +1 [ICON_Food] 食物、+1 [ICON_Production] 生产力。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_DESCRIPTION_GS"
+			Text="军事单位夹击加成翻倍，掠夺和海岸扫荡的收益 +30%。牧场、营地和渔船 +1 [ICON_Food] 食物、+1 [ICON_Production] 生产力。[NEWLINE]拥有擅长作战后勤的专属特色总督。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_AZUR_LANE_SHIGURE_NAME"
 			Text="碧蓝航线 · 时雨（栴）"/>
@@ -46,7 +52,7 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_DESCRIPTION"
 			Text="军事单位支援加成翻倍。每种特色区域额外提供一点相应的 [ICON_GreatPerson] 伟人点数。"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_DESCRIPTION_GS"
-			Text="军事单位支援加成翻倍。每种特色区域额外提供一点相应的 [ICON_GreatPerson] 伟人点数。拥有总督的城市中，环境效应无法对改良设施、建筑与区域造成伤害。"/>
+			Text="军事单位支援加成翻倍。每种特色区域额外提供一点相应的 [ICON_GreatPerson] 伟人点数。拥有总督的城市中，环境效应无法对改良设施、建筑与区域造成伤害。[NEWLINE]拥有擅长作战后勤的专属特色总督。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_AZUR_LANE_YUKIKAZE_NAME"
 			Text="碧蓝航线 · 雪风（莲）"/>
@@ -55,6 +61,6 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_DESCRIPTION"
 			Text="[ICON_TechBoosted] 尤里卡和 [ICON_CivicBoosted] 鼓舞额外提供 15% 的科技与市政。领土内敌方间谍等级降低2级。"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_DESCRIPTION_GS"
-			Text="[ICON_TechBoosted] 尤里卡和 [ICON_CivicBoosted] 鼓舞额外提供 15% 的科技与市政。领土内敌方间谍等级降低2级。拥有总督的城市中，环境效应无法对改良设施、建筑与区域造成伤害。"/>
+			Text="[ICON_TechBoosted] 尤里卡和 [ICON_CivicBoosted] 鼓舞额外提供 15% 的科技与市政。领土内敌方间谍等级降低2级。拥有总督的城市中，环境效应无法对改良设施、建筑与区域造成伤害。[NEWLINE]拥有擅长作战后勤的专属特色总督。"/>
 	</LocalizedText>
 </GameData>

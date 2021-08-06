@@ -11,7 +11,9 @@
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME"
 			Text="Sun Rising over the Sea"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_DESCRIPTION"
-			Text="Can purchase Naval units with [ICON_Faith] Faith. After declaring a Surprise War, all units +2 [ICON_MOVEMENT] Movement +5 [ICON_STRENGTH] Combat Strength for the next 10 turns, and then [COLOR_RED]-5[ENDCOLOR] [ICON_STRENGTH] for the following 10 turns.[NEWLINE]+1 [ICON_Amenities] Amenity and +15% [ICON_Citizen] Growth in coastal cities, or cities with a Sakura Empire Naval Dockyard."/>
+			Text="Can purchase Naval units with [ICON_Faith] Faith. After declaring a Surprise War, all units +1 [ICON_MOVEMENT] Movement for the next 10 turns.[NEWLINE]+1 [ICON_Amenities] Amenity and +15% [ICON_Citizen] Growth in coastal cities, or cities with a Sakura Empire Naval Dockyard."/>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_DESCRIPTION_RnF"
+			Text="Can purchase Naval units with [ICON_Faith] Faith. After declaring a Surprise War, all units +1 [ICON_MOVEMENT] Movement +5 [ICON_STRENGTH] Combat Strength for the next 10 turns, and then [COLOR_RED]-5[ENDCOLOR] [ICON_STRENGTH] for the following 10 turns.[NEWLINE]+1 [ICON_Amenities] Amenity and +15% [ICON_Citizen] Growth in coastal cities, or cities with a Sakura Empire Naval Dockyard."/>
 
 		<Row Language="en_US" Tag="LOC_BUILDING_KAIGUN_KOSHO_NAME"
 			Text="Cerise Imperial Dockyard"/>
@@ -31,6 +33,8 @@
 			Text="The Demon"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_KISHIN_DESCRIPTION"
 			Text="Cities do not incur war weariness. Military units ignores enemy Zone Of Control. Units have 50% less [ICON_STRENGTH] Combat Strength reduction from being injured."/>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_KISHIN_DESCRIPTION_GS"
+			Text="Cities do not incur war weariness. Military units ignores enemy Zone Of Control. Units have 50% less [ICON_STRENGTH] Combat Strength reduction from being injured.[NEWLINE]Exclusive unique Governor with military and logistics support abilities."/>
 
 		<Row Language="en_US" Tag="LOC_LEADER_AZUR_LANE_YUUDACHI_NAME"
 			Text="IJN · Yuudachi"/>
@@ -38,6 +42,8 @@
 			Text="The Nightmare of Solomon"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_DESCRIPTION"
 			Text="Units +100% Flanking Bonus in combat, +30% yields from pillaging and coastal raids. Pastures, Camps, and Fishing Boats +1 [ICON_Food] Food and +1 [ICON_Production] Production."/>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_DESCRIPTION_GS"
+			Text="Units +100% Flanking Bonus in combat, +30% yields from pillaging and coastal raids. Pastures, Camps, and Fishing Boats +1 [ICON_Food] Food and +1 [ICON_Production] Production.[NEWLINE]Exclusive unique Governor with military and logistics support abilities."/>
 
 		<Row Language="en_US" Tag="LOC_LEADER_AZUR_LANE_SHIGURE_NAME"
 			Text="IJN · Shigure"/>
@@ -46,7 +52,7 @@
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_DESCRIPTION"
 			Text="Units +100% Support Bonus in combat. Your districts provide +1 [ICON_GreatPerson] Great Person point of their type."/>
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_DESCRIPTION_GS"
-			Text="Units +100% Support Bonus in combat. Your districts provide +1 [ICON_GreatPerson] Great Person point of their type. Improvements, buildings, and districts cannot be damaged by Environmental Effects in cities with an Governor."/>
+			Text="Units +100% Support Bonus in combat. Your districts provide +1 [ICON_GreatPerson] Great Person point of their type. Improvements, buildings, and districts cannot be damaged by Environmental Effects in cities with an Governor.[NEWLINE]Exclusive unique Governor with military and logistics support abilities."/>
 
 		<Row Language="en_US" Tag="LOC_LEADER_AZUR_LANE_YUKIKAZE_NAME"
 			Text="IJN · Yukikaze"/>
@@ -55,6 +61,6 @@
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_DESCRIPTION"
 			Text="[ICON_TechBoosted] Eurekas and [ICON_CivicBoosted] Inspirations provides +15% technologies and civics. Enemy Spy level reduced by 2 in your lands."/>
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_DESCRIPTION_GS"
-			Text="[ICON_TechBoosted] Eurekas and [ICON_CivicBoosted] Inspirations provides +15% technologies and civics. Enemy Spy level reduced by 2 in your lands. Improvements, buildings, and districts cannot be damaged by Environmental Effects in cities with an Governor."/>
+			Text="[ICON_TechBoosted] Eurekas and [ICON_CivicBoosted] Inspirations provides +15% technologies and civics. Enemy Spy level reduced by 2 in your lands. Improvements, buildings, and districts cannot be damaged by Environmental Effects in cities with an Governor.[NEWLINE]Exclusive unique Governor with military and logistics support abilities."/>
 	</LocalizedText>
 </GameData>
