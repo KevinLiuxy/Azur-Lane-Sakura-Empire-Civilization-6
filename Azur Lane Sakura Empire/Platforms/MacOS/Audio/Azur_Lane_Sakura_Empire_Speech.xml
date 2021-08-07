@@ -9,6 +9,10 @@
 			<ShortName>Azur_Lane_Sakura_Empire_Speech</ShortName>
 			<Path>Azur_Lane_Sakura_Empire_Speech.bnk</Path>
 			<IncludedEvents>
+				<Event Id="3732716155" Name="ALSE_AK_APPOINT"/>
+				<Event Id="3970673295" Name="ALSE_AK_ASSIGN"/>
+				<Event Id="2018142079" Name="ALSE_AK_DETAIL"/>
+				<Event Id="2085407104" Name="ALSE_AK_PROMOTE"/>
 				<Event Id="4034943115" Name="ALSE_AY_DECLARE_FRIEND"/>
 				<Event Id="1641073479" Name="ALSE_AY_DECLARE_WAR_FROM_AI"/>
 				<Event Id="3373135552" Name="ALSE_AY_DECLARE_WAR_FROM_HUMAN"/>
@@ -101,6 +105,10 @@
 					<ShortName>ALSE_YU_DENOUNCE_FROM_HUMAN.wav</ShortName>
 					<Path>SFX\ALSE_YU_DENOUNCE_FROM_HUMAN_A30F1A68.wem</Path>
 				</File>
+				<File Id="105527048" Language="SFX">
+					<ShortName>ALSE_AK_PROMOTE.wav</ShortName>
+					<Path>SFX\ALSE_AK_PROMOTE_A30F1A68.wem</Path>
+				</File>
 				<File Id="133603562" Language="SFX">
 					<ShortName>ALSE_AY_MAKE_PEACE.wav</ShortName>
 					<Path>SFX\ALSE_AY_MAKE_PEACE_A30F1A68.wem</Path>
@@ -116,6 +124,10 @@
 				<File Id="147985979" Language="SFX">
 					<ShortName>ALSE_YK_DENOUNCE_FROM_AI.wav</ShortName>
 					<Path>SFX\ALSE_YK_DENOUNCE_FROM_AI_A30F1A68.wem</Path>
+				</File>
+				<File Id="152335057" Language="SFX">
+					<ShortName>ALSE_AK_DETAIL.wav</ShortName>
+					<Path>SFX\ALSE_AK_DETAIL_A30F1A68.wem</Path>
 				</File>
 				<File Id="169528052" Language="SFX">
 					<ShortName>ALSE_YU_DECLARE_FRIEND.wav</ShortName>
@@ -209,6 +221,10 @@
 					<ShortName>ALSE_AY_WIKI_QUOTE.wav</ShortName>
 					<Path>SFX\ALSE_AY_WIKI_QUOTE_A30F1A68.wem</Path>
 				</File>
+				<File Id="487711426" Language="SFX">
+					<ShortName>ALSE_AK_APPOINT.wav</ShortName>
+					<Path>SFX\ALSE_AK_APPOINT_A30F1A68.wem</Path>
+				</File>
 				<File Id="491767901" Language="SFX">
 					<ShortName>ALSE_YU_DENOUNCE_FROM_AI.wav</ShortName>
 					<Path>SFX\ALSE_YU_DENOUNCE_FROM_AI_A30F1A68.wem</Path>
@@ -268,6 +284,10 @@
 				<File Id="614928158" Language="SFX">
 					<ShortName>ALSE_YK_DEFEAT.wav</ShortName>
 					<Path>SFX\ALSE_YK_DEFEAT_A30F1A68.wem</Path>
+				</File>
+				<File Id="646221297" Language="SFX">
+					<ShortName>ALSE_AK_ASSIGN.wav</ShortName>
+					<Path>SFX\ALSE_AK_ASSIGN_A30F1A68.wem</Path>
 				</File>
 				<File Id="648287160" Language="SFX">
 					<ShortName>ALSE_YK_MAKE_PEACE.wav</ShortName>

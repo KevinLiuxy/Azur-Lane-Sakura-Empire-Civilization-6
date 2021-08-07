@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{19D9EF50-96C0-41BC-A6EC-880B0C1C1B16}" SchemaVersion="70">
+	<Events>
+		<WorkUnit Name="Akashi Speech" ID="{19D9EF50-96C0-41BC-A6EC-880B0C1C1B16}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="ALSE_AK_APPOINT" ID="{986B6401-B869-4FE9-AC57-280127B6112B}">
+					<ChildrenList>
+						<Action Name="Play" ID="{2B9507BB-55A8-47F0-B753-E5F9FE291F57}" ShortID="601104599" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{143B22A7-0497-44D2-B235-6F6A14505DE1}" Global="false">
+									<ObjectRef Name="ALSE_AK_APPOINT" ID="{01587D42-D84C-43CA-80ED-81ECC12E592C}" WorkUnitID="{2125B4B0-4AA7-452D-955C-49E0C2FAD8AE}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ALSE_AK_ASSIGN" ID="{D2BF85CE-DB70-49DF-AFC6-506F206044B4}">
+					<ChildrenList>
+						<Action Name="Play" ID="{9CB8B43F-B88B-4F75-9D3D-A800B17CAE32}" ShortID="522273310" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{B5EB27EB-9407-4EE3-B449-0FC2D6BB469B}" Global="false">
+									<ObjectRef Name="ALSE_AK_ASSIGN" ID="{1EBC018B-4DAE-40DA-9736-7DFA22D1C87D}" WorkUnitID="{2125B4B0-4AA7-452D-955C-49E0C2FAD8AE}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ALSE_AK_DETAIL" ID="{7C53DCCA-E0C2-4DC9-8CDA-CD388228EC18}">
+					<ChildrenList>
+						<Action Name="Play" ID="{154D12FA-A740-4BC7-AEE2-A886353BDE87}" ShortID="115199895" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{48F213A2-28A3-4E69-B1C0-F3517583293D}" Global="false">
+									<ObjectRef Name="ALSE_AK_DETAIL" ID="{7E96DEE4-07E3-439E-A2DD-CA1796BF5662}" WorkUnitID="{2125B4B0-4AA7-452D-955C-49E0C2FAD8AE}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ALSE_AK_PROMOTE" ID="{5802CDFE-1789-4455-950F-EBFE99B58227}">
+					<ChildrenList>
+						<Action Name="Play" ID="{E591898B-4B74-4456-B781-C6B157FE2858}" ShortID="322199495" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{02A60F51-6AD9-4922-8FC8-8593C0A1CE94}" Global="false">
+									<ObjectRef Name="ALSE_AK_PROMOTE" ID="{06069A84-110C-4760-9BA4-F3D4F0B9927B}" WorkUnitID="{2125B4B0-4AA7-452D-955C-49E0C2FAD8AE}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

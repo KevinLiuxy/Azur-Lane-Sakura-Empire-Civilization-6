@@ -1542,6 +1542,101 @@
 												</Sound>
 											</ChildrenList>
 										</ActorMixer>
+										<ActorMixer Name="Akashi Speech" ID="{3FA00FAD-F6FF-4054-8AC5-265BCFC547C4}" ShortID="801879689">
+											<PropertyList>
+												<Property Name="Volume" Type="Real64">
+													<ValueList>
+														<Value>-8</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<Sound Name="ALSE_AK_APPOINT" ID="{01587D42-D84C-43CA-80ED-81ECC12E592C}" ShortID="238787131" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_AK_APPOINT" ID="{EE30B1FA-0E6E-42A5-97CA-971620E73A91}" ShortID="487711426">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_AK_APPOINT.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_AK_APPOINT" ID="{EE30B1FA-0E6E-42A5-97CA-971620E73A91}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_AK_ASSIGN" ID="{1EBC018B-4DAE-40DA-9736-7DFA22D1C87D}" ShortID="186757678" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_AK_ASSIGN" ID="{FD1A0B29-35E3-4DA9-9545-DD9BB656FEDA}" ShortID="646221297">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_AK_ASSIGN.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_AK_ASSIGN" ID="{FD1A0B29-35E3-4DA9-9545-DD9BB656FEDA}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_AK_DETAIL" ID="{7E96DEE4-07E3-439E-A2DD-CA1796BF5662}" ShortID="979605924" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_AK_DETAIL" ID="{96951E5E-16E3-406B-BF3A-74DE92CE8707}" ShortID="152335057">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_AK_DETAIL.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_AK_DETAIL" ID="{96951E5E-16E3-406B-BF3A-74DE92CE8707}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+												<Sound Name="ALSE_AK_PROMOTE" ID="{06069A84-110C-4760-9BA4-F3D4F0B9927B}" ShortID="198206678" Type="SoundFX">
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{12F4CE8F-6DDC-46C4-BCC4-C76431C5D666}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{41766EFA-59AF-41AF-864F-ED3037D5A094}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="ALSE_AK_PROMOTE" ID="{96220987-4A0F-459A-BE5D-6C4D69B6BD55}" ShortID="105527048">
+															<Language>SFX</Language>
+															<AudioFile>ALSE_AK_PROMOTE.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ActiveSourceList>
+														<ActiveSource Name="ALSE_AK_PROMOTE" ID="{96220987-4A0F-459A-BE5D-6C4D69B6BD55}" Platform="Linked"/>
+													</ActiveSourceList>
+												</Sound>
+											</ChildrenList>
+										</ActorMixer>
 									</ChildrenList>
 								</ActorMixer>
 							</ChildrenList>

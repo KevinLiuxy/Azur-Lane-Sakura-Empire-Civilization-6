@@ -409,6 +409,18 @@
 			<m_EntryID text="GOVERNOR_AL_AKASHI_ICON_64"/>
 			<m_ObjectName text="GOVERNOR_AL_AKASHI_ICON_64"/>
 		</Element>
+		<Element>
+			<m_EntryID text="MOMENT_AL_KAIGUN_KOSHO"/>
+			<m_ObjectName text="MOMENT_AL_KAIGUN_KOSHO"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MOMENT_AL_SAKURA_JINJA"/>
+			<m_ObjectName text="MOMENT_AL_SAKURA_JINJA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MOMENT_GOVERNOR_AL_AKASHI"/>
+			<m_ObjectName text="MOMENT_GOVERNOR_AL_AKASHI"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>

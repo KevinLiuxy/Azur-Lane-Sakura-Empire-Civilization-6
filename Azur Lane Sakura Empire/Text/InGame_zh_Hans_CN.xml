@@ -24,38 +24,38 @@
 			Text="雪风，奇迹般的不沉幸运舰，您经受住了时间的考验，就连您的敌人也不得不承认您的优秀。无论战争的胜败，您都会尽己所能，用温柔的力量保护身边的人。面对您忠诚的盟友和可敬的对手吧，愿一往的好运永远伴随着您，直到迎来胜利的那天。"/>
 		
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_WAR_PUPPET_NAME"
-					Text="兵器少女"/>
+			Text="兵器少女"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_WAR_PUPPET_DESCRIPTION"
-					Text="向往爱好和平且幸福度高的文明，厌恶好战而幸福度低的文明。"/>
+			Text="向往爱好和平且幸福度高的文明，厌恶好战而幸福度低的文明。"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_SOLOMON_MAD_DOG_NAME"
-					Text="狂犬"/>
+			Text="狂犬"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_SOLOMON_MAD_DOG_DESCRIPTION"
-					Text="喜欢与人交战、时刻处于战争状态的文明。讨厌长期保持和平的文明。"/>
+			Text="喜欢与人交战、时刻处于战争状态的文明。讨厌长期保持和平的文明。"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_SHIGURE_SAMA_NAME"
-					Text="爱照顾人的时雨大人"/>
+			Text="爱照顾人的时雨大人"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_SHIGURE_SAMA_DESCRIPTION"
-					Text="喜欢首都在同一大陆、或关系友好的文明。讨厌距离遥远、或关系恶劣的文明。"/>
+			Text="喜欢首都在同一大陆、或关系友好的文明。讨厌距离遥远、或关系恶劣的文明。"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_PRIDE_NEKO_NAME"
-					Text="雪风大人可是无敌的"/>
+			Text="雪风大人可是无敌的"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_PRIDE_NEKO_DESCRIPTION"
-					Text="喜欢科技文化落后于自己的文明，讨厌在这些方面被其他文明领先。"/>
+			Text="喜欢科技文化落后于自己的文明，讨厌在这些方面被其他文明领先。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_WAR_PUPPET_HAPPY"
-					Text="绫波很高兴看到您的国家远离战争，生活幸福"/>
+			Text="绫波很高兴看到您的国家远离战争，生活幸福"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_WAR_PUPPET_UNHAPPY"
-					Text="绫波对您的国家好战且幸福度低而感到失望"/>
+			Text="绫波对您的国家好战且幸福度低而感到失望"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_SOLOMON_MAD_DOG_HAPPY"
-					Text="夕立因您正在进行的战斗而感到欣喜若狂"/>
+			Text="夕立因您正在进行的战斗而感到欣喜若狂"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_SOLOMON_MAD_DOG_UNHAPPY"
-					Text="夕立认为您与其他文明和平相处无聊透顶"/>
+			Text="夕立认为您与其他文明和平相处无聊透顶"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_SHIGURE_SAMA_HAPPY"
-					Text="时雨喜欢在近处与您友好相处、亲密无间"/>
+			Text="时雨喜欢在近处与您友好相处、亲密无间"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_SHIGURE_SAMA_UNHAPPY"
-					Text="时雨因您离她太远、关系生疏而感到失落"/>
+			Text="时雨因您离她太远、关系生疏而感到失落"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_PRIDE_NEKO_HAPPY"
-					Text="雪风很高兴看到您在科技和文化上落后于她"/>
+			Text="雪风很高兴看到您在科技和文化上落后于她"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_PRIDE_NEKO_UNHAPPY"
-					Text="雪风因你在科技和文化上的领先而感到嫉妒"/>
+			Text="雪风因你在科技和文化上的领先而感到嫉妒"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_1"  Text="重樱镇守府"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_2"  Text="横须贺"/>
@@ -159,6 +159,11 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_49" Text="翔凤"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_50" Text="山城"/>
 
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_OCEAN_SAKURA_EMPIRE1" Text="镜面海"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_SEA_SAKURA_EMPIRE1"   Text="莱特湾"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_SEA_SAKURA_EMPIRE2"   Text="东京湾"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_SEA_SAKURA_EMPIRE3"   Text="若狭湾"/>
+
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_NAME" Text="明石"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_TITLE" Text="后勤总管"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_SHORT_TITLE" Text="后勤总管"/>
@@ -191,6 +196,17 @@
 
 		<Row Language="zh_Hans_CN" Tag="LOC_KAIGUN_KOSHO_NAVAL_COMBAT_DESCRIPTION"
 			Text="从每座{LOC_BUILDING_KAIGUN_KOSHO_NAME}处获得 +1 [ICON_Strength] 战斗力。"/>
+
+		<Row Language="zh_Hans_CN" Tag="LOC_ALSE_DISTRICT_COAST_SCIENCE"
+			Text="+{1_num} [ICON_Science] 科技值来自相邻海岸单元格。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_ALSE_DISTRICT_COAST_Culture"
+			Text="+{1_num} [ICON_Culture] 文化值来自相邻海岸单元格。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_ALSE_DISTRICT_COAST_FAITH"
+			Text="+{1_num} [ICON_Faith] 信仰值来自相邻海岸单元格。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_ALSE_DISTRICT_COAST_GOLD"
+			Text="+{1_num} [ICON_Gold] 金币来自相邻海岸单元格。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_ALSE_DISTRICT_COAST_PRODUCTION"
+			Text="+{1_num} [ICON_Production] 生产力来自相邻海岸单元格。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_ALSE_LOCATION" Text="重樱群岛"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_AL_FACTION"    Text="阵营"/>

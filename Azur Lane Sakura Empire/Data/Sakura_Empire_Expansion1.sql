@@ -8,9 +8,25 @@ VALUES	('TRAIT_CIVILIZATION_SAKURA_EMPIRE',	'SAKURA_EMPIRE_SURPRISE_WAR_COMBAT_B
 INSERT INTO Building_YieldChanges (BuildingType, YieldType, YieldChange)
 VALUES ('BUILDING_KAIGUN_KOSHO', 'YIELD_FOOD', 1);
 
+INSERT INTO AgendaPreferredLeaders (AgendaType, LeaderType, PercentageChance)
+VALUES ('AGENDA_GOSSIP', 'LEADER_AZUR_LANE_SHIGURE', 50);
+
 INSERT INTO AiFavoredItems (ListType, Item, Favored)
 VALUES	('SakuraEmpireWonders',	'BUILDING_KOTOKU_IN',				1),
 		('SakuraEmpireWonders',	'BUILDING_CASA_DE_CONTRATACION',	1);
+
+INSERT INTO MomentIllustrations (MomentIllustrationType, MomentDataType, GameDataType, Texture)
+VALUES (
+	'MOMENT_ILLUSTRATION_UNIQUE_DISTRICT',
+	'MOMENT_DATA_DISTRICT',
+	'DISTRICT_SAKURA_EMPIRE_JINJA',
+	'MOMENT_AL_SAKURA_JINJA'
+),(
+	'MOMENT_ILLUSTRATION_UNIQUE_BUILDING',
+	'MOMENT_DATA_BUILDING',
+	'BUILDING_KAIGUN_KOSHO',
+	'MOMENT_AL_KAIGUN_KOSHO'
+);
 
 --------------------------------------------------------------
 INSERT INTO Modifiers (ModifierId, ModifierType)
