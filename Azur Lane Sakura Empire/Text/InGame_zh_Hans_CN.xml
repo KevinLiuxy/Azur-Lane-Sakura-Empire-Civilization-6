@@ -28,7 +28,7 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_WAR_PUPPET_DESCRIPTION"
 			Text="向往爱好和平且幸福度高的文明，厌恶好战而幸福度低的文明。"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_SOLOMON_MAD_DOG_NAME"
-			Text="狂犬"/>
+			Text="恶犬"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_SOLOMON_MAD_DOG_DESCRIPTION"
 			Text="喜欢与人交战、时刻处于战争状态的文明。讨厌长期保持和平的文明。"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_SHIGURE_SAMA_NAME"
@@ -49,7 +49,7 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_SOLOMON_MAD_DOG_UNHAPPY"
 			Text="夕立认为您与其他文明和平相处无聊透顶"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_SHIGURE_SAMA_HAPPY"
-			Text="时雨喜欢在近处与您友好相处、亲密无间"/>
+			Text="时雨喜欢在近处与您友好相处、关系亲密"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_SHIGURE_SAMA_UNHAPPY"
 			Text="时雨因您离她太远、关系生疏而感到失落"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_PRIDE_NEKO_HAPPY"
@@ -92,7 +92,7 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_33" Text="塞班岛"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_34" Text="马里亚纳"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_35" Text="旅顺"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_36" Text="海南"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_36" Text="特鲁克岛"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_37" Text="江之岛"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_38" Text="冲之岛"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_39" Text="小笠原岛"/>
@@ -106,7 +106,7 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_47" Text="能古岛"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_48" Text="竹富岛"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_49" Text="久米岛"/>
-		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_50" Text="特鲁克岛"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_50" Text="海南"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_1"  Text="伊吹"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SAKURA_EMPIRE_2"  Text="出云"/>
@@ -172,7 +172,7 @@
 		
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_SHOPKEEPER_KANBAN_NAME" Text="商店看板娘"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_SHOPKEEPER_KANBAN_DESCRIPTION"
-			Text="就职后所在城市获得一名特殊建造者“泛用型布里”。[NEWLINE]明石每次晋升时，都会免费获得一个紫布里或金布里。"/>
+			Text="所在城市立即获得一名特殊建造单位“泛用型布里”。[NEWLINE]明石每次晋升时，都会免费获得一个紫布里或金布里。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_LOGISTICS_REPAIR_NAME" Text="后勤维修"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_LOGISTICS_REPAIR_DESCRIPTION"
@@ -198,15 +198,15 @@
 			Text="从每座{LOC_BUILDING_KAIGUN_KOSHO_NAME}处获得 +1 [ICON_Strength] 战斗力。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_ALSE_DISTRICT_COAST_SCIENCE"
-			Text="+{1_num} [ICON_Science] 科技值来自相邻海岸单元格。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>
+			Text="+{1_num} [ICON_Science] 科技值来自相邻的水域。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_ALSE_DISTRICT_COAST_Culture"
-			Text="+{1_num} [ICON_Culture] 文化值来自相邻海岸单元格。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>
+			Text="+{1_num} [ICON_Culture] 文化值来自相邻的水域。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_ALSE_DISTRICT_COAST_FAITH"
-			Text="+{1_num} [ICON_Faith] 信仰值来自相邻海岸单元格。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>
+			Text="+{1_num} [ICON_Faith] 信仰值来自相邻的水域。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_ALSE_DISTRICT_COAST_GOLD"
-			Text="+{1_num} [ICON_Gold] 金币来自相邻海岸单元格。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>
+			Text="+{1_num} [ICON_Gold] 金币来自相邻的水域。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_ALSE_DISTRICT_COAST_PRODUCTION"
-			Text="+{1_num} [ICON_Production] 生产力来自相邻海岸单元格。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>
+			Text="+{1_num} [ICON_Production] 生产力来自相邻的水域。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_ALSE_LOCATION" Text="重樱群岛"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_AL_FACTION"    Text="阵营"/>

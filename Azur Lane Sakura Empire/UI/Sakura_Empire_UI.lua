@@ -1,3 +1,5 @@
+ExposedMembers.SakuraEmpireUI_Initialized = false;
+
 local UNIQUE_VOICE: number = 5;
 local lastPick1: number = -1;
 local lastPick2: number = -1;
@@ -74,3 +76,27 @@ Events.GovernorAppointed.Add(OnGovernorAppointed);
 Events.GovernorAssigned.Add(OnGovernorAssigned);
 Events.GovernorPromoted.Add(OnGovernorPromoted);
 LuaEvents.GovernorDetailsPanel_OpenDetails.Add(OnOpenDetails);
+
+--------------------------------------------------------------
+function GetAppointedGovernor(playerID:number, governorID:number)
+	local pPlayerGovernors = Players[playerID]:GetGovernors();	-- Get Governor if Appointed
+	if (not pPlayerGovernors) then return nil; end
+	
+	local bHasGovernors, tGovernorList = pPlayerGovernors:GetGovernorList();
+	for i, governor in ipairs(tGovernorList) do
+		if governor:GetType() == governorID then return governor; end
+	end
+end
+
+function GetAssignedCity(pGovernor:table)						-- Return City Governor is Established in
+	return pGovernor:GetAssignedCity();
+end
+
+function Initialize()											-- Expose UI Governor Functions to InGame
+    if (not ExposedMembers.SakuraEmpireUI) then ExposedMembers.SakuraEmpireUI = {}; end
+    ExposedMembers.SakuraEmpireUI.GetAppointedGovernor = GetAppointedGovernor;
+    ExposedMembers.SakuraEmpireUI.GetAssignedCity = GetAssignedCity;
+	ExposedMembers.SakuraEmpireUI_Initialized = true;
+end
+
+Initialize();

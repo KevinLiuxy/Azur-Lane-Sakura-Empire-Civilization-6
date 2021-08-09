@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<!--==============================================================-->
 		<!--first meet-->
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_LEADER_AZUR_LANE_AYANAMI_ANY"
@@ -29,7 +28,7 @@
 		<!--friendship-->
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text="现在的话，能感觉到自己不是孤单一人…因为指挥官一直在这里"
+			Text="现在的话，能感觉到自己不是孤单一人…因为指挥官一直在这里。"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_AYANAMI_ANY"
 			Text="不是很想和你们走得太近……"
@@ -78,14 +77,14 @@
 			Text="和指挥官在一起，感觉就能有更多干劲——除去战斗与训练，世界上好像还存在其他形式的乐趣……"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_AZUR_LANE_AYANAMI_REASON_ANY"
-			Text=""
+			Text="(您的文明快乐而和平)"
 />
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AZUR_LANE_AYANAMI_ANY"
 			Text="指挥官不理我的话，会有点…伤心——让淑女久等不是绅士所为……"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_AZUR_LANE_AYANAMI_REASON_ANY"
-			Text=""
+			Text="(您的文明好战且幸福度低下)"
 />
 		<!--make deals-->
 		<!--***voiced***-->
@@ -178,14 +177,14 @@
 			Text="出来一起玩吧！指挥官，快带我出海，我现在很想找点什么发泄一下！一起出来打架吧！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_AZUR_LANE_YUUDACHI_REASON_ANY"
-			Text=""
+			Text="（您热衷于战斗或征服）"
 />
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AZUR_LANE_YUUDACHI_ANY"
 			Text="没有架打好无聊啊……指挥官，别窝办公室里了——你的精神不行啊，还是跟我一起去雪地里打滚吧！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_AZUR_LANE_YUUDACHI_REASON_ANY"
-			Text=""
+			Text="（您从未参战）"
 />
 		<!--make deals-->
 		<!--***voiced***-->
@@ -278,14 +277,14 @@
 			Text="哼哼，今后也多多依靠我的力量与好运吧，你这个幸运的笨蛋指挥官~"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_AZUR_LANE_SHIGURE_REASON_ANY"
-			Text=""
+			Text="（您与时雨关系友好密切）"
 />
 		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AZUR_LANE_SHIGURE_ANY"
 			Text="喂，别擅自丢下时雨大人去别的地方啊！~我等好久了……"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_AZUR_LANE_SHIGURE_REASON_ANY"
-			Text=""
+			Text="（您与时雨关系疏远）"
 />
 		<!--make deals-->
 		<!--***voiced***-->
@@ -374,13 +373,13 @@
 			Text="瞧你那傻样，结果还是要依靠雪风大人我呢~ 指挥官，你求我的话也不是不能帮你一下哦~"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_AZUR_LANE_YUKIKAZE_REASON_ANY"
-			Text=""
+			Text="（您的科技值和文化值很薄弱）"
 />		<!--***voiced***-->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AZUR_LANE_YUKIKAZE_ANY"
 			Text="可恶，居然比我还要受欢迎——没、没办法……但你以为雪风大人只想要享乐就大错特错啦！"
 />
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_AZUR_LANE_YUKIKAZE_REASON_ANY"
-			Text=""
+			Text="（您的科技值和文化值领先雪风）"
 />
 		<!--make deals-->
 		<!--***voiced***-->

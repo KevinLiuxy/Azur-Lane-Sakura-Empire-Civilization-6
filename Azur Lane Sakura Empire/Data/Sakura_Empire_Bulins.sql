@@ -1,16 +1,16 @@
 INSERT INTO Types (Type, Kind)
-VALUES	('TRAIT_CIVILIZATION_UNIT_BULIN_MK1_PLACEHOLDER',	'KIND_TRAIT'),
-		('TRAIT_CIVILIZATION_UNIT_BULIN_MK2_PLACEHOLDER',	'KIND_TRAIT'),
-		('UNIT_BULIN_MK1',									'KIND_UNIT'	),
-		('UNIT_BULIN_MK2',									'KIND_UNIT'	);
+VALUES	('TRAIT_CIVILIZATION_UNIT_BULIN_MK1',	'KIND_TRAIT'),
+		('TRAIT_CIVILIZATION_UNIT_BULIN_MK2',	'KIND_TRAIT'),
+		('UNIT_BULIN_MK1',						'KIND_UNIT'	),
+		('UNIT_BULIN_MK2',						'KIND_UNIT'	);
 
 INSERT INTO Traits (TraitType, Name, Description)
 VALUES (
-	'TRAIT_CIVILIZATION_UNIT_BULIN_MK1_PLACEHOLDER',
+	'TRAIT_CIVILIZATION_UNIT_BULIN_MK1',
 	'LOC_UNIT_BULIN_MK1_NAME',
 	'LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK1_DESCRIPTION'
 ),(
-	'TRAIT_CIVILIZATION_UNIT_BULIN_MK2_PLACEHOLDER',
+	'TRAIT_CIVILIZATION_UNIT_BULIN_MK2',
 	'LOC_UNIT_BULIN_MK2_NAME',
 	'LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK2_DESCRIPTION'
 );
@@ -23,7 +23,7 @@ VALUES	('UNIT_BULIN_MK1',	'UNITAI_BUILD'			),
 		('UNIT_BULIN_MK2',	'UNITTYPE_SIEGE_SUPPORT');
 
 INSERT INTO UnitCaptures (CapturedUnitType, BecomesUnitType)
-VALUES	('UNIT_BULIN_MK1',	'UNIT_BULIN_MK1');
+VALUES	('UNIT_BULIN_MK1',	'UNIT_BULIN_MK1'	);
 
 INSERT INTO UnitReplaces (CivUniqueUnitType, ReplacesUnitType)
 VALUES	('UNIT_BULIN_MK1',	'UNIT_BUILDER'			),
@@ -52,8 +52,9 @@ INSERT INTO Units(
 	CostProgressionParam1,
 	PurchaseYield,
 	BuildCharges,
+	CanTrain,
 	PrereqTech,
-	EnabledByReligion
+	TraitType
 ) VALUES (
 	/* Type   */ 'UNIT_BULIN_MK1',
 	/* Name   */ 'LOC_UNIT_BULIN_MK1_NAME',
@@ -66,14 +67,14 @@ INSERT INTO Units(
 	/* PModel */ 'COST_PROGRESSION_PREVIOUS_COPIES',
 	/* PParam */ 4,
 	/* Yield  */ 'YIELD_GOLD',
-	/* Charge */ 3,
+	/* Charge */ 3, 0,
 	/* Prereq */ NULL,
-	/* Dsable */ 1
+	/* Trait  */ 'TRAIT_CIVILIZATION_UNIT_BULIN_MK1'
 ),(
 	/* Type   */ 'UNIT_BULIN_MK2',
 	/* Name   */ 'LOC_UNIT_BULIN_MK2_NAME',
 	/* Dscrpt */ 'LOC_UNIT_BULIN_MK2_DESCRIPTION',
-	/* Cost   */ 200, 2, 2, 2, 0, 0,
+	/* Cost   */ 300, 2, 2, 2, 0, 0,
 	/* Domain */ 'DOMAIN_LAND',
 	/* Format */ 'FORMATION_CLASS_SUPPORT',
 	/* Promot */ 'PROMOTION_CLASS_SUPPORT',
@@ -81,9 +82,9 @@ INSERT INTO Units(
 	/* PModel */ 'NO_COST_PROGRESSION',
 	/* PParam */ 0,
 	/* Yield  */ 'YIELD_GOLD',
-	/* Charge */ 3,
+	/* Charge */ 5, 0,
 	/* Prereq */ 'TECH_MILITARY_ENGINEERING',
-	/* Dsable */ 1
+	/* Trait  */ 'TRAIT_CIVILIZATION_UNIT_BULIN_MK2'
 );
 
 UPDATE Civics SET EmbarkUnitType = 'UNIT_BULIN_MK1'
@@ -100,4 +101,23 @@ WHERE	UnitType = 'UNIT_BUILDER';
 INSERT INTO Improvement_ValidBuildUnits (ImprovementType, UnitType)
 SELECT	ImprovementType, 'UNIT_BULIN_MK2'
 FROM	Improvement_ValidBuildUnits
+WHERE	UnitType = 'UNIT_BUILDER' OR UnitType = 'UNIT_MILITARY_ENGINEER';
+
+INSERT INTO District_BuildChargeProductions (DistrictType, UnitType, PercentProductionPerCharge)
+SELECT	DistrictType, 'UNIT_BULIN_MK2', PercentProductionPerCharge
+FROM	District_BuildChargeProductions
 WHERE	UnitType = 'UNIT_MILITARY_ENGINEER';
+
+INSERT INTO Building_BuildChargeProductions (BuildingType, UnitType, PercentProductionPerCharge)
+SELECT	BuildingType, 'UNIT_BULIN_MK2', PercentProductionPerCharge
+FROM	Building_BuildChargeProductions
+WHERE	UnitType = 'UNIT_MILITARY_ENGINEER';
+
+INSERT INTO Route_ValidBuildUnits (RouteType, UnitType)
+SELECT	RouteType, 'UNIT_BULIN_MK2'
+FROM	Route_ValidBuildUnits
+WHERE	UnitType = 'UNIT_MILITARY_ENGINEER';
+
+INSERT INTO MomentIllustrations (MomentIllustrationType, MomentDataType, GameDataType, Texture)
+VALUES	('MOMENT_ILLUSTRATION_UNIQUE_UNIT', 'MOMENT_DATA_UNIT', 'UNIT_BULIN_MK1', 'MOMENT_UNIT_BULIN_MK1'),
+		('MOMENT_ILLUSTRATION_UNIQUE_UNIT', 'MOMENT_DATA_UNIT', 'UNIT_BULIN_MK2', 'MOMENT_UNIT_BULIN_MK2');

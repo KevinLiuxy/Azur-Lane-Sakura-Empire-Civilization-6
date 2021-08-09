@@ -10,9 +10,9 @@
 		<Row Language="en_US" Tag="LOC_UNIT_BULIN_MK2_NAME" Text="Prototype Bulin MKII"/>
 
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK1_DESCRIPTION"
-			Text="Azur Lane unique civilian unit that replaces the Builder. Provided by Governor Akashi"/>
+			Text="Azur Lane unique civilian unit that replaces the Builder. Only provided by Governor Akashi"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK2_DESCRIPTION"
-			Text="Azur Lane unique support unit that replaces the Military Engineer, with 1 additional build charge. Provided by Governor Akashi"/>
+			Text="Azur Lane unique support unit that replaces the Military Engineer, with 1 additional build charge. Only provided by Governor Akashi"/>
 
 		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_AYANAMI"
 			Text=""/>
@@ -22,6 +22,40 @@
 			Text=""/>
 		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_YUKIKAZE"
 			Text=""/>
+
+		<Row Language="en_US" Tag="LOC_AGENDA_WAR_PUPPET_NAME"
+			Text="The Weapon Girl"/>
+		<Row Language="en_US" Tag="LOC_AGENDA_WAR_PUPPET_DESCRIPTION"
+			Text="Likes peaceful and happy civilizations. Dislike civilizations with low happiness and wage war against others."/>
+		<Row Language="en_US" Tag="LOC_AGENDA_SOLOMON_MAD_DOG_NAME"
+			Text="The Mad Dog"/>
+		<Row Language="en_US" Tag="LOC_AGENDA_SOLOMON_MAD_DOG_DESCRIPTION"
+			Text="Loves combats and wars. Likes warmongering civlizations, and doesn't like civilizations that are at peace."/>
+		<Row Language="en_US" Tag="LOC_AGENDA_SHIGURE_SAMA_NAME"
+			Text="Caregiver Shigure"/>
+		<Row Language="en_US" Tag="LOC_AGENDA_SHIGURE_SAMA_DESCRIPTION"
+			Text="Wants to stay close and maintain good relationship with other civilizations. Dislikes civilizations on different continents and don't actively build relations with her."/>
+		<Row Language="en_US" Tag="LOC_AGENDA_PRIDE_NEKO_NAME"
+			Text="Invincibly Great"/>
+		<Row Language="en_US" Tag="LOC_AGENDA_PRIDE_NEKO_DESCRIPTION"
+			Text="Likes to be ahead of other civilizations in [ICON_Science] science and [ICON_Culture] Culture. Envys civilizations that are ahead of her."/>
+
+		<Row Language="en_US" Tag="LOC_DIPLO_MODIFIER_WAR_PUPPET_HAPPY"
+			Text="Ayanami yearns for your peaceful and happy empire"/>
+		<Row Language="en_US" Tag="LOC_DIPLO_MODIFIER_WAR_PUPPET_UNHAPPY"
+			Text="Ayanami is disappointed your warmongering empire has low happiness"/>
+		<Row Language="en_US" Tag="LOC_DIPLO_MODIFIER_SOLOMON_MAD_DOG_HAPPY"
+			Text="Yuudachi is ecstatic about your ongoing campaign"/>
+		<Row Language="en_US" Tag="LOC_DIPLO_MODIFIER_SOLOMON_MAD_DOG_UNHAPPY"
+			Text="Yuudachi feels bored about your peaceful relationship with other countries"/>
+		<Row Language="en_US" Tag="LOC_DIPLO_MODIFIER_SHIGURE_SAMA_HAPPY"
+			Text="Shigure is pleased you are staying close and maintaining a good relationship with her"/>
+		<Row Language="en_US" Tag="LOC_DIPLO_MODIFIER_SHIGURE_SAMA_UNHAPPY"
+			Text="Shigure is upset that you are far away from her and neglect bounding with her"/>
+		<Row Language="en_US" Tag="LOC_DIPLO_MODIFIER_PRIDE_NEKO_HAPPY"
+			Text="Yukikaze is pleased to see your science and culture lags behind her"/>
+		<Row Language="en_US" Tag="LOC_DIPLO_MODIFIER_PRIDE_NEKO_UNHAPPY"
+			Text="Yukikaze hates the fact that you are leading in science and culture"/>
 
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_1"  Text="Juuyo Chinjufu"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_2"  Text="Yokosuka"/>
@@ -58,7 +92,7 @@
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_33" Text="Saipan"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_34" Text="Mariana"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_35" Text="Riyojun"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_36" Text="Kainan"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_36" Text="Truk"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_37" Text="Enoshima"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_38" Text="Okinoshima"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_39" Text="Ogasawara"/>
@@ -72,7 +106,7 @@
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_47" Text="Nokonoshima"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_48" Text="Taketomi"/>
 		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_49" Text="Kume"/>
-		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_50" Text="Truk"/>
+		<Row Language="en_US" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_50" Text="Kainan"/>
 
 		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_1"  Text="Ibuki"/>
 		<Row Language="en_US" Tag="LOC_CITIZEN_SAKURA_EMPIRE_2"  Text="Izumo"/>
@@ -162,6 +196,17 @@
 
 		<Row Language="en_US" Tag="LOC_KAIGUN_KOSHO_NAVAL_COMBAT_DESCRIPTION"
 			Text="+1 [ICON_Strength] Combat Strength from each {LOC_BUILDING_KAIGUN_KOSHO_NAME}."/>
+
+		<Row Language="en_US" Tag="LOC_ALSE_DISTRICT_COAST_SCIENCE"
+			Text="+{1_num} [ICON_Science] Science from the adjacent water {1_Num : plural 1?tile; other?tiles;}. ({LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME})"/>
+		<Row Language="en_US" Tag="LOC_ALSE_DISTRICT_COAST_Culture"
+			Text="+{1_num} [ICON_Culture] Culture from the adjacent water {1_Num : plural 1?tile; other?tiles;}. ({LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME})"/>
+		<Row Language="en_US" Tag="LOC_ALSE_DISTRICT_COAST_FAITH"
+			Text="+{1_num} [ICON_Faith] Faith from the adjacent water {1_Num : plural 1?tile; other?tiles;}. ({LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME})"/>
+		<Row Language="en_US" Tag="LOC_ALSE_DISTRICT_COAST_GOLD"
+			Text="+{1_num} [ICON_Gold] Gold from the adjacent water {1_Num : plural 1?tile; other?tiles;}. ({LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME})"/>
+		<Row Language="en_US" Tag="LOC_ALSE_DISTRICT_COAST_PRODUCTION"
+			Text="+{1_num} [ICON_Production] Production from the adjacent water {1_Num : plural 1?tile; other?tiles;}. ({LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME})"/>
 
 		<Row Language="en_US" Tag="LOC_CIVINFO_ALSE_LOCATION" Text="Juuyo Islands"/>
 		<Row Language="en_US" Tag="LOC_CIVINFO_AL_FACTION"    Text="Faction"/>

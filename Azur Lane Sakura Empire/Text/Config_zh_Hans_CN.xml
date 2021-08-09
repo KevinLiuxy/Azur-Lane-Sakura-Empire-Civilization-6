@@ -11,9 +11,9 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME"
 			Text="沧海扶桑"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_DESCRIPTION"
-			Text="可用 [ICON_Faith] 信仰值购买海军单位。宣布突袭战争后，10回合内 +1 [ICON_MOVEMENT] 移动力。[NEWLINE]海岸为城市区域提供标准的相邻加成。海岸城市或拥有重樱海军船坞的城市 +1 [ICON_Amenities] 宜居度，[ICON_Citizen] 人口增长速度 +15%。"/>
+			Text="可用 [ICON_Faith] 信仰值购买海军单位。宣布突袭战争后，10回合内所有单位 +1 [ICON_MOVEMENT] 移动力。[NEWLINE]海岸和湖泊为区域提供标准的相邻加成。海岸城市或拥有重樱海军船坞的城市 +1 [ICON_Amenities] 宜居度，[ICON_Citizen] 人口增长速度 +15%。"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_DESCRIPTION_RnF"
-			Text="可用 [ICON_Faith] 信仰值购买海军单位。宣布突袭战争后，10回合内 +5 [ICON_STRENGTH] 战斗力，+1 [ICON_MOVEMENT] 移动力。但10~20回合内 [COLOR_RED]-5[ENDCOLOR] [ICON_STRENGTH] 战斗力。[NEWLINE]海岸为城市区域提供标准的相邻加成。海岸城市或拥有重樱海军船坞的城市 +1 [ICON_Amenities] 宜居度，[ICON_Citizen] 人口增长速度 +15%。"/>
+			Text="可用 [ICON_Faith] 信仰值购买海军单位。宣布突袭战争后，10回合内所有单位 +5 [ICON_STRENGTH] 战斗力，+1 [ICON_MOVEMENT] 移动力。但10~20回合内 -5 [ICON_STRENGTH] 战斗力。[NEWLINE]海岸和湖泊为区域提供标准的相邻加成。海岸城市或拥有重樱海军船坞的城市 +1 [ICON_Amenities] 宜居度，[ICON_Citizen] 人口增长速度 +15%。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_KAIGUN_KOSHO_NAME"
 			Text="重樱海军船坞"/>
