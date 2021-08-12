@@ -11,9 +11,9 @@
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME"
 			Text="Sun Rising over the Sea"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_DESCRIPTION"
-			Text="Can purchase Naval units with [ICON_Faith] Faith. After declaring a Surprise War, all units +1 [ICON_MOVEMENT] Movement for the next 10 turns.[NEWLINE]Water tiles provide a standard adjacency bonus to districts. +1 [ICON_Amenities] Amenity and +15% [ICON_Citizen] Growth in coastal cities, or cities with a Cerise Imperial Dockyard."/>
+			Text="Can purchase Naval units with [ICON_Faith] Faith. After declaring a Surprise War, all units +1 [ICON_MOVEMENT] Movement for the next 10 turns.[NEWLINE]Water tiles provide a minor adjacency bonus to districts. +1 [ICON_Amenities] Amenity and +15% [ICON_Citizen] Growth in coastal cities, or cities with a Cerise Imperial Dockyard."/>
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_DESCRIPTION_RnF"
-			Text="Can purchase Naval units with [ICON_Faith] Faith. After declaring a Surprise War, all units +1 [ICON_MOVEMENT] Movement +5 [ICON_STRENGTH] Combat Strength for the next 10 turns, and then -5 [ICON_STRENGTH] for the following 10 turns.[NEWLINE]Water tiles provide a standard adjacency bonus to districts. +1 [ICON_Amenities] Amenity and +15% [ICON_Citizen] Growth in coastal cities, or cities with a Cerise Imperial Dockyard."/>
+			Text="Can purchase Naval units with [ICON_Faith] Faith. After declaring a Surprise War, all units +1 [ICON_MOVEMENT] Movement +5 [ICON_STRENGTH] Combat Strength for the next 10 turns, and then -5 [ICON_STRENGTH] for the following 10 turns.[NEWLINE]Water tiles provide a minor adjacency bonus to districts. +1 [ICON_Amenities] Amenity and +15% [ICON_Citizen] Growth in coastal cities, or cities with a Cerise Imperial Dockyard."/>
 
 		<Row Language="en_US" Tag="LOC_BUILDING_KAIGUN_KOSHO_NAME"
 			Text="Cerise Imperial Dockyard"/>

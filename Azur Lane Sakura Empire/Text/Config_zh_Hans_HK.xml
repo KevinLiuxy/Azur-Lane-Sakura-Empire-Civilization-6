@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <LocalizedText>
+        <Row Language="zh_Hant_HK" Tag="LOC_CIVILIZATION_AZUR_LANE_SE_NAME"
+            Text="重櫻帝國"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CIVILIZATION_AZUR_LANE_SE_DESCRIPTION"
+            Text="重櫻帝國"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CIVILIZATION_AZUR_LANE_SE_ADJECTIVE"
+            Text="重櫻帝國"/>
+
+        <Row Language="zh_Hant_HK" Tag="LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME"
+            Text="滄海扶桑"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_DESCRIPTION"
+            Text="可用 [ICON_Faith] 信仰值購買海軍單位。宣佈突襲戰爭後，10回合內所有單位 +1 [ICON_MOVEMENT] 移動力。[NEWLINE]海岸和湖泊為區域提供少量的相鄰加成。海岸城市或擁有重櫻海軍船塢的城市 +1 [ICON_Amenities] 滿意度，[ICON_Citizen] 人口增長速度 +15%。"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_DESCRIPTION_RnF"
+            Text="可用 [ICON_Faith] 信仰值購買海軍單位。宣佈突襲戰爭後，10回合內所有單位 +5 [ICON_STRENGTH] 戰鬥力，+1 [ICON_MOVEMENT] 移動力。但10~20回合內 -5 [ICON_STRENGTH] 戰鬥力。[NEWLINE]海岸和湖泊為區域提供少量的相鄰加成。海岸城市或擁有重櫻海軍船塢的城市 +1 [ICON_Amenities] 滿意度，[ICON_Citizen] 人口增長速度 +15%。"/>
+
+        <Row Language="zh_Hant_HK" Tag="LOC_BUILDING_KAIGUN_KOSHO_NAME"
+            Text="重櫻海軍船塢"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_BUILDING_KAIGUN_KOSHO_DESCRIPTION"
+            Text="重櫻特色建築，替代造船廠。額外提供 +1 [ICON_Amenities] 滿意度，+2 [ICON_Housing] 住房。相鄰的海軍單位額外回復15點 [ICON_Damaged] 生命值。[NEWLINE]帝國中的每座重櫻海軍船塢為所有海軍單位 +1 [ICON_STRENGTH] 戰鬥力（最高 +7）。"/>
+
+        <Row Language="zh_Hant_HK" Tag="LOC_DISTRICT_SAKURA_EMPIRE_JINJA_NAME"
+            Text="櫻花神社"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_DISTRICT_SAKURA_EMPIRE_JINJA_DESCRIPTION"
+            Text="重櫻特色宗教活動區域。替代聖地，建造費用更低。[NEWLINE][NEWLINE]提供 +1 [ICON_Housing] 住房。從相鄰加成中獲得等量的 [ICON_Culture] 文化值。相鄰的單元格 +2 魅力，為相鄰海岸提供 +1 [ICON_Faith] 信仰值、湖泊 +2 [ICON_Faith] 信仰值。"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_DISTRICT_SAKURA_EMPIRE_JINJA_DESCRIPTION_GS"
+            Text="重櫻特色宗教活動區域。替代聖地，建造費用更低。[NEWLINE][NEWLINE]提供 +1 [ICON_Housing] 住房。從相鄰加成中獲得等量的 [ICON_Culture] 文化值。相鄰的單元格 +2 魅力，為相鄰海岸提供 +1 [ICON_Faith] 信仰值、湖泊 +2 [ICON_Faith] 信仰值、火山灰土和地熱裂隙 +3 [ICON_Faith] 信仰值。"/>
+
+        <Row Language="zh_Hant_HK" Tag="LOC_LEADER_AZUR_LANE_AYANAMI_NAME"
+            Text="碧藍航線 · 綾波"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_KISHIN_NAME"
+            Text="鬼神"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_KISHIN_DESCRIPTION"
+            Text="城市不會產生厭戰情緒。軍事單位無視敵方區域控制。單位 [ICON_Damaged] 受損時的 [ICON_Strength] 戰鬥力減益降低 50%。"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_KISHIN_DESCRIPTION_GS"
+            Text="城市不會產生厭戰情緒。軍事單位無視敵方區域控制。單位 [ICON_Damaged] 受損時的 [ICON_Strength] 戰鬥力減益降低 50%。[NEWLINE]擁有擅長作戰後勤的專屬特色總督。"/>
+
+        <Row Language="zh_Hant_HK" Tag="LOC_LEADER_AZUR_LANE_YUUDACHI_NAME"
+            Text="碧藍航線 · 夕立"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_NAME"
+            Text="所羅門的狂犬"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_DESCRIPTION"
+            Text="軍事單位夾擊加成翻倍，掠奪和海岸掃蕩的收益 +30%。牧場、營地和漁船 +1 [ICON_Food] 食物、+1 [ICON_Production] 生產力。"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_DESCRIPTION_GS"
+            Text="軍事單位夾擊加成翻倍，掠奪和海岸掃蕩的收益 +30%。牧場、營地和漁船 +1 [ICON_Food] 食物、+1 [ICON_Production] 生產力。[NEWLINE]擁有擅長作戰後勤的專屬特色總督。"/>
+
+        <Row Language="zh_Hant_HK" Tag="LOC_LEADER_AZUR_LANE_SHIGURE_NAME"
+            Text="碧藍航線 · 時雨"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_NAME"
+            Text="好運女神相伴"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_DESCRIPTION"
+            Text="軍事單位支援加成翻倍。每種特色區域額外提供一點相應的 [ICON_GreatPerson] 偉人點數。"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_SASEBO_NO_SHIGURE_DESCRIPTION_GS"
+            Text="軍事單位支援加成翻倍。每種特色區域額外提供一點相應的 [ICON_GreatPerson] 偉人點數。擁有總督的城市中，自然災害無法對改良設施、建築與區域造成傷害。[NEWLINE]擁有擅長作戰後勤的專屬特色總督。"/>
+
+        <Row Language="zh_Hant_HK" Tag="LOC_LEADER_AZUR_LANE_YUKIKAZE_NAME"
+            Text="碧藍航線 · 雪風"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_NAME"
+            Text="奇跡的幸運艦"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_DESCRIPTION"
+            Text="[ICON_TechBoosted] 尤里卡和 [ICON_CivicBoosted] 天啟額外提供 15% 的科技與市政。領土內敵方間諜等級降低2級。"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_TRAIT_LEADER_KURE_NO_YUKIKAZE_DESCRIPTION_GS"
+            Text="[ICON_TechBoosted] 尤里卡和 [ICON_CivicBoosted] 天啟額外提供 15% 的科技與市政。領土內敵方間諜等級降低2級。擁有總督的城市中，自然災害無法對改良設施、建築與區域造成傷害。[NEWLINE]擁有擅長作戰後勤的專屬特色總督。"/>
+    </LocalizedText>
+</GameData>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <LocalizedText>
+        <Replace Language="zh_Hant_HK" Tag="LOC_LEADER_AZUR_LANE_AYANAMI_NAME" Text="綾波"/>
+        <Replace Language="zh_Hant_HK" Tag="LOC_LEADER_AZUR_LANE_YUUDACHI_NAME" Text="夕立"/>
+        <Replace Language="zh_Hant_HK" Tag="LOC_LEADER_AZUR_LANE_SHIGURE_NAME" Text="時雨"/>
+        <Replace Language="zh_Hant_HK" Tag="LOC_LEADER_AZUR_LANE_YUKIKAZE_NAME" Text="雪風"/>
+
+        <Row Language="zh_Hant_HK" Tag="LOC_UNIT_BULIN_MK1_NAME" Text="泛用型布里"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_UNIT_BULIN_MK2_NAME" Text="試作型布里MKII"/>
+        
+        <Row Language="zh_Hant_HK" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK1_PLACEHOLDER_DESCRIPTION"
+            Text="碧藍航線特色建造單位，替代建造者。由總督明石升級提供。"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK2_PLACEHOLDER_DESCRIPTION"
+            Text="碧藍航線特色支援單位，替代軍事工程師，擁有更多建造次數。由總督明石升級提供。"/>
+
+        <Row Language="zh_Hant_HK" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_AYANAMI"
+            Text="綾波，所羅門的鬼神，您的戰績名垂千古！您從不害怕戰鬥，即使面對數倍於己的敵軍，也能履行自己的使命直至最後一刻。無畏的精神始終激勵著您的人民。現在，您的艦隊已整裝待發。請別忘記您已不再是孤身一人。守護你的同伴，並平安歸來吧。"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_YUUDACHI"
+            Text="所羅門的狂犬夕立，您將成為強敵的噩夢。無論面對的對手有多強大，您都會義無反顧地殺入下一個戰場。您絕不會向任何人屈服，即使絕境之中也能永遠向前突擊。大戰的陰雲籠罩著您的帝國，擊碎任何擋在您面前的障礙吧，讓全世界都認可您的實力。"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_SHIGURE"
+            Text="佐世保的時雨，願幸運之神與您同在。您在最危險的前線出生入死，卻總能平安歸來。英勇無畏並非您的志向所在，因為您深知只有倖存下來的強者，才能奪得最終的勝利。用您的智慧與好運帶領您的人民吧，但也不要忘記謹慎行事，畢竟運氣總是反復無常。"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_YUKIKAZE"
+            Text="雪風，奇跡般的不沉幸運艦，您經受住了時間的考驗，就連您的敵人也不得不承認您的優秀。無論戰爭的勝敗，您都會盡己所能，用溫柔的力量保護身邊的人。面對您忠誠的盟友和可敬的對手吧，願以往的好運永遠伴隨著您，直到迎來勝利的那天。"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_AGENDA_WAR_PUPPET_NAME"
+			Text="兵器少女"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_AGENDA_WAR_PUPPET_DESCRIPTION"
+			Text="嚮往愛好和平且幸福度高的文明，厭惡好戰而幸福度低的文明。"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_AGENDA_SOLOMON_MAD_DOG_NAME"
+			Text="惡犬"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_AGENDA_SOLOMON_MAD_DOG_DESCRIPTION"
+			Text="喜歡與人交戰、時刻處於戰爭狀態的文明。討厭長期保持和平的文明。"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_AGENDA_SHIGURE_SAMA_NAME"
+			Text="愛照顧人的時雨大人"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_AGENDA_SHIGURE_SAMA_DESCRIPTION"
+			Text="喜歡首都在同一大陸、或關係友好的文明。討厭距離遙遠、或關係惡劣的文明。"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_AGENDA_PRIDE_NEKO_NAME"
+			Text="雪風大人可是無敵的"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_AGENDA_PRIDE_NEKO_DESCRIPTION"
+			Text="喜歡科技文化落後於自己的文明，討厭在這些方面被其他文明領先。"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_MODIFIER_WAR_PUPPET_HAPPY"
+			Text="綾波很高興看到您的國家遠離戰爭，生活幸福"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_MODIFIER_WAR_PUPPET_UNHAPPY"
+			Text="綾波對您的國家好戰且幸福度低而感到失望"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_MODIFIER_SOLOMON_MAD_DOG_HAPPY"
+			Text="夕立因您正在進行的戰鬥而感到欣喜若狂"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_MODIFIER_SOLOMON_MAD_DOG_UNHAPPY"
+			Text="夕立認為您與其他文明和平相處無聊透頂"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_MODIFIER_SHIGURE_SAMA_HAPPY"
+			Text="時雨喜歡在近處與您友好相處、關係親密"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_MODIFIER_SHIGURE_SAMA_UNHAPPY"
+			Text="時雨因您離她太遠、關係生疏而感到失落"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_MODIFIER_PRIDE_NEKO_HAPPY"
+			Text="雪風很高興看到您在科技和文化上落後於她"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_DIPLO_MODIFIER_PRIDE_NEKO_UNHAPPY"
+			Text="雪風因你在科技和文化上的領先而感到嫉妒"/>
+		
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_1"  Text="重櫻鎮守府"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_2"  Text="橫須賀"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_3"  Text="吳港"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_4"  Text="佐世保"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_5"  Text="舞鶴"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_6"  Text="大湊"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_7"  Text="馬公"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_8"  Text="鎮海"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_9"  Text="石川島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_10" Text="父島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_11" Text="南島島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_12" Text="所羅門"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_13" Text="瓜島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_14" Text="厚木"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_15" Text="沖繩島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_16" Text="硫磺島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_17" Text="那覇"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_18" Text="高知"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_19" Text="島羽"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_20" Text="關島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_21" Text="仙崎"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_22" Text="琉球"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_23" Text="佐渡"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_24" Text="對馬"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_25" Text="西表"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_26" Text="屋久"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_27" Text="石垣"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_28" Text="神津"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_29" Text="奄美"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_30" Text="宮古島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_31" Text="中途島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_32" Text="天寧島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_33" Text="塞班島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_34" Text="馬里亞納"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_35" Text="旅順"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_36" Text="特魯克島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_37" Text="江之島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_38" Text="沖之島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_39" Text="小笠原島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_40" Text="呂宋島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_41" Text="大久野島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_42" Text="與論島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_43" Text="大島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_44" Text="嚴島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_45" Text="壹岐島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_46" Text="禮文島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_47" Text="能古島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_48" Text="竹富島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_49" Text="久米島"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_CITY_NAME_SAKURA_EMPIRE_50" Text="海南"/>
+
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_1"  Text="伊吹"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_2"  Text="出雲"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_3"  Text="北風"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_4"  Text="信濃"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_5"  Text="赤城"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_6"  Text="天城"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_7"  Text="愛宕"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_8"  Text="伊13"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_9"  Text="伊168"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_10" Text="伊19"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_11" Text="加賀"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_12" Text="江風"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_13" Text="三笠"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_14" Text="長門"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_15" Text="能代"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_16" Text="翔鶴"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_17" Text="駿河"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_18" Text="島風"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_19" Text="大鳳"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_20" Text="高雄"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_21" Text="瑞鶴"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_22" Text="阿賀野"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_23" Text="足柄"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_24" Text="吹雪"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_25" Text="榛名"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_26" Text="比叡"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_27" Text="飛龍"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_28" Text="神通"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_29" Text="霧島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_30" Text="金剛"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_31" Text="最上"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_32" Text="陸奧"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_33" Text="龍驤"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_34" Text="蒼龍"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_35" Text="鈴穀"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_36" Text="夕張"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_37" Text="曉"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_38" Text="扶桑"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_39" Text="五十鈴"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_40" Text="雷"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_41" Text="電"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_42" Text="陽炎"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_43" Text="黑潮"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_44" Text="神風"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_45" Text="那珂"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_46" Text="親潮"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_47" Text="川內"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_48" Text="白露"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_49" Text="翔鳳"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CITIZEN_SAKURA_EMPIRE_50" Text="山城"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_OCEAN_SAKURA_EMPIRE1" Text="鏡面海"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_SEA_SAKURA_EMPIRE1"   Text="萊特灣"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_SEA_SAKURA_EMPIRE2"   Text="東京灣"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_NAMED_SEA_SAKURA_EMPIRE3"   Text="若狹灣"/>
+
+        <Row Language="zh_Hant_HK" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_NAME" Text="明石"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_TITLE" Text="後勤總管"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_SHORT_TITLE" Text="後勤總管"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_GOVERNOR_AZUR_LANE_AKASHI_DESCRIPTION"
+            Text="維修艦明石擅長後勤支援、艦隊維護和科技研發，是重櫻港區萬能的補給商店看板娘。[NEWLINE][NEWLINE]——“哪裡受傷了，只要交給我就沒問題喵”"/>
+        
+        <Row Language="zh_Hant_HK" Tag="LOC_GOVERNOR_PROMOTION_SHOPKEEPER_KANBAN_NAME" Text="商店看板娘"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_GOVERNOR_PROMOTION_SHOPKEEPER_KANBAN_DESCRIPTION"
+            Text="所在城市立即獲得一名特殊建造單位“泛用型布里”。[NEWLINE]明石每次晉升時，都會免費獲得一個紫布里或金布里。"/>
+
+        <Row Language="zh_Hant_HK" Tag="LOC_GOVERNOR_PROMOTION_LOGISTICS_REPAIR_NAME" Text="後勤維修"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_GOVERNOR_PROMOTION_LOGISTICS_REPAIR_DESCRIPTION"
+            Text="在任何一座城市就職時：海軍單位可在中立領土上回復。所有單位每回合可額外回復5點 [ICON_Damaged] 生命值。"/>
+
+        <Row Language="zh_Hant_HK" Tag="LOC_GOVERNOR_PROMOTION_EQUIPMENT_SUPPLY_NAME" Text="裝備補給"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_GOVERNOR_PROMOTION_EQUIPMENT_SUPPLY_DESCRIPTION"
+            Text="在任何一座城市就職時：帝國境內所有單位升級所需的 [ICON_Gold] 金幣與資源 -30%。"/>
+
+        <Row Language="zh_Hant_HK" Tag="LOC_GOVERNOR_PROMOTION_SHIPYARD_EXPANSION_NAME" Text="港區擴建"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_GOVERNOR_PROMOTION_SHIPYARD_EXPANSION_DESCRIPTION"
+            Text="該城市 [ICON_Gold] 金幣購買港口建築的花費 -50%，每座港口建築額外提供 +10 [ICON_Gold] 金幣和 +1 [ICON_RESOURCE_OIL] 石油（需求：精煉）。"/>
+
+        <Row Language="zh_Hant_HK" Tag="LOC_GOVERNOR_PROMOTION_PROJECT_RESEARCH_NAME" Text="方案艦研發"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_GOVERNOR_PROMOTION_PROJECT_RESEARCH_DESCRIPTION"
+            Text="所在城市的港口區域，和港口中的每座建築為此城 +12% [ICON_Science] 科技值，+6% [ICON_Production] 生產力。"/>
+
+        <Row Language="zh_Hant_HK" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_NAME" Text="魔方解析"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_DESCRIPTION"
+            Text="所在城市 [ICON_Citizen] 人口增長速度 +15%，每個公民可帶來 +1 [ICON_Science] 科技值。此城訓練海上戰鬥單位時 +75% [ICON_Production] 生產力。"/>
+
+        <Row Language="zh_Hant_HK" Tag="LOC_KAIGUN_KOSHO_NAVAL_COMBAT_DESCRIPTION"
+            Text="從每座{LOC_BUILDING_KAIGUN_KOSHO_NAME}處獲得 +1 [ICON_Strength] 戰鬥力。"/>
+
+		<Row Language="zh_Hant_HK" Tag="LOC_ALSE_DISTRICT_COAST_SCIENCE"
+			Text="+{1_num} [ICON_Science] 科技值來自相鄰的水域。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_ALSE_DISTRICT_COAST_Culture"
+			Text="+{1_num} [ICON_Culture] 文化值來自相鄰的水域。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_ALSE_DISTRICT_COAST_FAITH"
+			Text="+{1_num} [ICON_Faith] 信仰值來自相鄰的水域。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_ALSE_DISTRICT_COAST_GOLD"
+			Text="+{1_num} [ICON_Gold] 金幣來自相鄰的水域。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>
+		<Row Language="zh_Hant_HK" Tag="LOC_ALSE_DISTRICT_COAST_PRODUCTION"
+			Text="+{1_num} [ICON_Production] 生產力來自相鄰的水域。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>
+		
+        <Row Language="zh_Hant_HK" Tag="LOC_CIVINFO_ALSE_LOCATION" Text="重櫻群島"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CIVINFO_AL_FACTION"    Text="陣營"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CIVINFO_ALSE_FACTION"  Text="赤色中軸"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CIVINFO_AL_PREFIX"     Text="艦船代號"/>
+        <Row Language="zh_Hant_HK" Tag="LOC_CIVINFO_ALSE_PREFIX"   Text="IJN"/>
+    </LocalizedText>
+</GameData>

@@ -192,7 +192,7 @@
 
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_NAME" Text="Wisdom Cube Analysis"/>
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_DESCRIPTION"
-			Text="Increases city [ICON_Citizen] growth by 15%, and +75% [ICON_Production] Production towards Naval units in this city.[NEWLINE]Gain a Military policy slot permanently."/>
+			Text="Increases city growth by 15%. +1 [ICON_Science] Science per turn for each [ICON_Citizen] Citizen in this city. +75% [ICON_Production] Production towards all Naval units in the city."/>
 
 		<Row Language="en_US" Tag="LOC_KAIGUN_KOSHO_NAVAL_COMBAT_DESCRIPTION"
 			Text="+1 [ICON_Strength] Combat Strength from each {LOC_BUILDING_KAIGUN_KOSHO_NAME}."/>

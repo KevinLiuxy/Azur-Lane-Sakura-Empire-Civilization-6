@@ -192,7 +192,7 @@
 
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_NAME" Text="魔方解析"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_GOVERNOR_PROMOTION_WISDOM_QUBE_STUDY_DESCRIPTION"
-			Text="所在城市 [ICON_Citizen] 人口增长速度 +15%，训练海上战斗单位时 +75% [ICON_Production] 生产力。[NEWLINE]永久获得一个军事政策槽位。"/>
+			Text="所在城市 [ICON_Citizen] 人口增长速度 +15%，每个公民可带来 +1 [ICON_Science] 科技值。此城训练海上战斗单位时 +75% [ICON_Production] 生产力。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_KAIGUN_KOSHO_NAVAL_COMBAT_DESCRIPTION"
 			Text="从每座{LOC_BUILDING_KAIGUN_KOSHO_NAME}处获得 +1 [ICON_Strength] 战斗力。"/>
