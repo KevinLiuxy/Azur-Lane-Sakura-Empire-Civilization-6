@@ -10,18 +10,18 @@
 		<Row Language="en_US" Tag="LOC_UNIT_BULIN_MK2_NAME" Text="Prototype Bulin MKII"/>
 
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK1_DESCRIPTION"
-			Text="Azur Lane unique civilian unit that replaces the Builder. Only provided by Governor Akashi"/>
+			Text="Azur Lane unique civilian unit that replaces the Builder. Only provided by Governor Akashi."/>
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK2_DESCRIPTION"
-			Text="Azur Lane unique support unit that replaces the Military Engineer, with 1 additional build charge. Only provided by Governor Akashi"/>
+			Text="Azur Lane unique support unit that replaces the Military Engineer, with 1 additional build charge. Only provided by Governor Akashi."/>
 
 		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_AYANAMI"
-			Text=""/>
+			Text="The demon of Solomon, Ayanami, your honored deeds shall last for centuries. Despite being vastly outnumbered, you were never afraid to fight and let your enemies feel the true horror. Your fearless spirit always inspires your people. Fleet is now gathered at your hands awaiting commands. Remember well that you’ll no longer be alone anymore. Protect your comrades, and return with them safely from glorious victories."/>
 		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_YUUDACHI"
-			Text=""/>
+			Text="Yuudachi, the mad dog of Solomon, you are the nightmare of your foes. No matter how strong the opponent you face, you crush onto them without any hesitation. Even in desperate conditions, you never succumb to anyone and always assault back despite any cost. The shadow of war is casting upon your empire. Crush those who stand in your way, and let the world recognize you by your unparalleled power."/>
 		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_SHIGURE"
-			Text=""/>
+			Text="Sasebo’s Shigure, may the goddess of luck always be with you. With her blessings, you fought on the deadly frontlines and survived to return each and every time. Braveness and courage are not what you’re known for, but no one understands better that victory only belongs to those who live to fight another day. May fortune guide the path for you and your people. But remember to act cautiously, as luck can be capricious at times."/>
 		<Row Language="en_US" Tag="LOC_LOADING_INFO_LEADER_AZUR_LANE_YUKIKAZE"
-			Text=""/>
+			Text="Yukikaze, the miraculous unsinkable lucky ship, you have withstood the test of time. Even your enemies have to admit your excellence. Served throughout the rise and fall of empires, you fulfilled your duty and covered those who needed protection under the onslaught of war. Now it’s time to meet your loyal allies and respectable opponents. May the best luck, as always, be with you all the time until the achievement of your ultimate victory."/>
 
 		<Row Language="en_US" Tag="LOC_AGENDA_WAR_PUPPET_NAME"
 			Text="The Weapon Girl"/>

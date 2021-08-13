@@ -1,0 +1,45 @@
+这次为大家带来的是碧蓝航线的重樱，和四位驱逐舰领袖：绫波（柚）、夕立（椿）、时雨（栴）和雪风（莲）。本作登场人物全部都有角色语音☆
+
+文明的特色建筑是重樱海军船坞（替换造船厂）和樱花神社（替代圣地）。在风云变幻扩展包下还能体验到文明的特色总督“明石（茗）”，以及特色建造单位“泛用型布里”和“试做型布里MKII”。 [strike](布里航线)[/strike]
+
+还是跟以往一样，这是一个自带音乐、地名和城市名的完整作品。包含了30分钟的碧蓝航线游戏BGM，能和游戏原有文明、与我的其他音乐Mod文明循环播放，希望你能喜欢~
+
+[h1]模组特色[/h1][list]
+[*][b]兼容所有的版本[/b]
+没有扩展包也能开心地游玩！不过总督和布里需要风云变幻解锁。
+
+[*][b]包含全部角色语音[/b]
+所有角色在外交界面下都有配音。不仅如此，连总督明石都有语音台词（还有布里）。Mod里一共包含了七十几段独特的角色语音。
+
+[*][b]丰富的城市名、人名和地名[/b]
+本作拥有永远用不完的城市名，大量和碧蓝航线游戏背景相关的地名和人名（船名）。名城跟游戏中的日本文明，以及其他重樱Mod均不冲突。[/list]
+
+[h1]特别鸣谢[/h1]
+1. 首先我要感谢 [url=steamcommunity.com/profiles/76561198082293370]八云寺幽幽紫[/url] 在设计上的启发和建议。也欢迎大家去关注他的碧蓝航线系列模组。
+2. 感谢 [url=steamcommunity.com/profiles/76561198402598762]岛村卯月[/url]，[url=steamcommunity.com/profiles/76561198068777223]chjimmy[/url] 和 [url=steamcommunity.com/id/clear8sky]Clear8Sky[/url] 在游戏文本上的帮助。这几位同道一直以来在Mod制作上给予了我不少支持。忱挚地向他们致谢！
+3. 感谢 [url=steamcommunity.com/profiles/76561198402598762]岛村卯月[/url] 和 [url=steamcommunity.com/profiles/76561198356294989]阿追[/url] 在模组测试上，[strike]以及未来发现了bug背锅上[/strike]的帮助。
+当然还要感谢大家一直以来的支持！大家对我作品的热爱是我做到现在最大的动力~ 喜欢的话就点个赞吧。发现Bug请反馈给我，我将第一时间修复。其他的建议和想法也欢迎在下面留言☆
+
+[h1]常见问题[/h1][list]
+[*][b]领袖语音会重复播放？[/b]
+这个是文明6本体的缺陷，游戏自带的领袖播放动画也存在重复播放的问题。
+
+[*][b]音乐没有正确循环？[/b]
+此Mod必须与游戏原本文明、或其他正确制作音乐的Mod文明一起使用（比如我、[url=steamcommunity.com/profiles/76561198181931490]姥鲨[/url]、[url=steamcommunity.com/profiles/76561198402598762]卯月[/url] 的Mod）。如登场文明使用了未配置、或错误配置音乐的Mod（如其他部分碧蓝航线Mod），音乐将循环至配置错误的文明处中断。
+
+[*][b]游戏里没有明石、布里？[/b]
+这些内容需要依赖DLC风云变幻，没有的话先去买扩展包吧~ 此外，布里无法训练，只能由总督明石的升级赠与。[/list]
+
+[h1]引用出处[/h1]
+原作：手游《碧蓝航线》
+游戏之外的插图和立绘：
+绘师 [url=https://www.pixiv.net/en/users/40341319]
+藤依しの[/url] 的 [url=https://www.pixiv.net/en/artworks/81356329]《いつもの3人》[/url]
+绘师 [url=https://www.pixiv.net/en/users/5594793]
+Silver[/url] 的 [url=https://www.pixiv.net/en/artworks/74419197]《綾波》[/url]
+绘师 [url=https://www.pixiv.net/en/users/801146]
+イコモチ[/url] 的 [url=https://www.pixiv.net/en/artworks/75636757]《夕立と時雨》[/url]
+背景音乐：
+Azur Lane - Crosswave Original Soundtrack
+部分提取自碧蓝航线游戏
+源代码：https://github.com/KevinLiuxy/Azur-Lane-Sakura-Empire-Civilization-6

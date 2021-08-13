@@ -1,0 +1,47 @@
+This Mod brings you the Sakura Empire (Juuyo) from Azur Lane, and its four leaders: Ayanami, Yuudachi, Shigure, and Yukikaze. All characters are fully voiced ☆
+
+The unique infrastructure of Sakura Empire is the Cerise Imperial Dockyard (replaces Shipyard), and the Sakura Jinja (replaces Holy Site). These provide naval combat bonuses as well as faith buffs to the civilization.
+Under Gathering Storm mode, the civilization has a unique Governor "Akashi", who will also provide 2 unique builder units "Universal Bulin" and "Prototype Bulin MKII". [strike](the strongest unit in the game!!) [/strike]
+
+As with all my other civs, this Mod has unique city names, place names, and background music. There is 30 min of BGM from the original Azur Lane game, which can play alongside my other mod civs and vanilla civilizations in the game.
+
+[h1]Mod Highlights[/h1][list]
+[*][b]Compatible with All Game Rules[/b]
+You can play it without any DLC. Though you would need Gathering Storm for unique Governor and Bulins.
+
+[*][b]All Characters Fully Voiced[/b]
+All Leaders have their unique voice lines in diplomacy screen. Even Governor Akashi has her own voiced speeches! There're 70+ unique speeches in total.
+
+[*][b]Names that Never Run Out[/b]
+There are 50 city names and 50 character (ship) names, as well as plenty of place names from historical and game backgrounds. So you can comfortably have multiple Sakura Empire Leaders in the same game and names won't run out.[/list]
+
+[h1]Special Thanks[/h1]
+1. First I'd like to credit [url=steamcommunity.com/profiles/76561198082293370]八云寺幽幽紫[/url] for his inspiration and suggestions. Remember to check out his Azur Lane Mods too.
+2. Many thanks to [url=steamcommunity.com/profiles/76561198402598762]Dwughjsd[/url], [url=steamcommunity.com/profiles/76561198068777223]chjimmy[/url], and [url=steamcommunity.com/id/clear8sky]Clear8Sky[/url] for helping me out on game text. They've supported my modding endeavours for quite some time now. I appreciate all the aids.
+3. Thanks [url=steamcommunity.com/profiles/76561198402598762]Dwughjsd[/url], and [url=steamcommunity.com/profiles/76561198356294989]阿追[/url] for pre-release testing [strike]and taking all blames should you find any bug in this mod[/strike].
+
+And as usual, thanks for continuously supporting my Mod projects. I really couldn't emphasize enough how much it means to me. None of my work could be possible without everyone in this lovely community. Being able to share with you my passion and hopefully bring you something interesting to play with are the reasons of making these mods. Thank you ☆
+
+[h1]Known Issues[/h1][list]
+[*][b]Leader Voices Sometimes Played Twice?[/b]
+This is a problem of the base game. Leaders from in-game civs also experience the same issue.
+
+[*][b]Music Stopped until Next Era Begins?[/b]
+This problem is caused by other Mods. Please use this Mod together with original civilizations in the game, as well as Mod civilizations that have configured music properly (like my other Mods and [url=steamcommunity.com/profiles/76561198181931490]姥鲨[/url], [url=steamcommunity.com/profiles/76561198402598762]Dwughjsd[/url]'s Mods). If a Mod civ on the map didn't implement music in the correct way (such as some of other Azur Lane Mods), the BGM will get stuck after encountered that mod civ on the map.
+
+[*][b]No Governor Akashi nor Bulins in Game?[/b]
+These are contents enabled by DLC Gathering Storm. Besides, you can't train Bulins. They are only given as gifts from Governor Akashi.[/list]
+
+[h1]Credits and References[/h1]
+Original Game: Azur Lane (mobile)
+Icons and Illustrations (outside the official game):
+Artist [url=https://www.pixiv.net/en/users/40341319]
+藤依しの[/url] : [url=https://www.pixiv.net/en/artworks/81356329]《いつもの3人》[/url]
+Artist [url=https://www.pixiv.net/en/users/5594793]
+Silver[/url] : [url=https://www.pixiv.net/en/artworks/74419197]《綾波》[/url]
+Artist [url=https://www.pixiv.net/en/users/801146]
+イコモチ[/url] : [url=https://www.pixiv.net/en/artworks/75636757]《夕立と時雨》[/url]
+Background Music:
+Azur Lane - Crosswave Original Soundtrack
+Others are extracted from the Azur Lane game.
+Source Code: https://github.com/KevinLiuxy/Azur-Lane-Sakura-Empire-Civilization-6

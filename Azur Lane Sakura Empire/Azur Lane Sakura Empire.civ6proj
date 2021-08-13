@@ -9,8 +9,7 @@
     <Teaser>LOC_MOD_AZUR_LANE_SAKURA_EMPIRE_TEASER</Teaser>
     <Description>LOC_MOD_AZUR_LANE_SAKURA_EMPIRE_DESCRIPTION</Description>
     <Authors>Kevin Liu</Authors>
-    <SpecialThanks>
-    </SpecialThanks>
+    <SpecialThanks>LOC_MOD_AZUR_LANE_SAKURA_EMPIRE_SPECIAL_THANKS</SpecialThanks>
     <AffectsSavedGames>true</AffectsSavedGames>
     <SupportsSinglePlayer>true</SupportsSinglePlayer>
     <SupportsMultiplayer>true</SupportsMultiplayer>
