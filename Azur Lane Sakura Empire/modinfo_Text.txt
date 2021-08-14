@@ -2,7 +2,7 @@
     <Text id="MOD_AZUR_LANE_SAKURA_EMPIRE">
       <en_US>Azur Lane · Sakura Empire Civilization Pack</en_US>
       <zh_Hans_CN>碧蓝航线·重樱 文明包</zh_Hans_CN>
-      <zh_Hant_HK>碧藍航線·重櫻 領袖包</zh_Hant_HK>
+      <zh_Hant_HK>碧藍航線·重櫻 文明包</zh_Hant_HK>
     </Text>
     <Text id="LOC_MOD_AZUR_LANE_SAKURA_EMPIRE_TEASER">
       <en_US>New Civilization and Leader - Ayanami, Yuudachi, Shigure, and Yukikaze</en_US>

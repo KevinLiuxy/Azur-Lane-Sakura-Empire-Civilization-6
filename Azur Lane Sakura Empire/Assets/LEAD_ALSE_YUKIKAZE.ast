@@ -187,7 +187,7 @@
 						<m_Name text="NEUTRAL_POSITIVE_A"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>6.500000</m_fDuration>
+						<m_fDuration>8.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -196,7 +196,7 @@
 								<m_FXName text="ALSE_YK_POSITIVE"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.250000</m_fStartTime>
+								<m_fStartTime>1.750000</m_fStartTime>
 								<m_fDuration>0.000000</m_fDuration>
 								<m_nTrackIndex>0</m_nTrackIndex>
 							</Element>
@@ -232,7 +232,7 @@
 						<m_Name text="NEUTRAL_POSITIVE_B"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>6.500000</m_fDuration>
+						<m_fDuration>8.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -241,7 +241,7 @@
 								<m_FXName text="ALSE_YK_POSITIVE"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.250000</m_fStartTime>
+								<m_fStartTime>1.750000</m_fStartTime>
 								<m_fDuration>0.000000</m_fDuration>
 								<m_nTrackIndex>0</m_nTrackIndex>
 							</Element>
@@ -277,7 +277,7 @@
 						<m_Name text="NEUTRAL_NEGATIVE_A"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>7.000000</m_fDuration>
+						<m_fDuration>8.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -322,7 +322,7 @@
 						<m_Name text="NEUTRAL_NEGATIVE_B"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>7.000000</m_fDuration>
+						<m_fDuration>8.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -367,7 +367,7 @@
 						<m_Name text="HAPPY_POSITIVE_A"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>6.500000</m_fDuration>
+						<m_fDuration>8.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -376,7 +376,7 @@
 								<m_FXName text="ALSE_YK_POSITIVE"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.250000</m_fStartTime>
+								<m_fStartTime>1.750000</m_fStartTime>
 								<m_fDuration>0.000000</m_fDuration>
 								<m_nTrackIndex>0</m_nTrackIndex>
 							</Element>
@@ -412,7 +412,7 @@
 						<m_Name text="HAPPY_POSITIVE_B"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>6.500000</m_fDuration>
+						<m_fDuration>8.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -421,7 +421,7 @@
 								<m_FXName text="ALSE_YK_POSITIVE"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.250000</m_fStartTime>
+								<m_fStartTime>1.750000</m_fStartTime>
 								<m_fDuration>0.000000</m_fDuration>
 								<m_nTrackIndex>0</m_nTrackIndex>
 							</Element>
@@ -457,7 +457,7 @@
 						<m_Name text="HAPPY_NEGATIVE_A"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>7.000000</m_fDuration>
+						<m_fDuration>8.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -502,7 +502,7 @@
 						<m_Name text="HAPPY_NEGATIVE_B"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>7.000000</m_fDuration>
+						<m_fDuration>8.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -547,7 +547,7 @@
 						<m_Name text="UNHAPPY_POSITIVE_A"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>6.500000</m_fDuration>
+						<m_fDuration>8.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -556,7 +556,7 @@
 								<m_FXName text="ALSE_YK_POSITIVE"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.250000</m_fStartTime>
+								<m_fStartTime>1.750000</m_fStartTime>
 								<m_fDuration>0.000000</m_fDuration>
 								<m_nTrackIndex>0</m_nTrackIndex>
 							</Element>
@@ -592,7 +592,7 @@
 						<m_Name text="UNHAPPY_POSITIVE_B"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>6.500000</m_fDuration>
+						<m_fDuration>8.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -601,7 +601,7 @@
 								<m_FXName text="ALSE_YK_POSITIVE"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text=""/>
-								<m_fStartTime>1.250000</m_fStartTime>
+								<m_fStartTime>1.750000</m_fStartTime>
 								<m_fDuration>0.000000</m_fDuration>
 								<m_nTrackIndex>0</m_nTrackIndex>
 							</Element>
@@ -637,7 +637,7 @@
 						<m_Name text="UNHAPPY_NEGATIVE_A"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>7.000000</m_fDuration>
+						<m_fDuration>8.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>
@@ -682,7 +682,7 @@
 						<m_Name text="UNHAPPY_NEGATIVE_B"/>
 						<m_Description text=""/>
 						<m_AnimationName text=""/>
-						<m_fDuration>7.000000</m_fDuration>
+						<m_fDuration>8.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
 								<m_eType>SOUND</m_eType>

@@ -7,44 +7,44 @@
 			Text="I'm... Ayanami. I am often called the &quot;Demon&quot;. I am not afraid of combat. Though just a destroyer, I can fight any enemy..."
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text="Would you like to visit our city nearby? The tourist guild is... here."
+			Text="Would you like to visit our city nearby? The tourist guide is... here."
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AZUR_LANE_AYANAMI_ANY"
 			Text="Let's head there together."
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text="Despite our cities may have very different cultures... I'd like to hear. Can you introduce me to your capital as well?"
+			Text="Despite our cities may have very different cultures... I'd like to know more about you and your cities. How is it like in your empire?"
 />
 		<!--deligation-->
 		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text="Presents from you... I'm a bit looking forward to."
+			Text="Presents from you... I am a bit looking forward to."
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AZUR_LANE_AYANAMI_ANY"
 			Text="Gifts? Uuu... I don't really get it..."
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text="My envoys have brought you some presents. I hope you will find them to be... pretty cool. Would you be open to our... friendliness?"
+			Text="My envoys have brought you some presents. I hope you will find them to be... pretty cool. Would you be opened to our... friendliness?"
 />
 		<!--friendship-->
 		<!--***voiced***-->
 		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text="From now on Ayanami is no longer alone... because I know you'll always be at my side when I needs you."
+			Text="Now, I know that I'm not alone anymore... because I know you'll always be at my side when I needs you."
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_AYANAMI_ANY"
 			Text="I don't really want to get any closer..."
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text="How should I say this... Um, having you here, is very fun. I would like to always stay with you, together."
+			Text="How should I say this... Um, having you here, is very fun. Therefore, I would like to always stay with you, together."
 />
 		<!--***voiced***-->
 		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_AYANAMI_ANY"
 			Text="{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_AYANAMI_ANY}"
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text="Being ignored like that... I'm a bit lonely..."
+			Text="If you leave me alone like that... I'll be hurt..."
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text="I'll follow your steps closely wherever you go... shall we forge an alliance?"
+			Text="I'll follow your steps closely to wherever you go... shall we forge an alliance?"
 />
 		<!--denounce-->
 		<!--***voiced***-->
@@ -62,7 +62,7 @@
 />
 		<!--***voiced***-->
 		<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text="Be prepared for the power of Ayanami and her companions... Bear witness to the true power of the &quot;Demon&quot;!"
+			Text="I'll show you the strength... of Ayanami and her friends! Bear witness to the true power of the &quot;Demon&quot;!"
 />
 		<!--***voiced***-->
 		<Row Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AZUR_LANE_AYANAMI_ANY"
@@ -81,7 +81,7 @@
 />
 		<!--***voiced***-->
 		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text="If Ayanami is being ignored, wit will be a little... sad. This is not a gentleman's behavior."
+			Text="If Ayanami is being ignored, it will be a little... sad. It is unbefitting to keep a lady waiting..."
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_AZUR_LANE_AYANAMI_REASON_ANY"
 			Text="(Your civilization is aggressive in military and have low happiness)"
@@ -97,7 +97,7 @@
 />
 		<!--troops-->
 		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AZUR_LANE_AYANAMI_ANY"
-			Text="We have never slack of training... So if the battlefields need me, I can be ready at any time."
+			Text="We have never slack off training... So if the battlefield needs me, I can be ready at any time."
 />
 
 		<!--==============================================================-->
@@ -113,7 +113,7 @@
 			Text="Woof? It's time to play outside!?"
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AZUR_LANE_YUUDACHI_ANY"
-			Text="Yuudachi's wonderful capital have exquisite meat served day and night! What are the special dishes of your capital city?"
+			Text="Yuudachi's wonderful capital has exquisite meat served day and night! What are the special dishes of your capital city?"
 />
 		<!--deligation-->
 		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AZUR_LANE_YUUDACHI_ANY"
@@ -128,7 +128,7 @@
 		<!--friendship-->
 		<!--***voiced***-->
 		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_YUUDACHI_ANY"
-			Text="Although I don't get complicated things, but one thing I know for sure is I like you the most! If anyone were to hurt you they'll have to ask my main guns first!"
+			Text="Although I don't get complicated things, but one thing I know for sure is I like you the most! Anyone who dares to try messing with you will first have to argue with my cannons!"
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_YUUDACHI_ANY"
 			Text="Emm... did I not hear that right?"
@@ -141,10 +141,10 @@
 			Text="{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_YUUDACHI_ANY}"
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_YUUDACHI_ANY"
-			Text="My sisters will laugh at me for this and it's your fault! What are you gonna do to fix it!"
+			Text="My sisters will laugh at me for this and it's your fault! What are you gonna do to fix it!?"
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_AZUR_LANE_YUUDACHI_ANY"
-			Text="Let's allies! It would be awfully nice that way. Plus I'm super reliable!"
+			Text="Let's become allies! It would be awfully nice that way. Plus I'm super reliable!"
 />
 		<!--denounce-->
 		<!--***voiced***-->
@@ -207,23 +207,23 @@
 			Text="I'm Shigure, a Shiratsuyu-class destroyer. I don't wanna brag, but I've got the Goddess of Luck watching over me~ Heheh, it's about time people acknowledged luck is part of one's strength."
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text="You're a lucky one to meet me in this place~ In that case, let me introduce you to our nearest city. Remember to thank me for this!"
+			Text="You're such a lucky one to meet me in this place~ In that case, let me introduce you to our nearest city. Remember to thank me for this!"
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AZUR_LANE_SHIGURE_ANY"
 			Text="Then let's hurry up and go get ready~"
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text="Luck comes when you least expect it, you know? For example, Shigure just happens to be in the mood of exchanging capital information with you."
+			Text="Luck comes when you least expect it, you know? For example, Shigure just happens to be in the mood of exchanging some cities' information with you."
 />
 		<!--deligation-->
 		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AZUR_LANE_SHIGURE_ANY"
 			Text="Fu Fu Fu~ Even without guessing, you should know the great Shigure will welcome them, right?"
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text="Humph, you're definitely hiding Wretched ideas behind this, aren't you~"
+			Text="Heheh~! Well, well, what do you think you're doing? Com-man-der?"
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text="Be thankful that you're receiving greetings and gifts from the great Shigure! Make sure to sing my praises while you savor it~[NEWLINE]My intentions? Hehe... Have a guess~"
+			Text="Be thankful that you're receiving greetings and gifts from the mighty Shigure! Make sure to sing my praises while you savor it~[NEWLINE]My intentions? Heheh... Have a guess~"
 />
 		<!--friendship-->
 		<!--***voiced***-->
@@ -231,7 +231,7 @@
 			Text="Heheh, silly Commander, you can rely on me as much as you want. I'll do anything you want~!"
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text="What are you doing? The great Shigure is not as easy to get along with like Yukikaze!"
+			Text="What are you doing? The great Shigure is not as easy to get along with like that dumb Yukikaze!"
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AZUR_LANE_SHIGURE_ANY"
 			Text="The gods seem to really love me, so hurry up and shower me with friendship!"
@@ -258,7 +258,7 @@
 		<!--warfare-->
 		<!--***voiced***-->
 		<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text="What are you doing?? Haha, interesting, the big idiot who knows he will lose yet still begs for a punch in the face. Come and bear the true power of the great Shigure!"
+			Text="What are you doing?? Haha, interesting, the dummy who knows he will lose yet still begs for a punch in the face. Come and bear the true power of the mighty Shigure!"
 />
 		<!--***voiced***-->
 		<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_AZUR_LANE_SHIGURE_ANY"
@@ -274,14 +274,14 @@
 		<!--agenda-->
 		<!--***voiced***-->
 		<Row Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text="Heheh, you can always rely on my strength and good fortune like this in the future, you lucky little idiot~"
+			Text="Heheh, aren't you glad that you get to rely on me more, you lucky idiot of a commander~"
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_AZUR_LANE_SHIGURE_REASON_ANY"
 			Text="(You have established a close relationship with Shigure)"
 />
 		<!--***voiced***-->
 		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text="W-Wait! Don't just leave me here alone and ignore me... I have been waiting..."
+			Text="H-hey! Don't you leave me hanging over here! I have always been waiting..."
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_AZUR_LANE_SHIGURE_REASON_ANY"
 			Text="(You are far away from Shigure and didn't send her a delegation)"
@@ -289,7 +289,7 @@
 		<!--make deals-->
 		<!--***voiced***-->
 		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text="Mhm, this is a smart decision."
+			Text="Mhm, this is a smart decision!"
 />
 		<!--***voiced***-->
 		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_AZUR_LANE_SHIGURE_ANY"
@@ -297,7 +297,7 @@
 />
 		<!--troops-->
 		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AZUR_LANE_SHIGURE_ANY"
-			Text="Let's play a game. I'll give you 15 turns and if you withdraw all your troops from my border then I can maybe forgive you~"
+			Text="Let's play a game. I'll give you 15 turns and if you withdraw all your troops from my border then you may have my forgiveness~"
 />
 
 		<!--==============================================================-->
@@ -307,7 +307,7 @@
 			Text="Listen up! I'm the noble, lucky, invincible, magni... magnici... the 8th ship of the Kagerou-class, Yukikaze the Great! Ahem! I shall be your lucky star from now on, so be grateful! Wa ha ha!"
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text="Do you want to visit out nearest city? Oh by the way, I'll only show you the path, and you'll have to manage yourself after that."
+			Text="Do you want to visit out nearest city? Oh by the way, I'll only show you the path and you'll have to manage yourself after that."
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AZUR_LANE_YUKIKAZE_ANY"
 			Text="A wonderful response. This trip better be worthy of my time!"
@@ -328,7 +328,7 @@
 		<!--friendship-->
 		<!--***voiced***-->
 		<Row Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text="Since you asked so earnestly, Yukikaze the Great shall grant you a favor and allow you to carry her! It's a once in a lifetime opportunity!"
+			Text="Since you asked so earnestly, Yukikaze the Great shall grant you a favor and allow you to hug her! It's a once in a lifetime opportunity!"
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AZUR_LANE_YUKIKAZE_ANY"
 			Text="Humph~ What a naive thought..."
@@ -356,7 +356,7 @@
 		<!--warfare-->
 		<!--***voiced***-->
 		<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text="Eep!! You scared me to death!... Grrrr... To hell with you!!"
+			Text="Funyaaaagh! Th-that scared me half to death!! Grrrr... To hell with you!"
 />		<!--***voiced***-->
 		<Row Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_AZUR_LANE_YUKIKAZE_ANY"
 			Text="Yukikaze the Great is here! Losers should hurry up and scram! Witness the true power of Yukikaze the Great! Wa ha ha!"
@@ -376,7 +376,7 @@
 			Text="(You are weak in Science and Culture)"
 />		<!--***voiced***-->
 		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text="Grrrr, even more popular than me... No, no way... But if you think Yukikaze only wants to have fun then you are dead wrong!"
+			Text="Grrrr, even more popular than me... No, no way... But if you think Yukikaze the Great is simply here for fun and games, you'd be dead wrong!"
 />
 		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_AZUR_LANE_YUKIKAZE_REASON_ANY"
 			Text="(You are leading in Science and Culture)"
@@ -387,7 +387,7 @@
 			Text="Hmph... Yukikaze the Great is only giving you the time of day because she's in a good mood!"
 />		<!--***voiced***-->
 		<Row Language="en_US" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_AZUR_LANE_YUKIKAZE_ANY"
-			Text="Well, are you not envious? But it's such a pity!!"
+			Text="Well, are you jealous? Too~ bad~!"
 />
 		<!--troops-->
 		<Row Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AZUR_LANE_YUKIKAZE_ANY"
