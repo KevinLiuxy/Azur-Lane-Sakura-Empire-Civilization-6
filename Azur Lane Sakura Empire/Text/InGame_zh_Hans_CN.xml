@@ -195,7 +195,7 @@
 			Text="所在城市 [ICON_Citizen] 人口增长速度 +15%，每个公民可带来 +1 [ICON_Science] 科技值。此城训练海上战斗单位时 +75% [ICON_Production] 生产力。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_KAIGUN_KOSHO_NAVAL_COMBAT_DESCRIPTION"
-			Text="从每座{LOC_BUILDING_KAIGUN_KOSHO_NAME}处获得 +1 [ICON_Strength] 战斗力。"/>
+			Text="每座{LOC_BUILDING_KAIGUN_KOSHO_NAME} +1 [ICON_Strength] 战斗力。"/>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_ALSE_DISTRICT_COAST_SCIENCE"
 			Text="+{1_num} [ICON_Science] 科技值来自相邻的水域。（{LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME}）"/>

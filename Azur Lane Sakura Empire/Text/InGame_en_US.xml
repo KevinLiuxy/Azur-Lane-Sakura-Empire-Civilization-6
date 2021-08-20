@@ -6,7 +6,7 @@
 		<Replace Language="en_US" Tag="LOC_LEADER_AZUR_LANE_SHIGURE_NAME" Text="Shigure"/>
 		<Replace Language="en_US" Tag="LOC_LEADER_AZUR_LANE_YUKIKAZE_NAME" Text="Yukikaze"/>
 
-		<Row Language="en_US" Tag="LOC_UNIT_BULIN_MK1_NAME" Text="Universial Bulin"/>
+		<Row Language="en_US" Tag="LOC_UNIT_BULIN_MK1_NAME" Text="Universal Bulin"/>
 		<Row Language="en_US" Tag="LOC_UNIT_BULIN_MK2_NAME" Text="Prototype Bulin MKII"/>
 
 		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BULIN_MK1_DESCRIPTION"
@@ -172,7 +172,7 @@
 
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_SHOPKEEPER_KANBAN_NAME" Text="Shopkeeper"/>
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_SHOPKEEPER_KANBAN_DESCRIPTION"
-			Text="Gain a special unit &quot;Universial Bulin&quot; or &quot;Prototype Bulin&quot; for this and each following promotion Akashi receives."/>
+			Text="Gain a special unit &quot;Universal Bulin&quot; or &quot;Prototype Bulin&quot; for this and each following promotion Akashi receives."/>
 
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_LOGISTICS_REPAIR_NAME" Text="Logistics Repair"/>
 		<Row Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_LOGISTICS_REPAIR_DESCRIPTION"
@@ -195,7 +195,7 @@
 			Text="Increases city growth by 15%. +1 [ICON_Science] Science per turn for each [ICON_Citizen] Citizen in this city. +75% [ICON_Production] Production towards all Naval units in the city."/>
 
 		<Row Language="en_US" Tag="LOC_KAIGUN_KOSHO_NAVAL_COMBAT_DESCRIPTION"
-			Text="+1 [ICON_Strength] Combat Strength from each {LOC_BUILDING_KAIGUN_KOSHO_NAME}."/>
+			Text="+1 [ICON_Strength] from {LOC_BUILDING_KAIGUN_KOSHO_NAME}."/>
 
 		<Row Language="en_US" Tag="LOC_ALSE_DISTRICT_COAST_SCIENCE"
 			Text="+{1_num} [ICON_Science] Science from the adjacent water {1_Num : plural 1?tile; other?tiles;}. ({LOC_TRAIT_CIVILIZATION_SAKURA_EMPIRE_NAME})"/>

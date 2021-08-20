@@ -41,6 +41,8 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_NAME"
 			Text="所罗门的狂犬"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_DESCRIPTION"
+			Text="军事单位夹击加成翻倍。牧场、营地和渔船 +1 [ICON_Food] 食物、+1 [ICON_Production] 生产力。"/>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_DESCRIPTION_RnF"
 			Text="军事单位夹击加成翻倍，掠夺和海岸扫荡的收益 +30%。牧场、营地和渔船 +1 [ICON_Food] 食物、+1 [ICON_Production] 生产力。"/>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_DESCRIPTION_GS"
 			Text="军事单位夹击加成翻倍，掠夺和海岸扫荡的收益 +30%。牧场、营地和渔船 +1 [ICON_Food] 食物、+1 [ICON_Production] 生产力。[NEWLINE]拥有擅长作战后勤的专属特色总督。"/>

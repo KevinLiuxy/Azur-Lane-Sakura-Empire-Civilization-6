@@ -41,6 +41,8 @@
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_NAME"
 			Text="The Nightmare of Solomon"/>
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_DESCRIPTION"
+			Text="Units +100% Flanking Bonus in combat. Pastures, Camps, and Fishing Boats +1 [ICON_Food] Food and +1 [ICON_Production] Production."/>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_DESCRIPTION_RnF"
 			Text="Units +100% Flanking Bonus in combat, +30% yields from pillaging and coastal raids. Pastures, Camps, and Fishing Boats +1 [ICON_Food] Food and +1 [ICON_Production] Production."/>
 		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_SOLOMON_NIGHTMARE_DESCRIPTION_GS"
 			Text="Units +100% Flanking Bonus in combat, +30% yields from pillaging and coastal raids. Pastures, Camps, and Fishing Boats +1 [ICON_Food] Food and +1 [ICON_Production] Production.[NEWLINE]Has an exclusive unique Governor with logistics support abilities."/>

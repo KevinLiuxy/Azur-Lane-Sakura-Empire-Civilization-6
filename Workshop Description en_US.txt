@@ -27,7 +27,7 @@ And as usual, thanks for continuously supporting my Mod projects. I really could
 This is a problem of the base game. Leaders from in-game civs also experience the same issue.
 
 [*][b]Music Stopped until Next Era Begins?[/b]
-This problem is caused by other Mods. Please use this Mod together with original civilizations in the game, as well as Mod civilizations that have configured music properly (like my other Mods and [url=steamcommunity.com/profiles/76561198181931490]姥鲨[/url], [url=steamcommunity.com/profiles/76561198402598762]Dwughjsd[/url]'s Mods). If a Mod civ on the map didn't implement music in the correct way (such as some of other Azur Lane Mods), the BGM will get stuck after encountered that mod civ on the map.
+This problem is caused by other Mods. Please use this Mod together with original civilizations in the game, as well as Mod civilizations that have configured music properly (like my other Mods and [url=steamcommunity.com/profiles/76561198181931490]姥鲨[/url], [url=steamcommunity.com/profiles/76561198402598762]Dwughjsd[/url]'s Mods). If a Mod civ on the map didn't implement music in the correct way, the BGM will get stuck after encountered that mod civ on the map.
 
 [*][b]No Governor Akashi nor Bulins in Game?[/b]
 These are contents enabled by DLC Gathering Storm. Besides, you can't train Bulins. They are only given as gifts from Governor Akashi.[/list]
