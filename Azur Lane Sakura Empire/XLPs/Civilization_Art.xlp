@@ -202,23 +202,23 @@
 			<m_ObjectName text="ICON_CIVILIZATION_AL_SAKURA_EMPIRE_80"/>
 		</Element>
 		<Element>
-			<m_EntryID text="LOADING_FOREGROUND_AL_AYANAMI"/>
+			<m_EntryID text="LEADER_AZUR_LANE_AYANAMI_NEUTRAL"/>
 			<m_ObjectName text="LOADING_FOREGROUND_AL_AYANAMI"/>
 		</Element>
 		<Element>
-			<m_EntryID text="LOADING_FOREGROUND_AL_SHIGURE"/>
+			<m_EntryID text="LEADER_AZUR_LANE_SHIGURE_NEUTRAL"/>
 			<m_ObjectName text="LOADING_FOREGROUND_AL_SHIGURE"/>
 		</Element>
 		<Element>
-			<m_EntryID text="LOADING_FOREGROUND_AL_YUKIKAZE"/>
+			<m_EntryID text="LEADER_AZUR_LANE_YUKIKAZE_NEUTRAL"/>
 			<m_ObjectName text="LOADING_FOREGROUND_AL_YUKIKAZE"/>
 		</Element>
 		<Element>
-			<m_EntryID text="LOADING_FOREGROUND_AL_YUUDACHI"/>
+			<m_EntryID text="LEADER_AZUR_LANE_YUUDACHI_NEUTRAL"/>
 			<m_ObjectName text="LOADING_FOREGROUND_AL_YUUDACHI"/>
 		</Element>
 		<Element>
-			<m_EntryID text="LOADING_BACKGROUND_SAKURA_EMPIRE"/>
+			<m_EntryID text="LEADER_AZUR_LANE_AYANAMI_BACKGROUND"/>
 			<m_ObjectName text="LOADING_BACKGROUND_SAKURA_EMPIRE"/>
 		</Element>
 		<Element>
@@ -432,6 +432,18 @@
 		<Element>
 			<m_EntryID text="MOMENT_UNIT_BULIN_MK2"/>
 			<m_ObjectName text="MOMENT_UNIT_BULIN_MK2"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_AZUR_LANE_SHIGURE_BACKGROUND"/>
+			<m_ObjectName text="LOADING_BACKGROUND_SAKURA_EMPIRE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_AZUR_LANE_YUKIKAZE_BACKGROUND"/>
+			<m_ObjectName text="LOADING_BACKGROUND_SAKURA_EMPIRE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_AZUR_LANE_YUUDACHI_BACKGROUND"/>
+			<m_ObjectName text="LOADING_BACKGROUND_SAKURA_EMPIRE"/>
 		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>

@@ -1567,6 +1567,49 @@
 		<Element>
 			<m_CollectionName text="UnitTintTypes"/>
 			<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Colors"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+						<Element>
+							<m_Fields>
+								<m_Values>
+									<Element class="AssetObjects..RGBValue">
+										<m_r>198.000000</m_r>
+										<m_g>86.000000</m_g>
+										<m_b>98.000000</m_b>
+										<m_ParamName text="Color"/>
+									</Element>
+								</m_Values>
+							</m_Fields>
+							<m_ChildCollections/>
+							<m_Name text="Azur Lane Sakura Empire_Units_Colors"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values>
+									<Element class="AssetObjects..RGBValue">
+										<m_r>237.000000</m_r>
+										<m_g>227.000000</m_g>
+										<m_b>222.000000</m_b>
+										<m_ParamName text="Color"/>
+									</Element>
+								</m_Values>
+							</m_Fields>
+							<m_ChildCollections/>
+							<m_Name text="Azur Lane Sakura Empire_Units_Colors001"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_AZUR_LANE_SE"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
 		</Element>
 		<Element>
 			<m_CollectionName text="UnitGlobals"/>
