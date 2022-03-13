@@ -278,6 +278,10 @@
 			<m_ObjectName text="ICON_DISTRICT_SAKURA_EMPIRE_JINJA_80"/>
 		</Element>
 		<Element>
+			<m_EntryID text="FontIcon_Jinja"/>
+			<m_ObjectName text="FontIcon_Jinja"/>
+		</Element>
+		<Element>
 			<m_EntryID text="ICON_UNIT_PORTRAIT_BULIN_MK1_200"/>
 			<m_ObjectName text="ICON_UNIT_PORTRAIT_BULIN_MK1_200"/>
 		</Element>
